@@ -185,7 +185,9 @@
     "trip": "!UW.yye1fxo",
     "text": ">>548157\nRe read drops.\nhttp:// about.att.com/story/consumers_need_an_internet_bill_of_rights.html\nQ\n",
     "images": [],
-    "references": ["8chan_qresearch_548157"]
+    "references": [
+      "8chan_qresearch_548157"
+    ]
   },
   {
     "userId": "7c85b7",
@@ -210,7 +212,9 @@
     "trip": "!UW.yye1fxo",
     "text": ">>548166\nWhy do so-called Patriots challenge this?\nCareful who you follow.\nQ\n",
     "images": [],
-    "references": ["8chan_qresearch_548166"]
+    "references": [
+      "8chan_qresearch_548166"
+    ]
   },
   {
     "userId": "245782",
@@ -223,6 +227,19 @@
     "name": "Q",
     "trip": "!UW.yye1fxo",
     "text": "[Roasted]\nQ\n",
+    "images": []
+  },
+  {
+    "userId": "f879d5",
+    "number": 554846,
+    "timestamp": 1520231993,
+    "threadId": 554541,
+    "board": "qresearch",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "BOOM\n        BOOM\n                BOOM\n                        BOOM\nQ\n",
     "images": []
   }
 ]

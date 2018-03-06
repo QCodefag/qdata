@@ -540,5 +540,51 @@
     "references": [
       "8chan_qresearch_567386"
     ]
+  },
+  {
+    "number": 567502,
+    "timestamp": 1520352283,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3c553f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>567454\nThese peo&gt;&gt;567493\nple are stupid.\nWait for Russia/China reports.\nSabotage.\nInvestigation.\nStrike 99999999.\n\nQ\n",
+    "references": [
+      "8chan_qresearch_567454"
+    ]
+  },
+  {
+    "number": 567521,
+    "timestamp": 1520352382,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3c553f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "1st BOOM revealed.\nDid you catch it?\nThe last will be magical.\nQ\n"
+  },
+  {
+    "number": 567454,
+    "timestamp": 1520352044,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9f1a01",
+    "name": "Anonymous",
+    "text": ">>567408\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/0d688fb6941033c3ba9e2b5a0241be38126373145b4784c157bcf72c38d152ec.png",
+        "filename": "kobe-steel.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_567408"
+    ]
   }
 ]

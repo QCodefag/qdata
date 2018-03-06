@@ -636,5 +636,51 @@
     "userId": "4e2752",
     "name": "Anonymous",
     "text": "Drop the video! Play it in times square.\n"
+  },
+  {
+    "number": 567764,
+    "timestamp": 1520353639,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3c553f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "Logic says they simply would not report it.\nTotal viewers limited.\nMessage controlled.\nTruth shadows.\nTrust the PLAN.\nQ\n"
+  },
+  {
+    "number": 567803,
+    "timestamp": 1520353838,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3c553f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>567733\nWait &amp; see.\nRe_read drops - you have more than you know.\nEyes in the SKY.\nSUM of ALL FEARS //\\\\\nQ\n",
+    "references": [
+      "8chan_qresearch_567733"
+    ]
+  },
+  {
+    "number": 567733,
+    "timestamp": 1520353462,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "897bbe",
+    "name": "Anonymous",
+    "text": ">>567521\n?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1e90dc92151942ae14333825cee8e1e478bf04f589fce556096258f1ae8bbdb9.jpeg",
+        "filename": "EF3D1B1B-2E68-4FD4-814F-E….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_567521"
+    ]
   }
 ]

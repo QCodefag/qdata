@@ -512,5 +512,33 @@
     "name": "Q",
     "trip": "!UW.yye1fxo",
     "text": "Do you believe in coincidences?\nOnly the beginning.\nhttps:// mobile.reuters.com/article/amp/idUSKBN1GH2SM?__twitter_impression=true\nQ\n"
+  },
+  {
+    "number": 567440,
+    "timestamp": 1520351953,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3c553f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>567393\nTrust the plan.\nQ\n",
+    "references": [
+      "8chan_qresearch_567393"
+    ]
+  },
+  {
+    "number": 567393,
+    "timestamp": 1520351682,
+    "threadId": 567140,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7c6e17",
+    "name": "Anonymous",
+    "text": ">>567386\nHow did Q know they were going to be in front of that picture this time?\n",
+    "references": [
+      "8chan_qresearch_567386"
+    ]
   }
 ]

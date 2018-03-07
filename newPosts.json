@@ -835,5 +835,33 @@
     "name": "Q",
     "trip": "!UW.yye1fxo",
     "text": "Who controls social media?\nWho performs in a circus?\nWho wrote the code to embed and censor across multiple platforms?\nWhy Russia?\nWhy China?\nWhy HK?\nWhy did ES (himself) arrange a C-link in multiple countries? \nLearn.\nQ\n"
+  },
+  {
+    "number": 580431,
+    "timestamp": 1520456581,
+    "threadId": 579816,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4776ee",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>580412\nThe FATHER is who?\nQ\n",
+    "references": [
+      "8chan_qresearch_580412"
+    ]
+  },
+  {
+    "number": 580412,
+    "timestamp": 1520456523,
+    "threadId": 579816,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "18071f",
+    "name": "Anonymous",
+    "text": ">>580366\n\nSnowden's girlfriend performs in a circus.\nAlso, John Le Carre's George Smiley worked out of \"The Circus.\"\n",
+    "references": [
+      "8chan_qresearch_580366"
+    ]
   }
 ]

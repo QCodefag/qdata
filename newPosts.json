@@ -974,5 +974,33 @@
     "references": [
       "8chan_qresearch_592689"
     ]
+  },
+  {
+    "number": 592798,
+    "timestamp": 1520553174,
+    "threadId": 592516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8744ac",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>592731\n+ deliberate performance issues to impact military / infrastructure. \nWe were sold out.\nYou have so much more than you know.\nQ\n",
+    "references": [
+      "8chan_qresearch_592731"
+    ]
+  },
+  {
+    "number": 592731,
+    "timestamp": 1520552914,
+    "threadId": 592516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "83f0b1",
+    "name": "Anonymous",
+    "text": ">>592689\n\nWas necessary. China produces 10x as much steel as US. What if war breaks out? \n\nMatter of national security, geopolitics …to prevent war, peace trough strength.\n",
+    "references": [
+      "8chan_qresearch_592689"
+    ]
   }
 ]

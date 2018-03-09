@@ -1436,5 +1436,33 @@
     "name": "Q",
     "trip": "!UW.yye1fxo",
     "text": "DhytcDFbF5874/37875\nQ\n"
+  },
+  {
+    "number": 605255,
+    "timestamp": 1520638371,
+    "threadId": 604967,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6fa57d",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>605232\n24hrs to respond.\nHe did, smartly.\nPublic view.\nQ\n",
+    "references": [
+      "8chan_qresearch_605232"
+    ]
+  },
+  {
+    "number": 605232,
+    "timestamp": 1520638294,
+    "threadId": 604967,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0957a7",
+    "name": "Anonymous",
+    "text": ">>605197\n\nTwatter in receivership in 24 days?\nShut em down!\n",
+    "references": [
+      "8chan_qresearch_605197"
+    ]
   }
 ]

@@ -1002,5 +1002,30 @@
     "references": [
       "8chan_qresearch_592689"
     ]
+  },
+  {
+    "number": 592913,
+    "timestamp": 1520553567,
+    "threadId": 592516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8744ac",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>592845\nNO DEALS!\nWe work for you.\nWe listen to you.\nYou pushed the IBOR and immediately POTUS began to comment/take action re: social media.\nPLAY THE GAME WITH US.\nQ\n",
+    "references": [
+      "8chan_qresearch_592845"
+    ]
+  },
+  {
+    "number": 592845,
+    "timestamp": 1520553362,
+    "threadId": 592516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "19bdf7",
+    "name": "Anonymous",
+    "text": "Q, please tell us it's still NO DEALS! \nAnd that this people will face JUSTICE!! Please just say YES. They will. I pray so hard every night!\n"
   }
 ]

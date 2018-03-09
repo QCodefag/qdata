@@ -1027,5 +1027,33 @@
     "userId": "19bdf7",
     "name": "Anonymous",
     "text": "Q, please tell us it's still NO DEALS! \nAnd that this people will face JUSTICE!! Please just say YES. They will. I pray so hard every night!\n"
+  },
+  {
+    "number": 593033,
+    "timestamp": 1520553880,
+    "threadId": 592516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8744ac",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>592934\nEverything has meaning.\nThis is not a game.\nLearn to play the game.\nQ\n",
+    "references": [
+      "8chan_qresearch_592934"
+    ]
+  },
+  {
+    "number": 592934,
+    "timestamp": 1520553617,
+    "threadId": 592516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "477eae",
+    "name": "Anonymous",
+    "text": ">>592913\nBEST GAME EVER BOSS!!!\n> TV Time!!!\n",
+    "references": [
+      "8chan_qresearch_592913"
+    ]
   }
 ]

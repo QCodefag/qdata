@@ -1221,5 +1221,42 @@
     "name": "Q",
     "trip": "!UW.yye1fxo",
     "text": "@Snowden\n24 Twitter.\nA/B or C.\nWe can take you anytime.\nQ\n"
+  },
+  {
+    "number": 598581,
+    "timestamp": 1520581270,
+    "threadId": 597920,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "afa548",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>598223\nWhen we’re done he’ll claim Kenyan citizenship as a way to escape.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/d21c275d9b4c3e3712159dc335acd85a445ea44f046ed73d53167e874bf30ad4.png",
+        "filename": "CC1B1FD7-8B70-4CEB-A4F7-F5….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_598223"
+    ]
+  },
+  {
+    "number": 598223,
+    "timestamp": 1520578098,
+    "threadId": 597920,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "853fdd",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/fffcf7b989a8bd73304c9821894c19c349f5d696b100aa2ddb9c115e45327be9.jpg",
+        "filename": "0d4caa14a93088e923034ab749….jpg"
+      }
+    ]
   }
 ]

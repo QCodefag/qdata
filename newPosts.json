@@ -1752,5 +1752,48 @@
     "userId": "d89d4d",
     "name": "Anonymous",
     "text": "Just because I'm a parent - Q, are all operators safe &amp; healthy?\nPraying every day.\n"
+  },
+  {
+    "number": 614093,
+    "timestamp": 1520708758,
+    "threadId": 613619,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5b7643",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>613796\nYou are learning.\nHow many coincidences before it becomes mathematically impossible?\nWait until you learn who has been talking to you here.\nQ\n",
+    "references": [
+      "8chan_qresearch_613796"
+    ]
+  },
+  {
+    "number": 614101,
+    "timestamp": 1520708808,
+    "threadId": 613619,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5b7643",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "Guns are safe.\nStop falling for FAKE NEWS.\nQ\n"
+  },
+  {
+    "number": 613796,
+    "timestamp": 1520707233,
+    "threadId": 613619,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "478545",
+    "name": "Anonymous",
+    "text": "I swear Trump is killing me here. HAHA He keeps putting out clues he has already talked to Kim\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/476b0bd67308e94678f3ddeb069ebdc32fd88be18147261624c965b2eedc52dc.png",
+        "filename": "NK Trump.PNG"
+      }
+    ]
   }
 ]

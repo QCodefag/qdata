@@ -1519,5 +1519,33 @@
     "references": [
       "8chan_qresearch_612722"
     ]
+  },
+  {
+    "number": 612870,
+    "timestamp": 1520703586,
+    "threadId": 612088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b452a9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>612799\nReview Congressional investigation.\nRe_read drops PP.\nWe are working to END.\nEVIL.\nNot as it appears.\nQ\n",
+    "references": [
+      "8chan_qresearch_612799"
+    ]
+  },
+  {
+    "number": 612799,
+    "timestamp": 1520703276,
+    "threadId": 612088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ba47e4",
+    "name": "Anonymous",
+    "text": ">>612417\n\n<span class=\"detected\">(((Planned Parenthood)))</span>\n",
+    "references": [
+      "8chan_qresearch_612417"
+    ]
   }
 ]

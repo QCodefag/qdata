@@ -1693,5 +1693,39 @@
     "references": [
       "8chan_qresearch_613082"
     ]
+  },
+  {
+    "number": 613229,
+    "timestamp": 1520705076,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>613193\nWe are saving Israel for last.\nVery specific reason not mentioned a single time.\nQ\n",
+    "references": [
+      "8chan_qresearch_613193"
+    ]
+  },
+  {
+    "number": 613193,
+    "timestamp": 1520704942,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "436341",
+    "name": "Anonymous",
+    "text": ">>613129\nWhat about Awan.\nIs Israel involved?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/671668ff3e9131f0dde92a7339a5a478b3dd5d3f598da4d45c8960e9168df1af.jpeg",
+        "filename": "C8F91EAD-51C7-47FA-96C5-C….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_613129"
+    ]
   }
 ]

@@ -1727,5 +1727,30 @@
     "references": [
       "8chan_qresearch_613129"
     ]
+  },
+  {
+    "number": 613352,
+    "timestamp": 1520705476,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>613295\nWe appreciate all of the prayers.\nWe really do.\nThank you.\nFor GOD &amp; COUNTRY (&amp; WORLD).\nQ\n",
+    "references": [
+      "8chan_qresearch_613295"
+    ]
+  },
+  {
+    "number": 613295,
+    "timestamp": 1520705294,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d89d4d",
+    "name": "Anonymous",
+    "text": "Just because I'm a parent - Q, are all operators safe &amp; healthy?\nPraying every day.\n"
   }
 ]

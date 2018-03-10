@@ -1940,5 +1940,32 @@
     "references": [
       "8chan_qresearch_616618"
     ]
+  },
+  {
+    "number": 616792,
+    "timestamp": 1520718452,
+    "threadId": 616682,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dcca2c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "POTUS’ recent Tweet relevant here.\nEU.\nEnough is enough.\nShe was warned.\nQ\n"
+  },
+  {
+    "number": 616806,
+    "timestamp": 1520718527,
+    "threadId": 616682,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dcca2c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>616792\n10 to comply.\nChoice is yours.\nQ+\n",
+    "references": [
+      "8chan_qresearch_616792"
+    ]
   }
 ]

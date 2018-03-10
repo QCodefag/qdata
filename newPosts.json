@@ -1609,5 +1609,89 @@
     "userId": "d1b392",
     "name": "Anonymous",
     "text": "Australia is part of FIVE EYES!\n"
+  },
+  {
+    "number": 613117,
+    "timestamp": 1520704673,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>613103\n",
+    "references": [
+      "8chan_qresearch_613103"
+    ]
+  },
+  {
+    "number": 613129,
+    "timestamp": 1520704707,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>613114\n",
+    "references": [
+      "8chan_qresearch_613114"
+    ]
+  },
+  {
+    "number": 613164,
+    "timestamp": 1520704821,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>613143\nInteresting, isn’t it?\nQ\n",
+    "references": [
+      "8chan_qresearch_613143"
+    ]
+  },
+  {
+    "number": 613103,
+    "timestamp": 1520704627,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c7024e",
+    "name": "Anonymous",
+    "text": ">>613082\n\nAwesome!  Five eyes is basically a group of countries asking each other to spy on one another's citizens so that they can skirt their own privacy laws.  Which is treason, btw.\n",
+    "references": [
+      "8chan_qresearch_613082"
+    ]
+  },
+  {
+    "number": 613114,
+    "timestamp": 1520704668,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "167c68",
+    "name": "Anonymous",
+    "text": ">>613082\nfor the record… can you please tell these anons\nES=ericschmidt @snodwen=snowden\nES= does NOT = @Snowden\nthese people just can't put 2 and 2 together.\n",
+    "references": [
+      "8chan_qresearch_613082"
+    ]
+  },
+  {
+    "number": 613143,
+    "timestamp": 1520704761,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "10998f",
+    "name": "Anonymous",
+    "text": ">>613082\n\nIn 2013, documents leaked by the former NSA contractor Edward Snowden revealed the existence of numerous surveillance programs jointly operated by the Five Eyes. The following list includes several notable examples reported in the media:\n\nPRISM – Operated by the NSA together with the GCHQ and the ASD[53][54]\nXKeyscore – Operated by the NSA with contributions from the ASD and the GCSB[55]\nTempora – Operated by the GCHQ with contributions from the NSA[56][57]\nMUSCULAR – Operated by the GCHQ and the NSA[58]\nSTATEROOM – Operated by the ASD, CIA, CSE, GCHQ, and NSA[59]\n\nhttps:// en.wikipedia.org/wiki/Five_Eyes\n",
+    "references": [
+      "8chan_qresearch_613082"
+    ]
   }
 ]

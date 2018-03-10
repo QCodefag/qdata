@@ -1547,5 +1547,42 @@
     "references": [
       "8chan_qresearch_612417"
     ]
+  },
+  {
+    "number": 612957,
+    "timestamp": 1520704055,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "Do not focus on the call details.\nWe knew it would leak.\nWe knew certain areas of the WH were bugged.\nWe knew certain people would leak.\nFocus - why AUS?\nQ\n"
+  },
+  {
+    "number": 612963,
+    "timestamp": 1520704087,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "88957f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>612955\nMarch MADNESS.\nQ\n",
+    "references": [
+      "8chan_qresearch_612955"
+    ]
+  },
+  {
+    "number": 612955,
+    "timestamp": 1520704051,
+    "threadId": 612849,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0d8fb9",
+    "name": "Anonymous",
+    "text": ">>612728\n\nHey Q are we going to have a BIG WEEK this week?\n"
   }
 ]

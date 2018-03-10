@@ -1464,5 +1464,45 @@
     "references": [
       "8chan_qresearch_605197"
     ]
+  },
+  {
+    "number": 612722,
+    "timestamp": 1520702908,
+    "threadId": 612088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b452a9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "Re_read re: Australia.\nAUS donations to CF?\nWhy is this relevant?\nMore than you know.\nThis is BIG.\nQ\n"
+  },
+  {
+    "number": 612728,
+    "timestamp": 1520702946,
+    "threadId": 612088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b452a9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>612723\n11:11\nQ\n",
+    "references": [
+      "8chan_qresearch_612723"
+    ]
+  },
+  {
+    "number": 612723,
+    "timestamp": 1520702910,
+    "threadId": 612088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "542aec",
+    "name": "Anonymous",
+    "text": ">>612135\nITS BEEN CORRECTED!\n\nDonald J. Trump\n‏\nVerified account\n<p class=\"body-line empty \"> </p>@realDonaldTrump\n 1h1 hour ago\nMore\nChinese President XI JINPING and I spoke at length about the meeting with KIM JONG UN of North Korea. President XI told me he appreciates that the U.S. is working to solve the problem diplomatically rather than going with the ominous alternative. China continues to be helpful!\n",
+    "references": [
+      "8chan_qresearch_612135"
+    ]
   }
 ]

@@ -2201,5 +2201,30 @@
     "name": "Q",
     "trip": "!UW.yye1fxo",
     "text": "You witnessed a strength test tonight.\nSpeech promoted here/POTUS to gauge response.\nNet slowed.\nProtections in place.\nQ\n"
+  },
+  {
+    "number": 621887,
+    "timestamp": 1520735190,
+    "threadId": 621417,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d91044",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>621807\nWe went too deep.\nAttempted a pullback.\nNot ready.\nQ\n",
+    "references": [
+      "8chan_qresearch_621807"
+    ]
+  },
+  {
+    "number": 621807,
+    "timestamp": 1520734976,
+    "threadId": 621417,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3569c9",
+    "name": "Anonymous",
+    "text": "Anyone mention NWO referencing Natürliche Wirtschaftsordnung, the National Economic Order?\n"
   }
 ]

@@ -2135,5 +2135,47 @@
         "filename": "BC185452-3F1B-493B-98D9-92….png"
       }
     ]
+  },
+  {
+    "number": 620790,
+    "timestamp": 1520732107,
+    "threadId": 620569,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "09ae02",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>620749\nThese people are stupid.\nMaxine stupid.\nQ\n",
+    "references": [
+      "8chan_qresearch_620749"
+    ]
+  },
+  {
+    "number": 620749,
+    "timestamp": 1520731975,
+    "threadId": 620569,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5adb7e",
+    "name": "Anonymous",
+    "text": ">>620670\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/f85dc04b1bb93b02d0d84f4fb3c52f61d2e3e1d3fab39c0cf7d7c3ebe9b40c19.png",
+        "filename": "3.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/befa54735e3f7b70c8fe24a640f94b38ac98a3837bf84542edf78f4e80b8a458.jpg",
+        "filename": "1.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/fa90214751a809eb92f01b1e2e227e4d14b3e7807183a0cc9433908ba9a3d192.jpg",
+        "filename": "2.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_620670"
+    ]
   }
 ]

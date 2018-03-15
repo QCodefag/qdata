@@ -2299,5 +2299,55 @@
     "userId": "425e1f",
     "name": "Anonymous",
     "text": "Q team, trust Session still or nah? Why is Fox saying McCabe will skate?\n"
+  },
+  {
+    "number": 678255,
+    "timestamp": 1521157480,
+    "threadId": 677482,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "26e3a8",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": ">>678226\nTRUST KANSAS.\nQ\n",
+    "references": [
+      "8chan_qresearch_678226"
+    ]
+  },
+  {
+    "number": 678302,
+    "timestamp": 1521157596,
+    "threadId": 677482,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "26e3a8",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!UW.yye1fxo",
+    "text": "March madness.\nPublic will know soon.\nQ\n"
+  },
+  {
+    "number": 678226,
+    "timestamp": 1521157388,
+    "threadId": 677482,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2c88d7",
+    "name": "Anonymous",
+    "text": ">>678189\npompeo is trumps guy\nas head of CIA gather intel on all the shady cia shit we've done both here and overseas\nmoves to state dept to use that intel to help free the world from the cia bullshitt\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/91233923afa0aa031c155d21d0511a21a1203410e1d93bec7602254a1720eab3.png",
+        "filename": "Screen Shot 2018-03-15 at ….png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/479b4050404c140775f8ac16a3fec2c00aa83122a865dbfb684ee809437e0f5f.png",
+        "filename": "Screen Shot 2018-03-15 at ….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_678189"
+    ]
   }
 ]

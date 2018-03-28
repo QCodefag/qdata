@@ -2571,5 +2571,33 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "PARKLAND is a DISTRACTION.\nPARKLAND was specifically organized &amp; designed to DISTRACT [TEST] - watch the news.\nACTORS are ACTING.\nFAKE.\nNO POWER.\nJUSTICE WILL BE SERVED TO THOSE PLAYING THE GAME [ALL].\nGUNS ARE SAFE.\nTRUST THE PLAN.\nQ\n"
+  },
+  {
+    "number": 815876,
+    "timestamp": 1522212317,
+    "threadId": 815466,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1a8912",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>815836\nDone in 30.\nHouse cleaning.\nWH secured.\nFinal stage.\nQ\n",
+    "references": [
+      "8chan_qresearch_815836"
+    ]
+  },
+  {
+    "number": 815836,
+    "timestamp": 1522212209,
+    "threadId": 815466,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4a2d44",
+    "name": "Anonymous",
+    "text": ">>815814\n\nFree Flynn\n",
+    "references": [
+      "8chan_qresearch_815814"
+    ]
   }
 ]

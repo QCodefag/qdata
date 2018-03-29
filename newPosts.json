@@ -2684,5 +2684,45 @@
     "references": [
       "8chan_qresearch_822170"
     ]
+  },
+  {
+    "number": 825890,
+    "timestamp": 1522289686,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "23de7f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "http:// www.foxnews.com/politics/2018/03/28/documents-suggest-possible-coordination-between-cia-fbi-obama-wh-and-dem-officials-early-in-trump-russia-probe-investigators.html\nWonder who leaked this.\nFire in the hole.\nQ\n"
+  },
+  {
+    "number": 825929,
+    "timestamp": 1522289837,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "23de7f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>825909\nHRC 2.12.09\nVery BAD!\nQ\n",
+    "references": [
+      "8chan_qresearch_825909"
+    ]
+  },
+  {
+    "number": 825909,
+    "timestamp": 1522289778,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "81819b",
+    "name": "Anonymous",
+    "text": ">>825890\n\nSeeing a lot of your leaks lately friend!\n\nGood to have a friend leaker for once!\n",
+    "references": [
+      "8chan_qresearch_825890"
+    ]
   }
 ]

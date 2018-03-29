@@ -2724,5 +2724,33 @@
     "references": [
       "8chan_qresearch_825890"
     ]
+  },
+  {
+    "number": 826012,
+    "timestamp": 1522290145,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "23de7f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>825987\n/GA/ is dead.\nQ\n",
+    "references": [
+      "8chan_qresearch_825987"
+    ]
+  },
+  {
+    "number": 825987,
+    "timestamp": 1522290040,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "39dc4a",
+    "name": "Anonymous",
+    "text": ">>825929\n>>824969\nDid you see codemonkeys message?\n",
+    "references": [
+      "8chan_qresearch_825929"
+    ]
   }
 ]

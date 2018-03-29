@@ -2752,5 +2752,33 @@
     "references": [
       "8chan_qresearch_825929"
     ]
+  },
+  {
+    "number": 826106,
+    "timestamp": 1522290470,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "23de7f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>826061\nQ\n",
+    "references": [
+      "8chan_qresearch_826061"
+    ]
+  },
+  {
+    "number": 826061,
+    "timestamp": 1522290310,
+    "threadId": 825523,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "23de7f",
+    "name": "Anonymous",
+    "text": ">>826012\n>>824969\n/GA/ is dead.\nCheck line 119 $4$#$*(\nNew Board being routed.\nThank you! Patriot.\nQ\n",
+    "references": [
+      "8chan_qresearch_826012"
+    ]
   }
 ]

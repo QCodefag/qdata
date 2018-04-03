@@ -2960,5 +2960,33 @@
     "references": [
       "8chan_qresearch_875265"
     ]
+  },
+  {
+    "number": 875455,
+    "timestamp": 1522727830,
+    "threadId": 875135,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "491f56",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>875311\nNK.\nQ\n",
+    "references": [
+      "8chan_qresearch_875311"
+    ]
+  },
+  {
+    "number": 875311,
+    "timestamp": 1522727301,
+    "threadId": 875135,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a2a6f4",
+    "name": "Anonymous",
+    "text": ">>875265\n\nI still follow your lead on all of this (relying more on the inquiry of those digging here), but March wasn't nearly as 'mad' as what you sold us.\n\nPlease don't build us up to break us down, Q.\n",
+    "references": [
+      "8chan_qresearch_875265"
+    ]
   }
 ]

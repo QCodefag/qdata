@@ -3469,5 +3469,36 @@
       "8chan_qresearch_896266",
       "8chan_qresearch_896266"
     ]
+  },
+  {
+    "number": 896591,
+    "timestamp": 1522881797,
+    "threadId": 895748,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "73f652",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>896475\nLearning.\nFollow the LOOP.\nQ\n",
+    "references": [
+      "8chan_qresearch_896475"
+    ]
+  },
+  {
+    "number": 896475,
+    "timestamp": 1522881277,
+    "threadId": 895748,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "875d2f",
+    "name": "Anonymous",
+    "text": "Now we know why youtube is linking to wikipedia to verify.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/e05edd7d65e0d2a8c31dae822e93ba691355055228b8ac9012f1817cfb32ff20.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
   }
 ]

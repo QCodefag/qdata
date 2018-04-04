@@ -3427,5 +3427,47 @@
     "references": [
       "8chan_qresearch_896184"
     ]
+  },
+  {
+    "number": 896320,
+    "timestamp": 1522880708,
+    "threadId": 895748,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "73f652",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>896290\nTrack edits.\nWatch for ‘TheMagikBOT’.\nQ\n",
+    "references": [
+      "8chan_qresearch_896290"
+    ]
+  },
+  {
+    "number": 896290,
+    "timestamp": 1522880591,
+    "threadId": 895748,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2f71b5",
+    "name": "Anonymous",
+    "text": ">>896266\n>>896266\n>>896266\n>>896266\n>>896266\nFounded by BRENNAN!!!!!!!\n\nhttps:// en.m.wikipedia.org/wiki/The_Analysis_Corporation\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1ba00bfd034c0bc938da23c2a400cd4a2bc148fbe8e150deea9507fbd86bae31.png",
+        "filename": "Screenshot_20180404-172230.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/b1dc4bd5f5108a3910a54a227e059cf839769311177ba63cd35f74a42ee1790b.png",
+        "filename": "Screenshot_20180404-172237.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_896266",
+      "8chan_qresearch_896266",
+      "8chan_qresearch_896266",
+      "8chan_qresearch_896266",
+      "8chan_qresearch_896266"
+    ]
   }
 ]

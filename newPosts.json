@@ -3144,5 +3144,35 @@
         "filename": "liesofkikes.png"
       }
     ]
+  },
+  {
+    "number": 885005,
+    "timestamp": 1522803424,
+    "threadId": 884810,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3474d4",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>884858\nWhy is Epstein spending $29mm to bury the tunnels underneath is temple on Epstein Island? \nProblem.\nPhones were allowed in.\nThese people are stupid.\nQ\n",
+    "references": [
+      "8chan_qresearch_884858"
+    ]
+  },
+  {
+    "number": 885027,
+    "timestamp": 1522803469,
+    "threadId": 884810,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3474d4",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>885005\n'H'\nQ\n",
+    "references": [
+      "8chan_qresearch_885005"
+    ]
   }
 ]

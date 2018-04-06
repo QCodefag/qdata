@@ -3828,5 +3828,35 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "https:// www.nytimes.com/2018/04/06/opinion/qanon-trump-conspiracy-theory.html\nHere we go.\nQ\n"
+  },
+  {
+    "number": 919456,
+    "timestamp": 1523029801,
+    "threadId": 918745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "357f8c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>919423\nWould you believe they called the WH for comment prior to publishing?\nQ\n",
+    "references": [
+      "8chan_qresearch_919423"
+    ]
+  },
+  {
+    "number": 919513,
+    "timestamp": 1523030018,
+    "threadId": 918745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "357f8c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>919456\nhttp:// www.foxnews.com/us/2018/04/06/disturbing-string-aircraft-crashes-in-2018-continues-deadly-trend-for-us-military.html\nQ\n",
+    "references": [
+      "8chan_qresearch_919456"
+    ]
   }
 ]

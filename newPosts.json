@@ -3870,5 +3870,36 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": ">>921715\n"
+  },
+  {
+    "number": 922142,
+    "timestamp": 1523042260,
+    "threadId": 921918,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "03213a",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>922075\nPics will surface of Hussein holding AK47 in tribal attire.\nOne of many.\nNet shut down.\nQ\n",
+    "references": [
+      "8chan_qresearch_922075"
+    ]
+  },
+  {
+    "number": 922075,
+    "timestamp": 1523041993,
+    "threadId": 921918,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6eea8a",
+    "name": "Anonymous",
+    "text": "Christian ? Christian Ring ?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/bb10045197285864d9ffe1af03605d08eab2abf1c5d111b154f1bd2db9044250.jpg",
+        "filename": "DVIPQMuWsAEGyfZ.jpg"
+      }
+    ]
   }
 ]

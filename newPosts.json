@@ -3694,5 +3694,45 @@
     "references": [
       "8chan_qresearch_914023"
     ]
+  },
+  {
+    "number": 914461,
+    "timestamp": 1522988535,
+    "threadId": 914114,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "db01ff",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "Think Navy Ship crashes.\nBigger than you know.\nWe ARE active.\nQ\n"
+  },
+  {
+    "number": 914510,
+    "timestamp": 1522988653,
+    "threadId": 914114,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "db01ff",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>914474\nWhat fell from space recently?\nAccident or retaliation?\nQ\n",
+    "references": [
+      "8chan_qresearch_914474"
+    ]
+  },
+  {
+    "number": 914474,
+    "timestamp": 1522988569,
+    "threadId": 914114,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e41c97",
+    "name": "Anonymous",
+    "text": ">>914461\nSatellite hack\nGPS spoof\n",
+    "references": [
+      "8chan_qresearch_914461"
+    ]
   }
 ]

@@ -3734,5 +3734,48 @@
     "references": [
       "8chan_qresearch_914461"
     ]
+  },
+  {
+    "number": 914569,
+    "timestamp": 1522988796,
+    "threadId": 914114,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "db01ff",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>914510\nWhen was Hussein in China?\nTrack events.\nTimeline.\nWe are in control\nW\n",
+    "references": [
+      "8chan_qresearch_914510"
+    ]
+  },
+  {
+    "number": 914594,
+    "timestamp": 1522988849,
+    "threadId": 914114,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "db01ff",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>914582\nConfirmed typo.\nQ\n",
+    "references": [
+      "8chan_qresearch_914582"
+    ]
+  },
+  {
+    "number": 914582,
+    "timestamp": 1522988823,
+    "threadId": 914114,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "03f049",
+    "name": "Anonymous",
+    "text": ">>914569\n>W\ntypo?\n",
+    "references": [
+      "8chan_qresearch_914569"
+    ]
   }
 ]

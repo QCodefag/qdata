@@ -3916,5 +3916,33 @@
     "references": [
       "8chan_qresearch_922142"
     ]
+  },
+  {
+    "number": 922343,
+    "timestamp": 1523042863,
+    "threadId": 921918,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "03213a",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>922280\nWe don’t inform our enemies of the specifics.\nWe instead instill fear in them to make unplanned and disastrous countermoves.\nQ\n",
+    "references": [
+      "8chan_qresearch_922280"
+    ]
+  },
+  {
+    "number": 922280,
+    "timestamp": 1523042653,
+    "threadId": 921918,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1e1537",
+    "name": "Anonymous",
+    "text": ">>922237\nHow soon?\n",
+    "references": [
+      "8chan_qresearch_922237"
+    ]
   }
 ]

@@ -4073,5 +4073,33 @@
         "filename": "Screen Shot 2018-04-06 at ….png"
       }
     ]
+  },
+  {
+    "number": 924224,
+    "timestamp": 1523048743,
+    "threadId": 923401,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4faef7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>924151\nYour trust &amp; faith in us is enough.\nYou elected us to do the heavy lifting.\nEnjoy the show.\nBIRTH of a NEW NATION.\nNEW WORLD.\nQ\n",
+    "references": [
+      "8chan_qresearch_924151"
+    ]
+  },
+  {
+    "number": 924151,
+    "timestamp": 1523048477,
+    "threadId": 923401,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8d9ba6",
+    "name": "Anonymous",
+    "text": ">>924039\nI stand ready to deploy, engage, and destroy the enemies of the United States of America in close combat!\n\nWWG1WGA\n",
+    "references": [
+      "8chan_qresearch_924039"
+    ]
   }
 ]

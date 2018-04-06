@@ -3666,5 +3666,33 @@
         "filename": "703C92E0-E064-4400-932F-2….jpeg"
       }
     ]
+  },
+  {
+    "number": 914165,
+    "timestamp": 1522987310,
+    "threadId": 913303,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "19b49c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>914092\n",
+    "references": [
+      "8chan_qresearch_914092"
+    ]
+  },
+  {
+    "number": 914092,
+    "timestamp": 1522987083,
+    "threadId": 913303,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "56ba71",
+    "name": "Anonymous",
+    "text": ">>914023\n\nCross ref to:\nhttps:// 8ch.net/qresearch/res/885575.html#885992\n\n\"We are under attack\" - Q, 4/3\n\"WAR\" - Q, 4/3\n\nWTF is going on?? Dig patriots!!\n",
+    "references": [
+      "8chan_qresearch_914023"
+    ]
   }
 ]

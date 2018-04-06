@@ -4101,5 +4101,36 @@
     "references": [
       "8chan_qresearch_924039"
     ]
+  },
+  {
+    "number": 924391,
+    "timestamp": 1523049337,
+    "threadId": 924173,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a876c2",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>924357\nThat didn’t take long. \nBorder state - coincidence?\nQ\n",
+    "references": [
+      "8chan_qresearch_924357"
+    ]
+  },
+  {
+    "number": 924357,
+    "timestamp": 1523049215,
+    "threadId": 924173,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "12a52f",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/efe34c2047cdd4b5facaaffa1d40298ea46399a111216d2628f49a05fff3a1ad.jpeg",
+        "filename": "51959A07-E9B5-4387-A05A-D….jpeg"
+      }
+    ]
   }
 ]

@@ -3801,5 +3801,20 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "BOOMs en route.\nBlind.\n5:5\nGREEN_578cDT324-45785sd4DMP\nQ\n"
+  },
+  {
+    "number": 916268,
+    "timestamp": 1522995600,
+    "threadId": 915608,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "311352",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>916218\nDevice hold.\nComms transfer castle.\nChatter.\nRig for silent.\nQ+\n",
+    "references": [
+      "8chan_qresearch_916218"
+    ]
   }
 ]

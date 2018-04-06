@@ -4268,5 +4268,58 @@
     "references": [
       "8chan_qresearch_925449"
     ]
+  },
+  {
+    "number": 926674,
+    "timestamp": 1523057143,
+    "threadId": 926561,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30d340",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>926634\n“Watch the news.”\nQ\n",
+    "references": [
+      "8chan_qresearch_926634"
+    ]
+  },
+  {
+    "number": 926737,
+    "timestamp": 1523057365,
+    "threadId": 926561,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30d340",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>926685\nNot planned but necessary.\nQ\n",
+    "references": [
+      "8chan_qresearch_926685"
+    ]
+  },
+  {
+    "number": 926634,
+    "timestamp": 1523056996,
+    "threadId": 926561,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c13799",
+    "name": "Anonymous",
+    "text": "\nBreaking911\n‏Verified account @Breaking911\n4m4 minutes ago\n\n#BREAKING: President Trump signs memorandum ending ‘catch and release’ immigration policy - Reuters\n\n\nWoohoo Good Job Mr. President!\n"
+  },
+  {
+    "number": 926685,
+    "timestamp": 1523057168,
+    "threadId": 926561,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4e2f59",
+    "name": "Anonymous",
+    "text": ">>926674\nQ, was \"pedo drop\" narrative in recent bread distraction or planned?\n",
+    "references": [
+      "8chan_qresearch_926674"
+    ]
   }
 ]

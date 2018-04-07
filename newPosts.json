@@ -4580,5 +4580,36 @@
     "references": [
       "8chan_qresearch_938327"
     ]
+  },
+  {
+    "number": 938749,
+    "timestamp": 1523127095,
+    "threadId": 938239,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d1eeb8",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>938366\nPatriots stand together.\nStrength.\nPower.\nThey want you divided.\nQ\n",
+    "references": [
+      "8chan_qresearch_938366"
+    ]
+  },
+  {
+    "number": 938366,
+    "timestamp": 1523125727,
+    "threadId": 938239,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d63cd6",
+    "name": "Anonymous",
+    "text": ">>938202\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c39bbd5fb3069c699b9f4b2f25412aa2e37ef275ab2f3782043219ba49ba85bb.png",
+        "filename": "screenshot_420.png"
+      }
+    ]
   }
 ]

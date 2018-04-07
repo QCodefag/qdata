@@ -4333,5 +4333,39 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "What a coincidence.\nhttps:// www.cnn.com/2018/03/31/politics/roseanne-barr-conspiracy-tweets/index.html\nQ\n"
+  },
+  {
+    "number": 928542,
+    "timestamp": 1523064533,
+    "threadId": 928084,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ae4d6b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>928525\nFake.\nQ\n",
+    "references": [
+      "8chan_qresearch_928525"
+    ]
+  },
+  {
+    "number": 928525,
+    "timestamp": 1523064477,
+    "threadId": 928084,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d71fb7",
+    "name": "Anonymous",
+    "text": ">>928461\nQ, is pic related real or fake?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/148c13d3d6d588eb8b87e2b129f4e01bfa617c645d3ca039f0bd7f50fe69e017.jpg",
+        "filename": "Q_unverified.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_928461"
+    ]
   }
 ]

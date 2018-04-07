@@ -4470,5 +4470,48 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "You have more than you know.\nSteel.\nTech.\nAmerica for sale.\nSystematic weakening of the US.\nU1.\nCash flow funnel.\nInside job.\nTraitors.\n$\nWe are in control.\nThose awake can see.\nQ\n"
+  },
+  {
+    "number": 936472,
+    "timestamp": 1523118631,
+    "threadId": 935930,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "383caa",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>936346\nTalking to you, anon.\nWe always see “It’s Happening” here.\nThe ‘Tone’.\nWAR.\nApril showers.\nQ\n",
+    "references": [
+      "8chan_qresearch_936346"
+    ]
+  },
+  {
+    "number": 936517,
+    "timestamp": 1523118767,
+    "threadId": 935930,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "383caa",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>936472\nEH CA.\nRelevant soon.\nQ\n",
+    "references": [
+      "8chan_qresearch_936472"
+    ]
+  },
+  {
+    "number": 936346,
+    "timestamp": 1523118170,
+    "threadId": 935930,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c48124",
+    "name": "Anonymous",
+    "text": ">>936314\nQ \nPlease confirm or tell us if we are wrong about POTUS weekly address \"It's happening\" meaning what we all think it means.\n",
+    "references": [
+      "8chan_qresearch_936314"
+    ]
   }
 ]

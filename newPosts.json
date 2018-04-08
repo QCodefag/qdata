@@ -4720,5 +4720,33 @@
     "references": [
       "8chan_qresearch_952914"
     ]
+  },
+  {
+    "number": 953077,
+    "timestamp": 1523211879,
+    "threadId": 952343,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a0205a",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>953050\nSituation Room.\nQ\n",
+    "references": [
+      "8chan_qresearch_953050"
+    ]
+  },
+  {
+    "number": 953050,
+    "timestamp": 1523211776,
+    "threadId": 952343,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c7d9d9",
+    "name": "Anonymous",
+    "text": ">>953009\n\nPOTUS hunkering down today\n",
+    "references": [
+      "8chan_qresearch_953009"
+    ]
   }
 ]

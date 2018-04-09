@@ -5146,5 +5146,30 @@
     "references": [
       "8chan_qresearch_967105"
     ]
+  },
+  {
+    "number": 967331,
+    "timestamp": 1523293765,
+    "threadId": 967079,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "28003e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>967224\nThink 'Bridge'.\nGOOG.\nFB.\nTWITTER.\nIG.\n'Central' algorithm. \nThe stage had to be set.\nQ\n",
+    "references": [
+      "8chan_qresearch_967224"
+    ]
+  },
+  {
+    "number": 967224,
+    "timestamp": 1523293365,
+    "threadId": 967079,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "db2d29",
+    "name": "Anonymous",
+    "text": ">>967123\n\nYOU are being TRACKED.\n\n<strong>NO FB account required.</strong>  WTF? Is it embedded in Android OS?\n\nThis is BIGGER than you think.\n\nAgencies attached.\n\nQ\n"
   }
 ]

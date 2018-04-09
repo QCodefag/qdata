@@ -5000,5 +5000,33 @@
     "references": [
       "8chan_qresearch_958033"
     ]
+  },
+  {
+    "number": 958554,
+    "timestamp": 1523233976,
+    "threadId": 957752,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1980e0",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>958537\n",
+    "references": [
+      "8chan_qresearch_958537"
+    ]
+  },
+  {
+    "number": 958537,
+    "timestamp": 1523233930,
+    "threadId": 957752,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b25668",
+    "name": "Anonymous",
+    "text": ">>958466\n\nMouaz Moustafa\n@SoccerMouaz\nborn Palestinian refugee, moved 2USA@12 world traveler,play futbol,worked n US House, Senate,Egyptian,Libyan, Syrian Revolution,Executive Director of @SyrianETF\nWashington D.C.\n",
+    "references": [
+      "8chan_qresearch_958466"
+    ]
   }
 ]

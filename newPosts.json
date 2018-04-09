@@ -5294,5 +5294,33 @@
       "8chan_qresearch_973021",
       "8chan_qresearch_973040"
     ]
+  },
+  {
+    "number": 973468,
+    "timestamp": 1523316463,
+    "threadId": 972828,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d9b428",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>973390\nThey broke in during the fire.\nDistraction.\nQ\n",
+    "references": [
+      "8chan_qresearch_973390"
+    ]
+  },
+  {
+    "number": 973390,
+    "timestamp": 1523316234,
+    "threadId": 972828,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "18808b",
+    "name": "Anonymous",
+    "text": ">>973381\nPOTUS SAID THEY BROKE IN\n",
+    "references": [
+      "8chan_qresearch_973381"
+    ]
   }
 ]

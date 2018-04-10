@@ -5401,5 +5401,33 @@
     "references": [
       "8chan_qresearch_977691"
     ]
+  },
+  {
+    "number": 978104,
+    "timestamp": 1523334302,
+    "threadId": 977529,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "83ca4f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>978080\n",
+    "references": [
+      "8chan_qresearch_978080"
+    ]
+  },
+  {
+    "number": 978080,
+    "timestamp": 1523334224,
+    "threadId": 977529,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "65b2f8",
+    "name": "Anonymous",
+    "text": ">>978017\n>.nytimes.com/2014/04/09/business/international/chinas-embrace-of-foreign-cars.html\n\nFirst word in the article is\nCHONGQING, viz.:\n\nCHONGQING, China — For more than a decade, Chinese automakers have been talking about starting large-scale exports to North America and Europe, prompting periodic worries in the West that companies like General Motors, Ford and Volkswagen might be crippled by Chinese competition the way they were by Japanese imports a generation ago….\n",
+    "references": [
+      "8chan_qresearch_978017"
+    ]
   }
 ]

@@ -5429,5 +5429,36 @@
     "references": [
       "8chan_qresearch_978017"
     ]
+  },
+  {
+    "number": 978383,
+    "timestamp": 1523335436,
+    "threadId": 977529,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "83ca4f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>978366\nFake.\nQ\n",
+    "references": [
+      "8chan_qresearch_978366"
+    ]
+  },
+  {
+    "number": 978366,
+    "timestamp": 1523335367,
+    "threadId": 977529,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "357d3d",
+    "name": "Anonymous",
+    "text": "Thoughts…?\n\nGod bless.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/fe8e8acda747e13cca2340f529e91333bddfe4becf653fb732e3f22b0d8d0741.jpg",
+        "filename": "DaVeNFpW0AAfrVF.jpg"
+      }
+    ]
   }
 ]

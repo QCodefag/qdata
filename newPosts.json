@@ -5568,5 +5568,33 @@
     "references": [
       "8chan_qresearch_1002693"
     ]
+  },
+  {
+    "number": 1002918,
+    "timestamp": 1523489086,
+    "threadId": 1002503,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "564897",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1002786\n",
+    "references": [
+      "8chan_qresearch_1002786"
+    ]
+  },
+  {
+    "number": 1002786,
+    "timestamp": 1523488565,
+    "threadId": 1002503,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a3fad9",
+    "name": "Anonymous",
+    "text": ">>1002693\nHouse of reps.\n",
+    "references": [
+      "8chan_qresearch_1002693"
+    ]
   }
 ]

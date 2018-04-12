@@ -5825,5 +5825,36 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "RR problems.\nhttps:// www.cnn.com/2018/04/12/politics/rod-rosenstein-white-house-effort/index.html\nQ\n"
+  },
+  {
+    "number": 1015438,
+    "timestamp": 1523566841,
+    "threadId": 1014889,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "48c59f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1015398\n",
+    "references": [
+      "8chan_qresearch_1015398"
+    ]
+  },
+  {
+    "number": 1015398,
+    "timestamp": 1523566698,
+    "threadId": 1014889,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "23e125",
+    "name": "Anonymous",
+    "text": "To my fellow incarnated extraterrestrials, how could I have forgotten this crumb.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/8f27d1bf896755e61b4e059e48b942aed2c68bbb8107461b8e593a191eae001c.png",
+        "filename": "whynointel.png"
+      }
+    ]
   }
 ]

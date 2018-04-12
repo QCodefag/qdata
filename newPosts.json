@@ -5656,5 +5656,32 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "#17\nQ\n"
+  },
+  {
+    "number": 1008463,
+    "timestamp": 1523510518,
+    "threadId": 1007860,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f666d7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "Funny.\nhttps:// www.washingtonpost.com/blogs/plum-line/wp/2018/04/09/the-crisis-in-journalism-thats-helping-trump/?noredirect=on&amp;utm_term=.01054835c682\nSerious.\nNight [5]\nQ\n"
+  },
+  {
+    "number": 1008491,
+    "timestamp": 1523510639,
+    "threadId": 1007860,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f666d7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1008463\nFacebook.\nBuilding 8.\nChina.\nQ\n",
+    "references": [
+      "8chan_qresearch_1008463"
+    ]
   }
 ]

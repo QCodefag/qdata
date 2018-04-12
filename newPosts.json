@@ -5683,5 +5683,33 @@
     "references": [
       "8chan_qresearch_1008463"
     ]
+  },
+  {
+    "number": 1008560,
+    "timestamp": 1523510898,
+    "threadId": 1007860,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f666d7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1008534\nSyria.\nQ\n",
+    "references": [
+      "8chan_qresearch_1008534"
+    ]
+  },
+  {
+    "number": 1008534,
+    "timestamp": 1523510809,
+    "threadId": 1007860,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dfa65c",
+    "name": "Anonymous",
+    "text": ">>1008463\nGap between nights [4] and [5]?\n",
+    "references": [
+      "8chan_qresearch_1008463"
+    ]
   }
 ]

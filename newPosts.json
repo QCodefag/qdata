@@ -5711,5 +5711,34 @@
     "references": [
       "8chan_qresearch_1008463"
     ]
+  },
+  {
+    "number": 1008693,
+    "timestamp": 1523511388,
+    "threadId": 1007860,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f666d7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1008670\nAlan.\nWelcome aboard.\nPlane.\n17.\nQ\n",
+    "references": [
+      "8chan_qresearch_1008670"
+    ]
+  },
+  {
+    "number": 1008670,
+    "timestamp": 1523511296,
+    "threadId": 1007860,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a5617d",
+    "name": "Anonymous",
+    "text": ">>1007983\n>>1008491\nQ can you double confirm the #17 was regarding the jerseys, when i asked yesterday for confirmation.\n\nAnons are bringing up every other 17 under the sun, KEK\n",
+    "references": [
+      "8chan_qresearch_1007983",
+      "8chan_qresearch_1008491"
+    ]
   }
 ]

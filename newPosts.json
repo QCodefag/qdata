@@ -5931,5 +5931,55 @@
     "references": [
       "8chan_qresearch_1055826"
     ]
+  },
+  {
+    "number": 1056025,
+    "timestamp": 1523837014,
+    "threadId": 1055681,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bbec14",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1055967\nThink timing.\nLL remains AG HRC.\nHRC appoints new AS replacement.\nRBG steps down.\nLL steps up.\nNew AG.\n‘The Plan’.\nQ\n",
+    "references": [
+      "8chan_qresearch_1055967"
+    ]
+  },
+  {
+    "number": 1055967,
+    "timestamp": 1523836816,
+    "threadId": 1055681,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9961bd",
+    "name": "Anonymous",
+    "text": ">>1055924\nWe thought it was Scalia.  \nThanks for spelling it out – Ruth Bader Ginsberg.  I need to fix Muh SCOTUS meme.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1a97cffc9cbca5f8454077559f0d72e435a4d1b9ace4265a8fe0bc165ed0745a.jpg",
+        "filename": "LynchTarmacICanHaz2.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/9f4208dfa2e44ada7bc33d882fbd79ce97c4a7ddc1e25a3436ce3b6b61202c09.jpg",
+        "filename": "LynchTarmacICanHaz.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/ee98e58bd8fbac1a33fc32421ba28669b2af11b557e00d0525403f91fc4c4e07.jpg",
+        "filename": "LynchTarmac2.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/7683cc3528fa74ac24f86b63d8b23b2f6fe0cb8d901ec3df1fafcec18e6e9259.jpg",
+        "filename": "LynchMuhSCOTUS1.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/9f2d392e1a191276ffc04c2e6558c9b397d14281a96a9b417078cd198c6826f2.jpg",
+        "filename": "LynchButYouPromised1.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1055924"
+    ]
   }
 ]

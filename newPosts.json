@@ -6036,5 +6036,67 @@
     "references": [
       "8chan_qresearch_1056554"
     ]
+  },
+  {
+    "number": 1057159,
+    "timestamp": 1523840214,
+    "threadId": 1055756,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "531a51",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1056766\nTypo.\nSC = Supreme Court.\nQ\n",
+    "references": [
+      "8chan_qresearch_1056766"
+    ]
+  },
+  {
+    "number": 1057223,
+    "timestamp": 1523840373,
+    "threadId": 1055756,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "531a51",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1057113\nPerfect example of why we are here.\nThank you, Patriot.\nThank you ALL!\nQ\n",
+    "references": [
+      "8chan_qresearch_1057113"
+    ]
+  },
+  {
+    "number": 1056766,
+    "timestamp": 1523839120,
+    "threadId": 1055756,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "eded94",
+    "name": "Anonymous",
+    "text": ">>1056554\n>SS/LL deal drop(s) w/ orig timestamp(s).\nQ is \"SS\" correct or a typo?  please clarify\n",
+    "references": [
+      "8chan_qresearch_1056554"
+    ]
+  },
+  {
+    "number": 1057113,
+    "timestamp": 1523840078,
+    "threadId": 1055756,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8ab961",
+    "name": "Anonymous",
+    "text": ">>1056554\n\nDone\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/be66571c8970d0b8e0ae86028f7bc59dab9fe5ac94bf3087b96997e6f23767fd.png",
+        "filename": "Tarmac.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1056554"
+    ]
   }
 ]

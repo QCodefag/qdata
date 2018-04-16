@@ -6311,5 +6311,36 @@
     "references": [
       "8chan_qresearch_1062345"
     ]
+  },
+  {
+    "number": 1064089,
+    "timestamp": 1523887632,
+    "threadId": 1063577,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "868799",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1063675\nNot a coincidence.\n25/100%.\nQ\n",
+    "references": [
+      "8chan_qresearch_1063675"
+    ]
+  },
+  {
+    "number": 1063675,
+    "timestamp": 1523883776,
+    "threadId": 1063577,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "45a46c",
+    "name": "Anonymous",
+    "text": "Anyone think this tweet has to do with Q's post/pics of the WHERE and WHY?\n\nalso, is 5:5 fine eyes??\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/0423f80c7933edb855b805a13da994fc07280640122b1c6de9cefa14565c5363.jpg",
+        "filename": "IMG_20180416_085948.jpg"
+      }
+    ]
   }
 ]

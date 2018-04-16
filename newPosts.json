@@ -6169,5 +6169,44 @@
     "references": [
       "8chan_qresearch_1057351"
     ]
+  },
+  {
+    "number": 1057770,
+    "timestamp": 1523841865,
+    "threadId": 1057250,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b53533",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "The WHERE.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5cea1cab6fa2b77e07018a425c22d5e1b20cb614366840ecd1412229d77ac07d.png",
+        "filename": "54BC82F4-E3C2-4ED9-A24D-BD….png"
+      }
+    ]
+  },
+  {
+    "number": 1057786,
+    "timestamp": 1523841904,
+    "threadId": 1057250,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b53533",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1057770\nThe WHY.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/793c6f72c2409e030803630dc720f5ce5d325dbc2063696783dfba35989edbea.png",
+        "filename": "875F2639-359D-43A8-BB00-1F….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1057770"
+    ]
   }
 ]

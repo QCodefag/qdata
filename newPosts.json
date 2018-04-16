@@ -6342,5 +6342,30 @@
         "filename": "IMG_20180416_085948.jpg"
       }
     ]
+  },
+  {
+    "number": 1064365,
+    "timestamp": 1523889365,
+    "threadId": 1063577,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "868799",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1064287\n23andMe.\nAnne Wojcicki.\nSpouse?\nWhy is this relevant?\nQ\n",
+    "references": [
+      "8chan_qresearch_1064287"
+    ]
+  },
+  {
+    "number": 1064287,
+    "timestamp": 1523888908,
+    "threadId": 1063577,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7aec11",
+    "name": "Anonymous",
+    "text": "Q \n\nSO WE HAVE IRIS SCANNERS FOR PHONES .\n\nWHEn do we prick our finger, and drop blood on the home button to confirm our i.d. ?\n\n( see where this is going )\n"
   }
 ]

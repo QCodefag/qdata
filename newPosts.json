@@ -6141,5 +6141,33 @@
         "filename": "ClipboardImage.png"
       }
     ]
+  },
+  {
+    "number": 1057619,
+    "timestamp": 1523841490,
+    "threadId": 1057250,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b53533",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1057442\nHas POTUS made a statement found not to be true? \nNothing stated should be discounted.\nMoving fast.\nQ\n",
+    "references": [
+      "8chan_qresearch_1057442"
+    ]
+  },
+  {
+    "number": 1057442,
+    "timestamp": 1523841018,
+    "threadId": 1057250,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2e8c4f",
+    "name": "Anonymous",
+    "text": ">>1057351\nInteresting how he don't bother with a (?) at the end of the SC question. It was a statement.\n",
+    "references": [
+      "8chan_qresearch_1057351"
+    ]
   }
 ]

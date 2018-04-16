@@ -6008,5 +6008,33 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "Side by side graphic.\nSS/LL deal drop(s) w/ orig timestamp(s).\nPOTUS’ Tweet.\nImportant going forward.\nQ\n"
+  },
+  {
+    "number": 1056602,
+    "timestamp": 1523838670,
+    "threadId": 1055756,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "531a51",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1056562\nThank you, Patriot.\nProofs being lost.\nQ\n",
+    "references": [
+      "8chan_qresearch_1056562"
+    ]
+  },
+  {
+    "number": 1056562,
+    "timestamp": 1523838489,
+    "threadId": 1055756,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4c56bf",
+    "name": "Anonymous",
+    "text": ">>1056554\nMaking it now, Q.\n",
+    "references": [
+      "8chan_qresearch_1056554"
+    ]
   }
 ]

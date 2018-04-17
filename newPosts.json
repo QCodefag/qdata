@@ -6428,5 +6428,64 @@
     "userId": "8c6e4e",
     "name": "Anonymous",
     "text": "Good morning #DoitQ  big day for me got interviews first time in over a year heres hoping!\n"
+  },
+  {
+    "number": 1074956,
+    "timestamp": 1523963794,
+    "threadId": 1074453,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "551e62",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1074952\nWRAYs of LIGHT.\nQ\n",
+    "references": [
+      "8chan_qresearch_1074952"
+    ]
+  },
+  {
+    "number": 1074969,
+    "timestamp": 1523963897,
+    "threadId": 1074453,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "551e62",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1074950\nBDT &amp; DEFCON.\nDirect.\nQ\n",
+    "references": [
+      "8chan_qresearch_1074950"
+    ]
+  },
+  {
+    "number": 1074950,
+    "timestamp": 1523963715,
+    "threadId": 1074453,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "fefb85",
+    "name": "Anonymous",
+    "text": "Made this graphic based on another anon's catch. Good work\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/8639417c80be1b0d00edc2ae2ef64c48e0acc9168eacbf7f747dc5adabb0048e.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
+  },
+  {
+    "number": 1074952,
+    "timestamp": 1523963726,
+    "threadId": 1074453,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d0dcfd",
+    "name": "Anonymous",
+    "text": ">>1074761\nGOOD MORNING Q\n",
+    "references": [
+      "8chan_qresearch_1074761"
+    ]
   }
 ]

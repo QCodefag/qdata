@@ -6487,5 +6487,45 @@
     "references": [
       "8chan_qresearch_1074761"
     ]
+  },
+  {
+    "number": 1080429,
+    "timestamp": 1523998288,
+    "threadId": 1079955,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "58f549",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1080066\nWe are being set up.\nThreat.\nPast Booms - TX bombs\nNew Booms - Plane crash + Plane/17 drop.\nThese people are sick.\nAttempt to prevent drops / awakening.\nConspiracy?\nCoincidence?\nResponse coming.\nQ\n",
+    "references": [
+      "8chan_qresearch_1080066"
+    ]
+  },
+  {
+    "number": 1080446,
+    "timestamp": 1523998360,
+    "threadId": 1079955,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "58f549",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1080429\nStrike Package 111V-B.\nQ\n",
+    "references": [
+      "8chan_qresearch_1080429"
+    ]
+  },
+  {
+    "number": 1080066,
+    "timestamp": 1523996189,
+    "threadId": 1079955,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d079bc",
+    "name": "Anonymous",
+    "text": "Apr 12 2018 00:36:28 (EST) Q !xowAT4Z3VQ ID: f666d7 1008693\n>>1008670\nAlan.\nWelcome aboard.\nPlane.\n17.\nQ\n"
   }
 ]

@@ -6593,5 +6593,36 @@
         "filename": "BackChannel17.png"
       }
     ]
+  },
+  {
+    "number": 1096658,
+    "timestamp": 1524105995,
+    "threadId": 1096264,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1d60ad",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1096535\nHe had no choice.\nQ\n",
+    "references": [
+      "8chan_qresearch_1096535"
+    ]
+  },
+  {
+    "number": 1096535,
+    "timestamp": 1524105470,
+    "threadId": 1096264,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "067c5d",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5a301a9afba77c1c08ae04057db803a25474acfd9ff011dcaae04626e5d32647.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
   }
 ]

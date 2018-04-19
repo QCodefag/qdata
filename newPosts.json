@@ -6527,5 +6527,71 @@
     "userId": "d079bc",
     "name": "Anonymous",
     "text": "Apr 12 2018 00:36:28 (EST) Q !xowAT4Z3VQ ID: f666d7 1008693\n>>1008670\nAlan.\nWelcome aboard.\nPlane.\n17.\nQ\n"
+  },
+  {
+    "number": 1095705,
+    "timestamp": 1524102175,
+    "threadId": 1095516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0ea03e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1095595\n187.\nFailure to retain position/ear.\nThreats are real.\nWAR is real.\nGood vs Evil is real.\nThink State of the Union - FREE.\nCoincidence?\nDelta engine fire?\nCoincidence?\nHow rare are engine fires?\nThink logically.\nQ\n",
+    "references": [
+      "8chan_qresearch_1095595"
+    ]
+  },
+  {
+    "number": 1095728,
+    "timestamp": 1524102268,
+    "threadId": 1095516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0ea03e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1095664\nFake.\nQ\n",
+    "references": [
+      "8chan_qresearch_1095664"
+    ]
+  },
+  {
+    "number": 1095595,
+    "timestamp": 1524101513,
+    "threadId": 1095516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "39bfb8",
+    "name": "Anonymous",
+    "text": "Sources: Officials Investigating Death Of Father Of Former Trump National Security Adviser\nphiladelphia.cbslocal.com/2018/04/18/h-r-mcmaster-father-death/\n1. The health department confirms he died of blunt impact trauma to the head\n   and the manner of death was determined to be an accident.\n2. But sources tell CBS3 that Philadelphia police and the Pennsylvania Attorney\n   General’s Office are investigating the possibility of institutional\n   neglect after he fell.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/4006a90ac017238cfbde473ecee340c91f2af5e328c9a618cc34a5a7e8119df0.png",
+        "filename": "Drudge re McMaster Father ….PNG"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/7dd5ff9d3d729d2d1646fd9658263d9ac69df5d9b1a0aa07434391d86f3c7e91.png",
+        "filename": "CBS re McMaster Father Dea….PNG"
+      }
+    ]
+  },
+  {
+    "number": 1095664,
+    "timestamp": 1524101933,
+    "threadId": 1095516,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4eb316",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b7cb836269f62b7a7416cc27dc65e24fe6e8d902769e220f6f38343102a206d6.png",
+        "filename": "BackChannel17.png"
+      }
+    ]
   }
 ]

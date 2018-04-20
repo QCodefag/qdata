@@ -6821,5 +6821,48 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": ">>1107523\nMemos are FAKE.\nGuided by LL/+3 CLAS.\nThink SC.\nAll written same time.\nQ\n"
+  },
+  {
+    "number": 1108850,
+    "timestamp": 1524190273,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1108831\nWhat makes a good movie?\nQ\n",
+    "references": [
+      "8chan_qresearch_1108831"
+    ]
+  },
+  {
+    "number": 1108897,
+    "timestamp": 1524190409,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "Q&amp;A \n5 min.\nQ\n"
+  },
+  {
+    "number": 1108831,
+    "timestamp": 1524190144,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "158e95",
+    "name": "Anonymous",
+    "text": "Who captured?\n\nhttps://  www.reuters.com/article/us-mideast-crisis-syria-prisoner/man-linked-to-9-11-attacks-on-u-s-captured-in-syria-pentagon-idUSKBN1HR027\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/4a0ba1e3eba777df5f070d75c35482d8c275aa47f22539394912d06e628ec306.png",
+        "filename": "militias_captured.png"
+      }
+    ]
   }
 ]

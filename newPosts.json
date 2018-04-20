@@ -6763,5 +6763,51 @@
     "references": [
       "8chan_qresearch_1106719"
     ]
+  },
+  {
+    "number": 1107754,
+    "timestamp": 1524186210,
+    "threadId": 1107086,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e7ff65",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "Engineers.\nData mine NP +1 +5\nAll.\nArchitects.\nBuild profile 1XD x7\nAll.\nEyes only.\nQ\n"
+  },
+  {
+    "number": 1107796,
+    "timestamp": 1524186321,
+    "threadId": 1107086,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e7ff65",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1107717\nWho captured?\nQ\n",
+    "references": [
+      "8chan_qresearch_1107717"
+    ]
+  },
+  {
+    "number": 1107717,
+    "timestamp": 1524186091,
+    "threadId": 1107086,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2832d2",
+    "name": "Anonymous",
+    "text": ">>1107681\nLads, why would someone connected to 9/11 be in Syria?\nPic Related\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/73921ca8112beb9bb97f1945fabb91183e0fda1ee9bf46ec9806ba0482174c9f.png",
+        "filename": "AQ71.PNG"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1107681"
+    ]
   }
 ]

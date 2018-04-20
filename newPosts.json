@@ -6864,5 +6864,61 @@
         "filename": "militias_captured.png"
       }
     ]
+  },
+  {
+    "number": 1108949,
+    "timestamp": 1524190558,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1108920\nFake.\nWe control.\nQ\n",
+    "references": [
+      "8chan_qresearch_1108920"
+    ]
+  },
+  {
+    "number": 1108971,
+    "timestamp": 1524190601,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1108947\nStructure.\nQ\n",
+    "references": [
+      "8chan_qresearch_1108947"
+    ]
+  },
+  {
+    "number": 1108920,
+    "timestamp": 1524190463,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2f4278",
+    "name": "Anonymous",
+    "text": ">>1108897\nHRC v\"dark web\" video fake news???\n",
+    "references": [
+      "8chan_qresearch_1108897"
+    ]
+  },
+  {
+    "number": 1108947,
+    "timestamp": 1524190555,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "32dde8",
+    "name": "Anonymous",
+    "text": ">>1108897\nFederal Reserve ending?\n",
+    "references": [
+      "8chan_qresearch_1108897"
+    ]
   }
 ]

@@ -6976,5 +6976,33 @@
     "references": [
       "8chan_qresearch_1108897"
     ]
+  },
+  {
+    "number": 1109320,
+    "timestamp": 1524191343,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1109176\nYes, midterms are safe.\nWatch CA.\nQ\n",
+    "references": [
+      "8chan_qresearch_1109176"
+    ]
+  },
+  {
+    "number": 1109176,
+    "timestamp": 1524190971,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4e11c7",
+    "name": "Anonymous",
+    "text": ">>1108897\nWill election fraud be revealed soon???\n",
+    "references": [
+      "8chan_qresearch_1108897"
+    ]
   }
 ]

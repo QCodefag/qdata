@@ -6920,5 +6920,61 @@
     "references": [
       "8chan_qresearch_1108897"
     ]
+  },
+  {
+    "number": 1109139,
+    "timestamp": 1524190904,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1108927\nSR connect to DNC.\nMS_13.\nJA.\nWhy did the D’s push legal rep on family?\nJune ETA.\nQ\n",
+    "references": [
+      "8chan_qresearch_1108927"
+    ]
+  },
+  {
+    "number": 1109196,
+    "timestamp": 1524191022,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d7571e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1109132\nWW.\nQ\n",
+    "references": [
+      "8chan_qresearch_1109132"
+    ]
+  },
+  {
+    "number": 1108927,
+    "timestamp": 1524190469,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "fe9998",
+    "name": "Anonymous",
+    "text": ">>1108897\n\nWhen will we find out about Seth Rich and Las Vegas??\n",
+    "references": [
+      "8chan_qresearch_1108897"
+    ]
+  },
+  {
+    "number": 1109132,
+    "timestamp": 1524190888,
+    "threadId": 1108585,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e53d0e",
+    "name": "Anonymous",
+    "text": ">>1108897\nWill Europe really be broken from its chains too?\n",
+    "references": [
+      "8chan_qresearch_1108897"
+    ]
   }
 ]

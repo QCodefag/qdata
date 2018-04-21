@@ -7697,5 +7697,32 @@
     "references": [
       "8chan_qresearch_1133189"
     ]
+  },
+  {
+    "number": 1133332,
+    "timestamp": 1524337843,
+    "threadId": 1132590,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b7a0ab",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": "What will next week hold?\nMOAB.\nQ\n"
+  },
+  {
+    "number": 1133464,
+    "timestamp": 1524338151,
+    "threadId": 1132590,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b7a0ab",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1133332\nFire up those Memes!\nPlease stand by.\nOn the clock.\nReady to play? \nMOAB incoming.\nQ\n",
+    "references": [
+      "8chan_qresearch_1133332"
+    ]
   }
 ]

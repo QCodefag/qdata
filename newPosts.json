@@ -7382,5 +7382,33 @@
         "filename": "unnamed.jpg"
       }
     ]
+  },
+  {
+    "number": 1124872,
+    "timestamp": 1524282510,
+    "threadId": 1124274,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "35d50c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1124637\nThe world is watching.\nQ\n",
+    "references": [
+      "8chan_qresearch_1124637"
+    ]
+  },
+  {
+    "number": 1124637,
+    "timestamp": 1524281842,
+    "threadId": 1124274,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3d9fc3",
+    "name": "Anonymous",
+    "text": ">>1124578\n>>1124578\n>>1124578\n\n\nIs @Snowden talking about us?\n",
+    "references": [
+      "8chan_qresearch_1124578"
+    ]
   }
 ]

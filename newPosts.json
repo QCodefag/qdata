@@ -7630,5 +7630,72 @@
     "userId": "0b885e",
     "name": "Anonymous",
     "text": "CAN AN ANON  POST THIS POTUS TWEET VIDEO AT THE TOP OF THE NEXT BOARD?DONT KNOW HOW MUH\nDonald J. Trump\n‏\nVerified account\n<p class=\"body-line empty \"> </p>@realDonaldTrump\n 2h2 hours ago\nMore\nFantastic crowd and great people yesterday in Key West, Florida. Thank you!\n"
+  },
+  {
+    "number": 1133189,
+    "timestamp": 1524337369,
+    "threadId": 1132590,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b7a0ab",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1133099\nExpand further.\nWhy are we making it public?\nBlackwater USA.\nPlausible deniability.\nPlanned.\nThe world is connected.\nYou have more than you know.\nQ\n",
+    "references": [
+      "8chan_qresearch_1133099"
+    ]
+  },
+  {
+    "number": 1133238,
+    "timestamp": 1524337516,
+    "threadId": 1132590,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b7a0ab",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1133204\nWe came here for a reason.\nQ\n",
+    "references": [
+      "8chan_qresearch_1133204"
+    ]
+  },
+  {
+    "number": 1133099,
+    "timestamp": 1524336943,
+    "threadId": 1132590,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8af18d",
+    "name": "Anonymous",
+    "text": ">>1133014\n>>1133070\n\n<span class=\"heading\">TREASURE TROVE</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/9ecb0303e72c99d8767a65c6d167babdda8493c84e2bc355be05d12f448c763f.png",
+        "filename": "ClipboardImage.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/38f9ece20a7510b564a1010e8c53aa3a2853b10d2a506de7b55b6bb3fcaf7560.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1133014",
+      "8chan_qresearch_1133070"
+    ]
+  },
+  {
+    "number": 1133204,
+    "timestamp": 1524337419,
+    "threadId": 1132590,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "afd0a3",
+    "name": "Anonymous",
+    "text": ">>1133189\n>>1133189\n>>1133189\n>>1133189\n\nHow are we doing with the Comms Q?\n",
+    "references": [
+      "8chan_qresearch_1133189"
+    ]
   }
 ]

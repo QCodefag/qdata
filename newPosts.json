@@ -7758,5 +7758,30 @@
     "references": [
       "8chan_qresearch_1133772"
     ]
+  },
+  {
+    "number": 1133942,
+    "timestamp": 1524339848,
+    "threadId": 1133425,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30e575",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1133925\nAMERICA WILL BE UNIFIED AGAIN!\n11.11.18.\nQ\n",
+    "references": [
+      "8chan_qresearch_1133925"
+    ]
+  },
+  {
+    "number": 1133925,
+    "timestamp": 1524339792,
+    "threadId": 1133425,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "03b5fb",
+    "name": "Anonymous",
+    "text": "THANKQ - we are an existential threat to the establishment.\n\n#TrustingThePlan\n"
   }
 ]

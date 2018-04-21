@@ -7532,5 +7532,39 @@
     "references": [
       "8chan_qresearch_1131191"
     ]
+  },
+  {
+    "number": 1131328,
+    "timestamp": 1524330351,
+    "threadId": 1131062,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f49c4b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1131287\nCoincidence?\nThink Wendy.\nCoordinated - the \"Awakening.\"\nEvery detail accounted for.\nEvery scenario planned for.\nEnjoy the show.\nQ\n",
+    "references": [
+      "8chan_qresearch_1131287"
+    ]
+  },
+  {
+    "number": 1131287,
+    "timestamp": 1524330188,
+    "threadId": 1131062,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bc1d04",
+    "name": "Anonymous",
+    "text": ">>1131191\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/11e39594491c30894f44a6f6a24c04a6212c6371f217cf0b3522592d1898eaf6.png",
+        "filename": "pet.PNG"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1131191"
+    ]
   }
 ]

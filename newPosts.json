@@ -7422,5 +7422,33 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "https:// wikileaks.org/podesta-emails/emailid/7524\nQ\n"
+  },
+  {
+    "number": 1130171,
+    "timestamp": 1524325238,
+    "threadId": 1129578,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4b14c6",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1130125\n+\n“These stories will only matter/hurt us if we keep pushing hard and get too much chatter out there.”\nPush FAKE NEWS [4am] - MSM PRE BAD news [THEM].\nQ\n",
+    "references": [
+      "8chan_qresearch_1130125"
+    ]
+  },
+  {
+    "number": 1130125,
+    "timestamp": 1524324977,
+    "threadId": 1129578,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8612fa",
+    "name": "Anonymous",
+    "text": ">>1130089\n\nWe have has a very good relationship with Maggie Haberman of Politico over the last year. We have had her tee up stories for us before and have never been disappointed. While we should have a larger conversation in the near future about a broader strategy for reengaging the beat press that covers HRC, for this we think we can achieve our objective and do the most shaping by going to Maggie.\n",
+    "references": [
+      "8chan_qresearch_1130089"
+    ]
   }
 ]

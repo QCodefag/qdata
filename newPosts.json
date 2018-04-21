@@ -7724,5 +7724,39 @@
     "references": [
       "8chan_qresearch_1133332"
     ]
+  },
+  {
+    "number": 1133862,
+    "timestamp": 1524339605,
+    "threadId": 1133425,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30e575",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1133796\nThey will lose black vote once Haiti revealed.\nLost now (awakening).\nThey keep them enslaved.\nWhat did Hussein do for the black community? \nvs POTUS? \nQ\n",
+    "references": [
+      "8chan_qresearch_1133796"
+    ]
+  },
+  {
+    "number": 1133796,
+    "timestamp": 1524339358,
+    "threadId": 1133425,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "03b5fb",
+    "name": "Anonymous",
+    "text": ">>1133772\nTHIS IS WHAT THE NEXT 6 YEARS IS ABOUT - THIS QUESTION\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1d3813d3374ab1d560a67a599478556d5f7d29ece16f62ebade844f31e26cc8f.png",
+        "filename": "america-has-spoken.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1133772"
+    ]
   }
 ]

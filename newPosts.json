@@ -7917,5 +7917,39 @@
     "references": [
       "8chan_qresearch_1158014"
     ]
+  },
+  {
+    "number": 1158519,
+    "timestamp": 1524511173,
+    "threadId": 1157762,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "25d216",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1158228\nLike NK, they have been freed.\nAssets on the ground.\nQ\n",
+    "references": [
+      "8chan_qresearch_1158228"
+    ]
+  },
+  {
+    "number": 1158228,
+    "timestamp": 1524510040,
+    "threadId": 1157762,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "10528b",
+    "name": "Anonymous",
+    "text": ">>1158014\n>www.aljazeera.com/amp/news/2018/04/armenia-prime-minister-serzh-sargsyan-resigns-protests-180423120123655.html?__twitter_impression=true\n\"Thousands of people are on the streets, cheering and hugging each other, jumping up and down and honking their horns … things happened so quickly…\"\n\nAMAZING, Q!!!!!!!\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/51623259ed5f343ad9be3cefab0ed1ad697c7bc4b64b15eed2aa43623a588710.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1158014"
+    ]
   }
 ]

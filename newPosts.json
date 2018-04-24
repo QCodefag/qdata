@@ -8192,5 +8192,33 @@
     "references": [
       "8chan_qresearch_1169241"
     ]
+  },
+  {
+    "number": 1169419,
+    "timestamp": 1524584924,
+    "threadId": 1168695,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bc4b43",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1169348\nWe are in this together.\nNo fame.\nThis is about taking back our FREEDOM and saving our children/people from the EVIL that has plagued our country/world for so long.\nQ\n",
+    "references": [
+      "8chan_qresearch_1169348"
+    ]
+  },
+  {
+    "number": 1169348,
+    "timestamp": 1524584703,
+    "threadId": 1168695,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5cb39e",
+    "name": "Anonymous",
+    "text": ">>1169294\n\nPOTUS deserves a Nobel Peace Prize for his work.\n",
+    "references": [
+      "8chan_qresearch_1169294"
+    ]
   }
 ]

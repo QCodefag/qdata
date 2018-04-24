@@ -8149,5 +8149,48 @@
     "references": [
       "8chan_qresearch_1169138"
     ]
+  },
+  {
+    "number": 1169294,
+    "timestamp": 1524584534,
+    "threadId": 1168695,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bc4b43",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1169241\nHostage no more.\nQ\n",
+    "references": [
+      "8chan_qresearch_1169241"
+    ]
+  },
+  {
+    "number": 1169345,
+    "timestamp": 1524584700,
+    "threadId": 1168695,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bc4b43",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1169290\nShould we tell all the good people watching the day &amp; time?\nRed carpet rollout? \nThink logically.\nThe world is watching.\nQ\n",
+    "references": [
+      "8chan_qresearch_1169290"
+    ]
+  },
+  {
+    "number": 1169290,
+    "timestamp": 1524584535,
+    "threadId": 1168695,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "74152b",
+    "name": "Anonymous",
+    "text": ">>1169241\n>>1169241\nWhen will we have MOAB?\n",
+    "references": [
+      "8chan_qresearch_1169241"
+    ]
   }
 ]

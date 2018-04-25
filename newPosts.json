@@ -84,5 +84,40 @@
     "references": [
       "8chan_qresearch_1180433"
     ]
+  },
+  {
+    "number": 1180770,
+    "timestamp": 1524670902,
+    "threadId": 1180233,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a4fd30",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1180605\n>>1180604\nThe world is connected.\nAll or nothing.\n+++ ++ +\nTrust the plan.\nWe get massive amounts of ‘Q’ thank you letters from around the world every single day.\nTHE WORLD IS WATCHING.\nQ\n",
+    "references": [
+      "8chan_qresearch_1180605",
+      "8chan_qresearch_1180604"
+    ]
+  },
+  {
+    "number": 1180604,
+    "timestamp": 1524670378,
+    "threadId": 1180233,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c83b2e",
+    "name": "Anonymous",
+    "text": ">>1180433\nIRL when?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5f4ec4d4c05385f0c220e5f49706ee8762ace68996a71ed38c32261734b762fa.jpg",
+        "filename": "IMG_20180425_205438.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1180433"
+    ]
   }
 ]

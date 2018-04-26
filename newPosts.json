@@ -264,5 +264,36 @@
     "references": [
       "8chan_qresearch_1187631"
     ]
+  },
+  {
+    "number": 1189217,
+    "timestamp": 1524706575,
+    "threadId": 1188685,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4da1a4",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1189008\nTry harder.\nReady for tomorrow?\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/3ec08f88cd56c87fdfe521efa62445ab796fd1124788fa1764b6bfc60c994210.jpeg",
+        "filename": "7F62F04D-0B3A-4B66-AF51-3….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1189008"
+    ]
+  },
+  {
+    "number": 1189008,
+    "timestamp": 1524705874,
+    "threadId": 1188685,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "151300",
+    "name": "Anonymous",
+    "text": ">WHY DOES THE ANTIFA FLAG MIMIC THAT OF THE NAZIS?\n\nIs Q retarded? Their flags are completely different…\n"
   }
 ]

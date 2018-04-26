@@ -338,5 +338,33 @@
         "filename": "maxresdefault.jpg"
       }
     ]
+  },
+  {
+    "number": 1198932,
+    "timestamp": 1524775247,
+    "threadId": 1198065,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f37e49",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1198778\nImportant to note [texts only].\n[R] = Renegade\nNot RR.\nQ\n",
+    "references": [
+      "8chan_qresearch_1198778"
+    ]
+  },
+  {
+    "number": 1198778,
+    "timestamp": 1524774500,
+    "threadId": 1198065,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c83895",
+    "name": "Anonymous",
+    "text": ">>1198766\nSara A. Carter\n‏\nGeverifieerd account\n<p class=\"body-line empty \"> </p>@SaraCarterDC\nVolgen \n@SaraCarterDC volgen\n<p class=\"body-line empty \"> </p>Meer\n#BreakingNews Strzok and Page text messages have been delivered to Congress on #Hannity radio now\n",
+    "references": [
+      "8chan_qresearch_1198766"
+    ]
   }
 ]

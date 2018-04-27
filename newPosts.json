@@ -433,5 +433,36 @@
     "references": [
       "8chan_qresearch_1211294"
     ]
+  },
+  {
+    "number": 1211560,
+    "timestamp": 1524854740,
+    "threadId": 1211384,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "58ac53",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1211493\nExpand.\nWho interviewed Flynn?\nWhat redacted texts were released yesterday?\nCoincidence?\nWhy did Flynn take the bullet?\nRubber bullet?\nLawmakers make public?\nLawmakers learned gmail draft comms yesterday?\nLawmakers go hunting?\nWhat is the purpose of a laser pointer?\nYou have more than you know.\nComms understood?\nQ\n",
+    "references": [
+      "8chan_qresearch_1211493"
+    ]
+  },
+  {
+    "number": 1211493,
+    "timestamp": 1524854473,
+    "threadId": 1211384,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "04fd50",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/210d0b5cfa6008954bb0279b609a6fe60927e783d0c6952b98fb5e5e58084b83.png",
+        "filename": "flynn judge.png"
+      }
+    ]
   }
 ]

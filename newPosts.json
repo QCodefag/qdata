@@ -805,5 +805,36 @@
         "filename": "llllll.png"
       }
     ]
+  },
+  {
+    "number": 1243783,
+    "timestamp": 1525063399,
+    "threadId": 1243116,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c6a0d5",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1243759\nAssets in place.\nQ\n",
+    "references": [
+      "8chan_qresearch_1243759"
+    ]
+  },
+  {
+    "number": 1243759,
+    "timestamp": 1525063309,
+    "threadId": 1243116,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "05fb42",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/01aff7b6e94702f7527b1b49ed77485e23fc0d42b5f76907b90f6e9e9475d759.png",
+        "filename": "Screen Shot 2018-04-29 at ….png"
+      }
+    ]
   }
 ]

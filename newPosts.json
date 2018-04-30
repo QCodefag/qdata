@@ -759,5 +759,51 @@
     "name": "Q",
     "trip": "!xowAT4Z3VQ",
     "text": "https:<em>//</em>mobile.twitter.com/USEmbassyJordan/status/990666003037204481\nQ\n"
+  },
+  {
+    "number": 1243597,
+    "timestamp": 1525062722,
+    "threadId": 1243116,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c6a0d5",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1243510\nConnect.\nNo coincidences.\nhttps:<em>//</em>mobile.twitter.com/DeptofDefense/status/990772726884392965\nQ\n",
+    "references": [
+      "8chan_qresearch_1243510"
+    ]
+  },
+  {
+    "number": 1243605,
+    "timestamp": 1525062760,
+    "threadId": 1243116,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c6a0d5",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!xowAT4Z3VQ",
+    "text": ">>1243593\n",
+    "references": [
+      "8chan_qresearch_1243593"
+    ]
+  },
+  {
+    "number": 1243593,
+    "timestamp": 1525062709,
+    "threadId": 1243116,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2df76f",
+    "name": "Anonymous",
+    "text": ">>1242682\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/99f6b3f387c5783e468e8423ee52863d71d82bc16d5dc69b17fd9d1a5998f42d.png",
+        "filename": "llllll.png"
+      }
+    ]
   }
 ]

@@ -968,7 +968,13 @@
     "isQ": true,
     "name": "Q",
     "trip": "!2jsTvXXmXs",
-    "text": "[Future Comms]\nPre_stage ele_y\nPre_stage sec_y\nPre_stage dir_y\nPre_stage cap_y\n[OnReady]\nQ\n"
+    "text": "[Future Comms]\nPre_stage ele_y\nPre_stage sec_y\nPre_stage dir_y\nPre_stage cap_y\n[OnReady]\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/bf4881a8abebf10e64d3426065cc34386be99f50ef7651fb2fbb49a3c637ec17.jpg",
+        "filename": "Justice.png"
+      }
+    ]
   },
   {
     "number": 63,

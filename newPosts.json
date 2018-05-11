@@ -1243,5 +1243,36 @@
     "name": "Q",
     "trip": "!4pRcUA0lBE",
     "text": "Rank &amp; File.\nDOJ, FBI, C_A, State.\n[G-2][Collect]\n[SIS Good].\nNot Forgotten.\nOvercome.\nQ\n"
+  },
+  {
+    "number": 1366780,
+    "timestamp": 1526010861,
+    "threadId": 1366413,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5a8a44",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": ">>1366601\nNote the pictures we post are ALL originals.\nThink about what that means.\nQ\n",
+    "references": [
+      "8chan_qresearch_1366601"
+    ]
+  },
+  {
+    "number": 1366601,
+    "timestamp": 1526010222,
+    "threadId": 1366413,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0f8512",
+    "name": "Anonymous",
+    "text": "Marina Bay sands, Singapore.\n\n<span class=\"heading\"> IS THIS THE SKY EVENT? </span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/bcb6162f785865284dc21a6d8221fed7a2cccb3b299a1e8b8a5f1303791d7d83.png",
+        "filename": "bdf33ed9dd09187c028033011d….png"
+      }
+    ]
   }
 ]

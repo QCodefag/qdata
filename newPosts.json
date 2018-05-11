@@ -1296,5 +1296,44 @@
     "name": "Q",
     "trip": "!4pRcUA0lBE",
     "text": "Facebook is listening to you 24/7/365.\nLiterally.\n[F9 algorithm]\nAre they recording/safe-housing?\nMetadata collection?\nBuilding 8.\nDARPA.\n[CHINA-CHINA-CHINA]\nQ\n"
+  },
+  {
+    "number": 1368097,
+    "timestamp": 1526016580,
+    "threadId": 1367913,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "da0ef2",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": ">>1368028\nExplore further.\nQ\n",
+    "references": [
+      "8chan_qresearch_1368028"
+    ]
+  },
+  {
+    "number": 1368028,
+    "timestamp": 1526016174,
+    "threadId": 1367913,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cbb9f2",
+    "name": "Anonymous",
+    "text": ">>1367898\n\nF9\nFalcon 9\nChina\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/62716cdf0815f083aa0a71ed5dd2a73e7b1e6bcbd59f9ab08a95178ebf3823fc.png",
+        "filename": "Spacex.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/9f7218a2e1b8404c7e5d144c5b3c4b35157fe84bcf736cdae1c8c47573b771b4.png",
+        "filename": "China.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/52f540db11d1959601f07f2772adc6d02433f4518597904afbbaa9afca302ba5.png",
+        "filename": "F9.png"
+      }
+    ]
   }
 ]

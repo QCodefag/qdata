@@ -1359,5 +1359,33 @@
     "name": "Q",
     "trip": "!4pRcUA0lBE",
     "text": "This is why we are here.\nhttps:<em>//</em>www.reddit.com/r/greatawakening/comments/8ia0vu/the_long_and_secret_info_wars_against_q_and_how/\nQ\n"
+  },
+  {
+    "number": 1384036,
+    "timestamp": 1526140247,
+    "threadId": 1383745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "904c6f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": ">>1383888\nTime to move on.\nBig week ahead!\nhttp:<em>//</em>insider.foxnews.com/2017/04/17/alex-jones-performance-artist-attorney-says-texas-child-custody-case\nQ\n",
+    "references": [
+      "8chan_qresearch_1383888"
+    ]
+  },
+  {
+    "number": 1383888,
+    "timestamp": 1526138741,
+    "threadId": 1383745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4296e0",
+    "name": "Anonymous",
+    "text": ">>1383873\nWe've all been blinded for too long. Alex Jones is NOT alt media, he is a traitor. He makes us all look crazy. Fuck him\n",
+    "references": [
+      "8chan_qresearch_1383873"
+    ]
   }
 ]

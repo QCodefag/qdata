@@ -1886,5 +1886,23 @@
     "references": [
       "8chan_qresearch_1413056"
     ]
+  },
+  {
+    "number": 1413485,
+    "timestamp": 1526351094,
+    "threadId": 1412693,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1ab4eb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": "Pain coming.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/2c7bdab59f3fa9b802a0eb1aaf0efec8625aec237fca93e6a4fdadd01d1f0287.png",
+        "filename": "6E7E8257-6B02-4EC7-9547-05….png"
+      }
+    ]
   }
 ]

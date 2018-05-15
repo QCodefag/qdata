@@ -1815,5 +1815,48 @@
         "filename": "rtz421p6s5x01.png"
       }
     ]
+  },
+  {
+    "number": 1413017,
+    "timestamp": 1526349288,
+    "threadId": 1412693,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1ab4eb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": "Who knows where the bodies are buried?\nRe_read drops re: Who knows where….\nRudy.\nNow comes the pain.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/9f88be903dbb360699fb6a07b87697c76f1aa310bb4538298cf9f565c180224d.jpeg",
+        "filename": "31DA54AC-AD54-4D4C-8FB2-E….jpeg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/96cd71b28249e5d2eeed3b4ecc8725bdc2de525aa132bec550495064691cba91.jpeg",
+        "filename": "12DD1455-1F9D-457A-8138-F….jpeg"
+      }
+    ]
+  },
+  {
+    "number": 1413045,
+    "timestamp": 1526349394,
+    "threadId": 1412693,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1ab4eb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": ">>1413017\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/030197831b9bbbf9c4d90782e2ab5ff7ca8916fb6255e56427c6fe736a1a26cc.jpeg",
+        "filename": "34FCAEB5-A10B-456D-BC5E-7….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1413017"
+    ]
   }
 ]

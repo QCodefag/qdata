@@ -1858,5 +1858,33 @@
     "references": [
       "8chan_qresearch_1413017"
     ]
+  },
+  {
+    "number": 1413374,
+    "timestamp": 1526350707,
+    "threadId": 1412693,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1ab4eb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": ">>1413137\n",
+    "references": [
+      "8chan_qresearch_1413137"
+    ]
+  },
+  {
+    "number": 1413137,
+    "timestamp": 1526349667,
+    "threadId": 1412693,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c57186",
+    "name": "Anonymous",
+    "text": ">>1413056\nI don't think it would be fair to say that a journalist can't make money when covering Q.  But that's the difference.  A journalist covering Q isn't necessarily usurping Q.  The paytriots in question were trying to usurp Q.  This video explains what happened very well.  It certainly cleared my head about it all.\nhttps:<em>//</em>youtu.be/gi9CQHVDg8E\n",
+    "references": [
+      "8chan_qresearch_1413056"
+    ]
   }
 ]

@@ -2095,5 +2095,67 @@
     "references": [
       "8chan_qresearch_1419926"
     ]
+  },
+  {
+    "number": 83,
+    "timestamp": 1526508034,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/a825ef90ad901c222a8f52797028aaf51182eaeab94f545eb7a9d3b662006257.jpg",
+        "filename": "Db1VHvKV0AAQgUU.jpg"
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "timestamp": 1526511247,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": "You have a choice.\nDo what is right.\nhttps://www.youtube.com/watch?v=JDVT-8tUfiE\nQ\n"
+  },
+  {
+    "number": 85,
+    "timestamp": 1526579646,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/d96dc42bf97cfc16f8cc8a1d59fbb4d22281e2d667ed7f8855dbdf867c8fbacc.jpg",
+        "filename": "DabBWtCX4AAm5oa.jpg"
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "timestamp": 1526579661,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!4pRcUA0lBE",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5d8876ebdd2274cdadfb2aaac44f45c10eb780a7c044130687e554b0dcb2fef3.jpg",
+        "filename": "DZ0wd-NUQAE3CPc.jpg"
+      }
+    ]
   }
 ]

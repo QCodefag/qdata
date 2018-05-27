@@ -1,6 +1,7 @@
 *
 !.gitignore
+!images/
 !images/*
-!newPosts.json
-!posts.json
+!data/
+!data/*
 !README.md

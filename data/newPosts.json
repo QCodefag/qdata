@@ -3830,5 +3830,42 @@
         "filename": "NowComesTHEPain061118.jpg"
       }
     ]
+  },
+  {
+    "number": 1704013,
+    "timestamp": 1528753826,
+    "threadId": 1703351,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "22318c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1703935\nWhat recent news came out re: SR/JA/WL lawsuit?\nBack in the news.\nThe 'server' brings down the house.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/194c4001dd856eee4f5d782f04dd82257e4b6694166c0761a7a38e35f760d8e5.jpg",
+        "filename": "DbMqigAU8AADwtA.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1703935"
+    ]
+  },
+  {
+    "number": 1703935,
+    "timestamp": 1528753541,
+    "threadId": 1703351,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "511266",
+    "name": "Anonymous",
+    "text": "Q is this man free? Is he safe?  If he isn't, can you help him?  He is a hero.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/36e46acad64eb0a11eb46418296f7c79329137e2ea488f875d775c8363b0af96.gif",
+        "filename": "JulianAssange_Smile.gif"
+      }
+    ]
   }
 ]

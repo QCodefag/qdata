@@ -3423,5 +3423,30 @@
         "filename": "SING_F2F_LOCK_TOP.jpeg"
       }
     ]
+  },
+  {
+    "number": 1693998,
+    "timestamp": 1528687111,
+    "threadId": 1693260,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2af222",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1693990\nNot POTUS.\nQ\n",
+    "references": [
+      "8chan_qresearch_1693990"
+    ]
+  },
+  {
+    "number": 1693990,
+    "timestamp": 1528687063,
+    "threadId": 1693260,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dac787",
+    "name": "Anonymous",
+    "text": "<strong>Thank you for guarding POTUS, Erik.</strong>\n"
   }
 ]

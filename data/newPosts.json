@@ -3867,5 +3867,39 @@
         "filename": "JulianAssange_Smile.gif"
       }
     ]
+  },
+  {
+    "number": 1704083,
+    "timestamp": 1528754010,
+    "threadId": 1703351,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "22318c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1704039\nPatriot.\nQ\n",
+    "references": [
+      "8chan_qresearch_1704039"
+    ]
+  },
+  {
+    "number": 1704039,
+    "timestamp": 1528753906,
+    "threadId": 1703351,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "17fc97",
+    "name": "Anonymous",
+    "text": ">>1704013\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/ad4a8c874026807fc224d6d6bff7ea87a2b260c30244d2b5a463838072532e03.jpg",
+        "filename": "seth_rich_cover.582cd87e07….jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1704013"
+    ]
   }
 ]

@@ -4004,5 +4004,43 @@
         "filename": "clpboard.png"
       }
     ]
+  },
+  {
+    "number": 1714928,
+    "timestamp": 1528824228,
+    "threadId": 1714182,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c65afd",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1714826\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/cda5d06e8d42f553ca4b7488f18b8fd54e13943d135dafcc9f89ce2cc04e2c77.jpg",
+        "filename": "DfcXSDKUEAAVzjm.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/c21946b7972464a7d238b034d83c7263691aec590d221408b1ba1a6932e12fa5.jpg",
+        "filename": "DRqoI8HVAAA0oEK.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1714826"
+    ]
+  },
+  {
+    "number": 1714826,
+    "timestamp": 1528823900,
+    "threadId": 1714182,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dd9562",
+    "name": "Anonymous",
+    "text": ">>1714793\n\nAll the POTUS tweets changing councel → counsel = CS = Crowd Strike?\n",
+    "references": [
+      "8chan_qresearch_1714793"
+    ]
   }
 ]

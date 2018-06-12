@@ -3973,5 +3973,36 @@
     "references": [
       "8chan_qresearch_1714675"
     ]
+  },
+  {
+    "number": 1714862,
+    "timestamp": 1528824015,
+    "threadId": 1714182,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c65afd",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1714785\nWhat a coincidence.\n4 points / 4 booms\nDark to Light 1:07\nMore to come.\nQ\n",
+    "references": [
+      "8chan_qresearch_1714785"
+    ]
+  },
+  {
+    "number": 1714785,
+    "timestamp": 1528823778,
+    "threadId": 1714182,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bb5813",
+    "name": "Anonymous",
+    "text": "From the summit document… 4 BOOMS \n\nBOOM 1:The United States and the DPRK commit to establish new U.S.-DPRK relations in accordance with the desire of the peoples of the two countries for peace and prosperity.\n\nBOOM 2: The United States and the DPRK will join their efforts to build a lasting and stable peace regime on the Korean Peninsula.\n\nBOOM 3: Reaffirming the April 27, 2018 Panmunjom Declaration, the DPRK commits to work toward complete denuclearization of the Korean Peninsula.\n\n\nBOOM 4: The United States and the DPRK commit to recovering POW/MIA remains, including the immediate repatriation of those already identified.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b8feb5b1154105b31938dcacae50a76a770965b00de772641cba5ca62dc98f03.png",
+        "filename": "clpboard.png"
+      }
+    ]
   }
 ]

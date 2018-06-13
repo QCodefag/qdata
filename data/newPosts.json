@@ -4319,5 +4319,33 @@
     "references": [
       "8chan_qresearch_1723746"
     ]
+  },
+  {
+    "number": 1723927,
+    "timestamp": 1528861397,
+    "threadId": 1723413,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ba4b10",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1723855\nThink new arrivals.\nProofs are important.\nThank you Autists/Anons.\nQ\n",
+    "references": [
+      "8chan_qresearch_1723855"
+    ]
+  },
+  {
+    "number": 1723855,
+    "timestamp": 1528861192,
+    "threadId": 1723413,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4a86cd",
+    "name": "Anonymous",
+    "text": ">>1723807\n<strong>This board in the coming months will be spread &amp; discussed across ALL PLATFORMS.</strong>\n<span class=\"heading\">IMPORTANT TO BE PREPARED</span>\n",
+    "references": [
+      "8chan_qresearch_1723807"
+    ]
   }
 ]

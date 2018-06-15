@@ -4574,5 +4574,30 @@
     "references": [
       "8chan_qresearch_1762746"
     ]
+  },
+  {
+    "number": 1762912,
+    "timestamp": 1529101980,
+    "threadId": 1762818,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0d582e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1762874\nThink meeting yesterday.\nQ\n",
+    "references": [
+      "8chan_qresearch_1762874"
+    ]
+  },
+  {
+    "number": 1762874,
+    "timestamp": 1529101822,
+    "threadId": 1762818,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "371f97",
+    "name": "Anonymous",
+    "text": "so what happens in 2.5 hours ?\n"
   }
 ]

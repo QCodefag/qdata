@@ -4739,5 +4739,44 @@
         "filename": "53C62A96-C54F-4EC6-969A-7….jpeg"
       }
     ]
+  },
+  {
+    "number": 1764595,
+    "timestamp": 1529108214,
+    "threadId": 1764372,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bb2ba6",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1764453\nHave you IDEN other person?\nSearch Hussein admin.\nNo facial hair.\nObtain name.\nCross FBI sec clearance?\nNo.\nWhy?\nOrigin?\nQ\n",
+    "references": [
+      "8chan_qresearch_1764453"
+    ]
+  },
+  {
+    "number": 1764453,
+    "timestamp": 1529107659,
+    "threadId": 1764372,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3baecd",
+    "name": "Anonymous",
+    "text": "This Pakistani got plugged in the booty by Hussein in college.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/ad0065bb556b07518b4cc57d00165efb31530141748b7f44e705b6cdd4ca3d96.png",
+        "filename": "Screenshot_2018-06-15-12-0….png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/b287f019360dc9a6cee116ea204119debe51e370e21ac3310e0480e3b1e89fca.jpg",
+        "filename": "2carb9.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/2d1d2d505e8367b26fd156a26d96a57ed92206e92b97097045df195e283f1fbc.png",
+        "filename": "Screenshot_2018-06-15-10-5….png"
+      }
+    ]
   }
 ]

@@ -4968,5 +4968,30 @@
     "references": [
       "8chan_qresearch_1769716"
     ]
+  },
+  {
+    "number": 1769937,
+    "timestamp": 1529131830,
+    "threadId": 1769876,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6409b7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1769896\nNo one person is above another.\nWe are in this together.\nWWG1WGA!\nQ\n",
+    "references": [
+      "8chan_qresearch_1769896"
+    ]
+  },
+  {
+    "number": 1769896,
+    "timestamp": 1529131662,
+    "threadId": 1769876,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d16b8c",
+    "name": "Anonymous",
+    "text": "Q, thank you for your service to our great country. You have restored true hope in the hearts of many patriots. God is with you and all of us.\n"
   }
 ]

@@ -4708,5 +4708,36 @@
     "references": [
       "8chan_qresearch_1763131"
     ]
+  },
+  {
+    "number": 1764530,
+    "timestamp": 1529108027,
+    "threadId": 1764372,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bb2ba6",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1764437\nPlants need water!\nQ\n",
+    "references": [
+      "8chan_qresearch_1764437"
+    ]
+  },
+  {
+    "number": 1764437,
+    "timestamp": 1529107597,
+    "threadId": 1764372,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ca3a83",
+    "name": "Anonymous",
+    "text": "Integrity. Devotion. Loyalty.\n\nWill POTUS and Q allow Manafort to suffer the wrath of the cabal….for helping POTUS and the good guys?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/3c789c2f2dfd43324a61950acc1bb34197523043dfdd2e31d0dffa079a9af991.jpeg",
+        "filename": "53C62A96-C54F-4EC6-969A-7….jpeg"
+      }
+    ]
   }
 ]

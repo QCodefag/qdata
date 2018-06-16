@@ -4851,5 +4851,36 @@
         "filename": "44AA2250-1E76-413F-943E-7….jpeg"
       }
     ]
+  },
+  {
+    "number": 1768724,
+    "timestamp": 1529125775,
+    "threadId": 1768226,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e5e78e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1768697\nNews unlocks.\nQ\n",
+    "references": [
+      "8chan_qresearch_1768697"
+    ]
+  },
+  {
+    "number": 1768697,
+    "timestamp": 1529125644,
+    "threadId": 1768226,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4881bd",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">THIS Q</span>\n<span class=\"heading\">WE HAVE IT ALL</span>\n<span class=\"heading\">]HUBER[ ???</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/a4128904d769589d4af9203180be7b0fb8b2ce4d67593b4accc48efad6cad68c.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
   }
 ]

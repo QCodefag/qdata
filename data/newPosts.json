@@ -5254,5 +5254,33 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "@2:20\nhttps:<em>//</em>ftw.usatoday.com/2018/03/saturday-night-live-charles-barkley-alex-rodriguez-the-champions-sketch\nIt’s coming.\nQ\n"
+  },
+  {
+    "number": 1790105,
+    "timestamp": 1529279146,
+    "threadId": 1789928,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "734920",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1790063\nhttps:<em>//</em>www.snopes.com/news/2018/05/18/conspiracy-theories-texas-santa-fe-shooting/\n+Snopes building algo to now track and refute all claims as false.\nQ\n",
+    "references": [
+      "8chan_qresearch_1790063"
+    ]
+  },
+  {
+    "number": 1790063,
+    "timestamp": 1529278967,
+    "threadId": 1789928,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "67d3c5",
+    "name": "Anonymous",
+    "text": ">>1789978\nQ's saying the anti-Q talk is about to go mainstream in the biggest way.\n",
+    "references": [
+      "8chan_qresearch_1789978"
+    ]
   }
 ]

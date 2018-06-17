@@ -5039,5 +5039,45 @@
     "references": [
       "8chan_qresearch_1784226"
     ]
+  },
+  {
+    "number": 1784426,
+    "timestamp": 1529248992,
+    "threadId": 1783734,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f983de",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1784394\nGOOG OP provided undeniable proof.\nHow do you share what you already know (legally)?\nThose who don’t act now know they cannot hide the reasons why.\nWhat a wonderful day.\nQ\n",
+    "references": [
+      "8chan_qresearch_1784394"
+    ]
+  },
+  {
+    "number": 1784469,
+    "timestamp": 1529249201,
+    "threadId": 1783734,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f983de",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1762746\n"
+  },
+  {
+    "number": 1784394,
+    "timestamp": 1529248779,
+    "threadId": 1783734,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4321b0",
+    "name": "Anonymous",
+    "text": ">>1784226\nAbout time Congress acted like it still has some power. We'll see. Intelligence branch has had it neutered w so-called nat sec\n",
+    "references": [
+      "8chan_qresearch_1784226"
+    ]
   }
 ]

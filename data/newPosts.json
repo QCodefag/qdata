@@ -5214,5 +5214,33 @@
     "references": [
       "8chan_qresearch_1785388"
     ]
+  },
+  {
+    "number": 1785859,
+    "timestamp": 1529255146,
+    "threadId": 1785281,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9fc2c1",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1785584\nhttps:<em>//</em>m.youtube.com/watch?v=aNoiYpOKnqs\nLead in was cover.\nExit out was missing what?\nQ\n",
+    "references": [
+      "8chan_qresearch_1785584"
+    ]
+  },
+  {
+    "number": 1785584,
+    "timestamp": 1529254220,
+    "threadId": 1785281,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "84b9ef",
+    "name": "Anonymous",
+    "text": ">>1785388\n\nhttps:<em>//</em>www.youtube.com/watch?v=44kW03sfKrI\nBatr Sartre\nPublished on 31 Jul 2016\nThis Obama speech was given at the Bilderberg Group conference in Brussels , Belgium , on May 23, 2014 and Obama’s comments are chilling !  \n<p class=\"body-line empty \"> </p>This was sent by a German friend after the YouTube version from the US was pulled.   It’s unbelievable that Obama actually says this out loud!\n",
+    "references": [
+      "8chan_qresearch_1785388"
+    ]
   }
 ]

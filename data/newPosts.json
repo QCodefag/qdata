@@ -5091,5 +5091,70 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "https:<em>//</em>mobile.twitter.com/FoxNews/status/1008357349193539585\nListen carefully.\nWhat will this week bring?\nQ\n"
+  },
+  {
+    "number": 1784829,
+    "timestamp": 1529251196,
+    "threadId": 1784514,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0ea77b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1784660\nThank you &amp; God bless.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/597477429cbccb828a4d4b98850754238e713e1fd94f0bbec2ede0fc14612eb5.png",
+        "filename": "6AEEA5FB-26E3-4413-9E6C-98….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1784660"
+    ]
+  },
+  {
+    "number": 1784855,
+    "timestamp": 1529251300,
+    "threadId": 1784514,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0ea77b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1784823\n",
+    "references": [
+      "8chan_qresearch_1784823"
+    ]
+  },
+  {
+    "number": 1784660,
+    "timestamp": 1529250358,
+    "threadId": 1784514,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e3721b",
+    "name": "Anonymous",
+    "text": "Q, Happy Father's Day!  You are furthering the Divine Stride of our Founding Fathers.  May you feel their blessing and may they shower keen intelligence, power and safety upon you.\n"
+  },
+  {
+    "number": 1784823,
+    "timestamp": 1529251155,
+    "threadId": 1784514,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3af3bb",
+    "name": "Anonymous",
+    "text": ">>1784739\n>What will this week bring?\n\nProof [RR] altered the IG Report!\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/0ec71aa9fe60bb4f023666baba8157738c573905f20d30a44153a2f19733c027.jpg",
+        "filename": "6-14-18 IG Report altered.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1784739"
+    ]
   }
 ]

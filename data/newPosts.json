@@ -5186,5 +5186,33 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "https:<em>//</em>mobile.twitter.com/KBMAGAFL/status/1008386945905504256/video/1\nQ\n"
+  },
+  {
+    "number": 1785558,
+    "timestamp": 1529254138,
+    "threadId": 1785281,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9fc2c1",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1785535\nHappy Father’s Day!\nQ\n",
+    "references": [
+      "8chan_qresearch_1785535"
+    ]
+  },
+  {
+    "number": 1785535,
+    "timestamp": 1529254061,
+    "threadId": 1785281,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "460047",
+    "name": "Anonymous",
+    "text": ">>1785388\n>https:<em>//</em>mobile.twitter.com/KBMAGAFL/status/1008386945905504256/video/1\nHoly Smokes!\nThey are in for it!\nYou really do have it all!\n",
+    "references": [
+      "8chan_qresearch_1785388"
+    ]
   }
 ]

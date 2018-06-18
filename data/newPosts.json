@@ -5297,5 +5297,33 @@
     "references": [
       "8chan_qresearch_1790105"
     ]
+  },
+  {
+    "number": 1790332,
+    "timestamp": 1529280048,
+    "threadId": 1789928,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "734920",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1790261\nReview lawsuit.\nReview GoFundMe plea.\nReview financial disclosure.\nReview formation date.\nReview initial investor(s).\nControlled.\nQ\n",
+    "references": [
+      "8chan_qresearch_1790261"
+    ]
+  },
+  {
+    "number": 1790261,
+    "timestamp": 1529279762,
+    "threadId": 1789928,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dabe2d",
+    "name": "Anonymous",
+    "text": ">>1790208\nSnopes is run by the left, anything but impartial fact checkers. The More they attack Q the stronger WE become….\n",
+    "references": [
+      "8chan_qresearch_1790208"
+    ]
   }
 ]

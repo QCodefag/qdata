@@ -5787,5 +5787,33 @@
         "filename": "7C2CB3D8-D238-47FA-9A74-F….jpeg"
       }
     ]
+  },
+  {
+    "number": 1814421,
+    "timestamp": 1529428454,
+    "threadId": 1813832,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0d679a",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1814299\nWhat a coincidence.\nQ\n",
+    "references": [
+      "8chan_qresearch_1814299"
+    ]
+  },
+  {
+    "number": 1814299,
+    "timestamp": 1529427983,
+    "threadId": 1813832,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a4ac3a",
+    "name": "Anonymous",
+    "text": ">>1814286\n>>1814286\n>>1814286\n>>1814286\n^^^^ I LIKE THAT\n[J_C] with extra P in twatt = [JPC]\n",
+    "references": [
+      "8chan_qresearch_1814286"
+    ]
   }
 ]

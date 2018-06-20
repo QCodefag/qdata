@@ -5946,5 +5946,39 @@
     "references": [
       "8chan_qresearch_1822612"
     ]
+  },
+  {
+    "number": 1823560,
+    "timestamp": 1529463698,
+    "threadId": 1823037,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "20cefe",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1823342\nThank you for your service.\nGod bless and stay safe.\nQ\n",
+    "references": [
+      "8chan_qresearch_1823342"
+    ]
+  },
+  {
+    "number": 1823342,
+    "timestamp": 1529462941,
+    "threadId": 1823037,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "308413",
+    "name": "Anonymous",
+    "text": ">>1823321\nI'd go even if I had to leave early and walk my ass there lol\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/388856dabb1b4b46f781068903cc6a78e0cf2b21b02a12b442e55a6e40f33844.jpg",
+        "filename": "WWG1WGA.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1823321"
+    ]
   }
 ]

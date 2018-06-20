@@ -5860,5 +5860,30 @@
         "filename": "iPhone_Tweets.png"
       }
     ]
+  },
+  {
+    "number": 1821327,
+    "timestamp": 1529456023,
+    "threadId": 1820698,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3b1d70",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1821067\n45\n",
+    "references": [
+      "8chan_qresearch_1821067"
+    ]
+  },
+  {
+    "number": 1821067,
+    "timestamp": 1529454909,
+    "threadId": 1820698,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4eaa4b",
+    "name": "Anonymous",
+    "text": "Come on Q. Who is it? this is the owl photo all over again. A lot happened today and anons are focusing on a damn blurry photo of some old  man. End it already!\n"
   }
 ]

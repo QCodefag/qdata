@@ -5903,5 +5903,48 @@
         "filename": "iPhone_Twitter_WH.png"
       }
     ]
+  },
+  {
+    "number": 1822797,
+    "timestamp": 1529461390,
+    "threadId": 1822262,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cb5055",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1822727\nWhat a coincidence.\nTwitter shot in the Oval and next a Tweet.\nQ\n",
+    "references": [
+      "8chan_qresearch_1822727"
+    ]
+  },
+  {
+    "number": 1822846,
+    "timestamp": 1529461514,
+    "threadId": 1822262,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cb5055",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1822797\n[1] min Delta.\nConspiracy?\nQ\n",
+    "references": [
+      "8chan_qresearch_1822797"
+    ]
+  },
+  {
+    "number": 1822727,
+    "timestamp": 1529461241,
+    "threadId": 1822262,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b1bb22",
+    "name": "Anonymous",
+    "text": ">>1822612\nDonald J. Trump\n‏\nVerified account\n<p class=\"body-line empty \"> </p>@realDonaldTrump\nFollowing Following @realDonaldTrump\nMore\nEarlier today, @FLOTUS Melania and I were honored to welcome King Felipe VI and Queen Letizia of Spain to the @WhiteHouse!🇺🇸🇪🇸\n0:17\n7:17 PM - 19 Jun 2018\n",
+    "references": [
+      "8chan_qresearch_1822612"
+    ]
   }
 ]

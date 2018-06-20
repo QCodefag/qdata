@@ -6007,5 +6007,39 @@
     "references": [
       "8chan_qresearch_1828481"
     ]
+  },
+  {
+    "number": 1828656,
+    "timestamp": 1529504506,
+    "threadId": 1828419,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e96bad",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1828594\nPart of the club.\nQ\n",
+    "references": [
+      "8chan_qresearch_1828594"
+    ]
+  },
+  {
+    "number": 1828594,
+    "timestamp": 1529504279,
+    "threadId": 1828419,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "20c603",
+    "name": "Anonymous",
+    "text": ">>1828504\nHave a peek at her ring. Just sick\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/4419128011d5a2da38173d0ce64449cc499f7c9c8a9be3c4d85518127ad5fdcf.jpg",
+        "filename": "ring.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1828504"
+    ]
   }
 ]

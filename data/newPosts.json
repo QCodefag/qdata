@@ -6101,5 +6101,32 @@
         "filename": "556042FC-27BA-4AE6-8D70-E….jpeg"
       }
     ]
+  },
+  {
+    "number": 1837019,
+    "timestamp": 1529540301,
+    "threadId": 1836835,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c04bc0",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1836621\nTOGETHER.\nWWG1WGA!\n#WINNING\nQ\n"
+  },
+  {
+    "number": 1837073,
+    "timestamp": 1529540386,
+    "threadId": 1836835,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c04bc0",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1837019\nLook for more direct confirmations.\nIt’s time.\nQ\n",
+    "references": [
+      "8chan_qresearch_1837019"
+    ]
   }
 ]

@@ -6179,5 +6179,36 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "Now that’s what I call a VIP!\nhttps:<em>//</em>mobile.twitter.com/Q_ANONBaby/status/1009614122642825217/photo/1\nQ+\n"
+  },
+  {
+    "number": 1842655,
+    "timestamp": 1529558920,
+    "threadId": 1842378,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "97de56",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1842592\nJan 20, 2017\nJune 20, 2018\nExactly 17 months.\nDo you believe in coincidences?\nGod bless you all.\nQ\n",
+    "references": [
+      "8chan_qresearch_1842592"
+    ]
+  },
+  {
+    "number": 1842592,
+    "timestamp": 1529558596,
+    "threadId": 1842378,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2b6cd5",
+    "name": "Anonymous",
+    "text": "for (you) VIPanon\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/7e910ba80666a5735e830e29ee736e8cee42e3cf6c3d53c22caf224495817a97.mp4",
+        "filename": "vipanon-reduced-forinfinit….mp4"
+      }
+    ]
   }
 ]

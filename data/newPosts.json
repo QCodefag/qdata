@@ -6128,5 +6128,32 @@
     "references": [
       "8chan_qresearch_1837019"
     ]
+  },
+  {
+    "number": 1838246,
+    "timestamp": 1529543581,
+    "threadId": 1837549,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ad54cb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": "Boom!\nhttps:<em>//</em>mobile.twitter.com/RepMattGaetz/status/1009431577682763776\n[[[ ]]]\n[[ ]]\n[ ]\nQ\n"
+  },
+  {
+    "number": 1838281,
+    "timestamp": 1529543651,
+    "threadId": 1837549,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ad54cb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1838246\nR they serious?\nQ\n",
+    "references": [
+      "8chan_qresearch_1838246"
+    ]
   }
 ]

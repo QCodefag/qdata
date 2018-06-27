@@ -6612,5 +6612,36 @@
         "filename": "DgnJPVeWkAEh7vN.jpg"
       }
     ]
+  },
+  {
+    "number": 1927025,
+    "timestamp": 1530123618,
+    "threadId": 1926578,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8dbebc",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1926855\nHis choice?\nRemember, Kennedy was the swing vote.\nNo more.\nLocked &amp; Loaded.\nRBG next.\nQ\n",
+    "references": [
+      "8chan_qresearch_1926855"
+    ]
+  },
+  {
+    "number": 1926855,
+    "timestamp": 1530123118,
+    "threadId": 1926578,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "520e50",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">LETTER FROM JUSTICE KENNEDY TO POTUS</span>\nhttps:<em>//</em>www.documentcloud.org/documents/4562902-Letter-to-the-President-June-27-Docx.html?utm_medium=AP_Politics&amp;utm_campaign=SocialFlow&amp;utm_source=Twitter\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1696ef215efc8d1a476fb950f3f7fcf7a9ac224155f035c126c2b4bf827cdca7.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
   }
 ]

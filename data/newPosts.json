@@ -6294,5 +6294,63 @@
     "references": [
       "8chan_qresearch_1915880"
     ]
+  },
+  {
+    "number": 1916260,
+    "timestamp": 1530062641,
+    "threadId": 1915811,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "388aee",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1916176\nError.\nLong night.\nQ\n",
+    "references": [
+      "8chan_qresearch_1916176"
+    ]
+  },
+  {
+    "number": 1916327,
+    "timestamp": 1530062835,
+    "threadId": 1915811,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "388aee",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1916245\nJA in the news?\nThink JC.\nServer unlocks SR.\nMS_13 (2 187'd nearby) phones unlock command &amp; control. \nETA (estimated).\nIt has begun.\nQ\n",
+    "references": [
+      "8chan_qresearch_1916245"
+    ]
+  },
+  {
+    "number": 1916176,
+    "timestamp": 1530062415,
+    "threadId": 1915811,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "596f1a",
+    "name": "Anonymous",
+    "text": ">>1916147\n>failes\n?\n",
+    "references": [
+      "8chan_qresearch_1916147"
+    ]
+  },
+  {
+    "number": 1916245,
+    "timestamp": 1530062603,
+    "threadId": 1915811,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "86d85e",
+    "name": "Anonymous",
+    "text": ">>1916177\n>>1916147\n>>1915880\n\n<span class=\"heading\">SR &amp; JA in JUNE</span>\n\nAnything?\n",
+    "references": [
+      "8chan_qresearch_1916177",
+      "8chan_qresearch_1916147",
+      "8chan_qresearch_1915880"
+    ]
   }
 ]

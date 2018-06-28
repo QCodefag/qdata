@@ -7009,5 +7009,39 @@
         "filename": "Screen Shot 2018-06-28 at ….png"
       }
     ]
+  },
+  {
+    "number": 1945864,
+    "timestamp": 1530223071,
+    "threadId": 1945088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "99e3dc",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1945685\nCoincidence?\nJA in the news a lot lately (out of nowhere).\nCrisis mode.\nQ\n",
+    "references": [
+      "8chan_qresearch_1945685"
+    ]
+  },
+  {
+    "number": 1945685,
+    "timestamp": 1530222471,
+    "threadId": 1945088,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c426e4",
+    "name": "Anonymous",
+    "text": ">>1945571\n<span class=\"heading\">FREE JA</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/141dc7042e52389c1af1a0bebacfcfe54c4a92ee1c74f13d704a7c1cf53b3a36.png",
+        "filename": "JAjunesidebyside.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1945571"
+    ]
   }
 ]

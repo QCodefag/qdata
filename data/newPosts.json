@@ -7239,5 +7239,39 @@
     "references": [
       "8chan_qresearch_1950090"
     ]
+  },
+  {
+    "number": 1950407,
+    "timestamp": 1530237817,
+    "threadId": 1949745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "309a1c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1950237\nThink Bourne.\nCovert OPs classified.\nCareer installed.\nThink Cell.\nPast drops go missing.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/d368afaba1f3cb1a27148e83640ea6773967d612947073e8c31b6ef5a094135f.jpeg",
+        "filename": "F1C6F4AD-DF36-4404-A117-F….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1950237"
+    ]
+  },
+  {
+    "number": 1950237,
+    "timestamp": 1530237236,
+    "threadId": 1949745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1a94c7",
+    "name": "Anonymous",
+    "text": ">>1950200\nSO is Q telling us Haspel knows of the program, but doesn't know where it is located at? She needs to locate it and terminate it? Time to dig for Ramos' therapist\n",
+    "references": [
+      "8chan_qresearch_1950200"
+    ]
   }
 ]

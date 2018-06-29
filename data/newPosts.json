@@ -7211,5 +7211,33 @@
     "references": [
       "8chan_qresearch_1949848"
     ]
+  },
+  {
+    "number": 1950233,
+    "timestamp": 1530237225,
+    "threadId": 1949745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "309a1c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1950123\nNK = FAKE NEWS [UK orig].\nNK already began denuclearization process under guidance from US. \nRapid.\nWhy are people always being moved around?\nThink strategy.\nThe Plan.\nMilitary OP.\nQ\n",
+    "references": [
+      "8chan_qresearch_1950123"
+    ]
+  },
+  {
+    "number": 1950123,
+    "timestamp": 1530236844,
+    "threadId": 1949745,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7b5a78",
+    "name": "Anonymous",
+    "text": ">>1950090\n\nQ any comment on NK facilities and General Kelly? Thanks!\n",
+    "references": [
+      "8chan_qresearch_1950090"
+    ]
   }
 ]

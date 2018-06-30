@@ -7449,5 +7449,33 @@
     "references": [
       "8chan_qresearch_1973514"
     ]
+  },
+  {
+    "number": 1973688,
+    "timestamp": 1530387979,
+    "threadId": 1973100,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "317346",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1973567\nThink SC vote to confirm (coming).\nNo Name action.\nEvery dog has its day.\nEnjoy the show. \nQ\n",
+    "references": [
+      "8chan_qresearch_1973567"
+    ]
+  },
+  {
+    "number": 1973567,
+    "timestamp": 1530387609,
+    "threadId": 1973100,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "355946",
+    "name": "Anonymous",
+    "text": ">>1973527\nPlease do not let No Name off the hook. he is a disgrace to Veterans across this great country and needs to be held accountable.\n",
+    "references": [
+      "8chan_qresearch_1973527"
+    ]
   }
 ]

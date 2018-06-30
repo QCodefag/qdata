@@ -7477,5 +7477,33 @@
     "references": [
       "8chan_qresearch_1973527"
     ]
+  },
+  {
+    "number": 1973815,
+    "timestamp": 1530388388,
+    "threadId": 1973100,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "317346",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1973737\nIt will not be Gowdy.\nQ\n",
+    "references": [
+      "8chan_qresearch_1973737"
+    ]
+  },
+  {
+    "number": 1973737,
+    "timestamp": 1530388147,
+    "threadId": 1973100,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9cfe87",
+    "name": "Anonymous",
+    "text": ">>1973688\n<span class=\"heading\"><strong>GO GOWDY!!!!!</strong></span>\n",
+    "references": [
+      "8chan_qresearch_1973688"
+    ]
   }
 ]

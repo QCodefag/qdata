@@ -7428,5 +7428,26 @@
         "filename": "EFA08095-C53F-495A-852D-6….jpeg"
       }
     ]
+  },
+  {
+    "number": 1973527,
+    "timestamp": 1530387515,
+    "threadId": 1973100,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "317346",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>1973514\nThink logically.\nAsk yourself - is this normal?\nConspiracy? \nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/bff15cc38ecc811b4d7deda02219a069ec83bb32ce3eb62a4345210f74ee79b7.jpeg",
+        "filename": "E5F70AD4-D246-42CA-94E9-F….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_1973514"
+    ]
   }
 ]

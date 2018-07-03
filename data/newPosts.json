@@ -7809,5 +7809,23 @@
       "8chan_qresearch_2007869",
       "8chan_qresearch_2007911"
     ]
+  },
+  {
+    "number": 2008327,
+    "timestamp": 1530598940,
+    "threadId": 2008102,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6bce70",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/a5d3e1d4d23394bf9b105693760d7a916395b8bf3050599228f5d538ad9de329.jpeg",
+        "filename": "249CED47-EA70-4C08-8757-9….jpeg"
+      }
+    ]
   }
 ]

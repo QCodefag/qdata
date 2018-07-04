@@ -8011,5 +8011,36 @@
         "filename": "another-distortion-cope.png"
       }
     ]
+  },
+  {
+    "number": 2022398,
+    "timestamp": 1530677226,
+    "threadId": 2022006,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "802a1c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2022233\nTrolling is fun.\nHussein/Trump interior = identical minus small changes.\n(World) news in rear literally placed same prior to each departure.\nPlacing that mug holder near the lamp was the hook.\nEnjoy!\nQ\n",
+    "references": [
+      "8chan_qresearch_2022233"
+    ]
+  },
+  {
+    "number": 2022233,
+    "timestamp": 1530676625,
+    "threadId": 2022006,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7726d6",
+    "name": "Anonymous",
+    "text": "<span class=\"detected\">(((Shills)))</span> going nuts tonight, something yuge must be coming this week. Several months late on whining about Iran, back to spamming \"LARP boomer schizo\" from the 4ch days. Sad!\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b2a8bb327dce0cd0cc2e439439bfadecf5153f3459627dd49d82d724f0ca0b5d.jpg",
+        "filename": "CTR Wojack.jpg"
+      }
+    ]
   }
 ]

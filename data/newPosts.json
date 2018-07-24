@@ -8180,5 +8180,33 @@
         "filename": "MSM_Attacks[Q].jpg"
       }
     ]
+  },
+  {
+    "number": 2265105,
+    "timestamp": 1532456389,
+    "threadId": 2264408,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e5c60e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2264981\nThere is no greater [current] threat to the American people than the FAKE NEWS MEDIA.\n#ControlledMSM\nStudy Nazism. \nCompare/contrast ANTIFA.\nCompare/contrast SOCIALISM push.\nPush for REBIRTH.\nWho financed then?\nWho is financing now?\nDark to LIGHT.\nGOOD WINS.\nQ\n",
+    "references": [
+      "8chan_qresearch_2264981"
+    ]
+  },
+  {
+    "number": 2264981,
+    "timestamp": 1532455948,
+    "threadId": 2264408,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6d522a",
+    "name": "Anonymous",
+    "text": ">>2264962\n+\nhttps:<em>//</em>www.youtube.com/watch?v=co0SBtpAqZw\n",
+    "references": [
+      "8chan_qresearch_2264962"
+    ]
   }
 ]

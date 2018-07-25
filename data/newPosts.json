@@ -8302,5 +8302,51 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "https:<em>//</em>www.cnbc.com/2018/07/20/trump-poised-to-take-control-of-the-federal-reserve.html\nQ\n"
+  },
+  {
+    "number": 2279465,
+    "timestamp": 1532531894,
+    "threadId": 2278687,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6532f9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": "https:<em>//</em>www.cnbc.com/2018/07/20/trump-poised-to-take-control-of-the-federal-reserve.html\nhttps:<em>//</em>www.cnbc.com/2018/07/23/strategist-mark-grant-trump-has-a-right-to-call-out-the-fed.html\n2+2 confirmations.\nFast.\nWe will never again be under their control.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c28012eb6daeca1835e54cbb4615739b58e1db9fed0253b7f262cb51b4e8e798.jpeg",
+        "filename": "28235DA5-7729-497B-9231-B….jpeg"
+      }
+    ]
+  },
+  {
+    "number": 2279499,
+    "timestamp": 1532532009,
+    "threadId": 2278687,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6532f9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2279471\nHappy days ahead, Patriot!\nQ\n",
+    "references": [
+      "8chan_qresearch_2279471"
+    ]
+  },
+  {
+    "number": 2279471,
+    "timestamp": 1532531918,
+    "threadId": 2278687,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "07ebfe",
+    "name": "Anonymous",
+    "text": ">>2279465\nmorning Q!\n",
+    "references": [
+      "8chan_qresearch_2279465"
+    ]
   }
 ]

@@ -8466,5 +8466,33 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "https:<em>//</em>mobile.twitter.com/RepMarkMeadows/status/1022255468461391872\n[RR]\nQ\n"
+  },
+  {
+    "number": 2286926,
+    "timestamp": 1532560830,
+    "threadId": 2286094,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e28fcb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2286869\n",
+    "references": [
+      "8chan_qresearch_2286869"
+    ]
+  },
+  {
+    "number": 2286869,
+    "timestamp": 1532560623,
+    "threadId": 2286094,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ee4128",
+    "name": "Anonymous",
+    "text": ">>2286778\n&gt;&gt;&gt;/patriotsfight/66\n>If RR is dirty, Mueller must also be dirty.\n>If Mueller is dirty, RR must also be dirty.\n",
+    "references": [
+      "8chan_qresearch_2286778"
+    ]
   }
 ]

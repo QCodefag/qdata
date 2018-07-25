@@ -8348,5 +8348,33 @@
     "references": [
       "8chan_qresearch_2279465"
     ]
+  },
+  {
+    "number": 2279519,
+    "timestamp": 1532532067,
+    "threadId": 2278687,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6532f9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2279498\nThere is only Q.\nQ\n",
+    "references": [
+      "8chan_qresearch_2279498"
+    ]
+  },
+  {
+    "number": 2279498,
+    "timestamp": 1532532006,
+    "threadId": 2278687,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3df588",
+    "name": "Anonymous",
+    "text": ">>2279465\nNeed clarification in order to prevent movement split: Is R real or fake?\n",
+    "references": [
+      "8chan_qresearch_2279465"
+    ]
   }
 ]

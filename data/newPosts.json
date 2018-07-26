@@ -8674,5 +8674,48 @@
     "references": [
       "8chan_qresearch_2298335"
     ]
+  },
+  {
+    "number": 2298430,
+    "timestamp": 1532630724,
+    "threadId": 2298164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "00f66d",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2298410\nHow do you hide a message in clear sight?\nQ\n",
+    "references": [
+      "8chan_qresearch_2298410"
+    ]
+  },
+  {
+    "number": 2298508,
+    "timestamp": 1532630961,
+    "threadId": 2298164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "00f66d",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2298430\nYou'd be amazed how much is shared on /pol/. \nData exchange.\nhttps:<em>//</em>guardianproject.info/apps/pixelknot/\nQ\n",
+    "references": [
+      "8chan_qresearch_2298430"
+    ]
+  },
+  {
+    "number": 2298410,
+    "timestamp": 1532630660,
+    "threadId": 2298164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ff90f2",
+    "name": "Anonymous",
+    "text": ">>2298388\ni suspected this from the beginning.\n\nshops dont mean the post itself isnt real.\n",
+    "references": [
+      "8chan_qresearch_2298388"
+    ]
   }
 ]

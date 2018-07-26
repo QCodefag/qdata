@@ -8646,5 +8646,33 @@
         "filename": "SSHGQQ.jpg"
       }
     ]
+  },
+  {
+    "number": 2298388,
+    "timestamp": 1532630574,
+    "threadId": 2298164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "00f66d",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2298369\nThe author of the post…..\nThe face is never the author.\nDirect comms come in many different forms.\nQ\n",
+    "references": [
+      "8chan_qresearch_2298369"
+    ]
+  },
+  {
+    "number": 2298369,
+    "timestamp": 1532630500,
+    "threadId": 2298164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "04e035",
+    "name": "Anonymous",
+    "text": ">>2298335\n\nProven shop…\n",
+    "references": [
+      "8chan_qresearch_2298335"
+    ]
   }
 ]

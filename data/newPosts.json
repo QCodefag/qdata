@@ -8840,5 +8840,47 @@
     "references": [
       "8chan_qresearch_2310672"
     ]
+  },
+  {
+    "number": 2310904,
+    "timestamp": 1532707888,
+    "threadId": 2310162,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1c461b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2310720\nWarning to UK?\nDecipher re: last.\n[Redacted FISA].\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/34a51b223de2d084c5bf9b01ad73048015b0beeffb826ab94ec377b8b02be001.jpeg",
+        "filename": "94C1F069-082D-4492-9BA8-0….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2310720"
+    ]
+  },
+  {
+    "number": 2310964,
+    "timestamp": 1532708087,
+    "threadId": 2310162,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1c461b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2310904\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/22d112bafc121da398e93a2479bf4904320407438bcb12e16539551faccc03ae.png",
+        "filename": "07949FC4-4787-4F9B-B8C8-C8….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2310904"
+    ]
   }
 ]

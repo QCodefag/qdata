@@ -8974,5 +8974,61 @@
     "references": [
       "8chan_qresearch_2311837"
     ]
+  },
+  {
+    "number": 2311972,
+    "timestamp": 1532712076,
+    "threadId": 2311775,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e05330",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2311906\nSpecialized weapons package.\nCLAS-5.\nQ\n",
+    "references": [
+      "8chan_qresearch_2311906"
+    ]
+  },
+  {
+    "number": 2312021,
+    "timestamp": 1532712200,
+    "threadId": 2311775,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e05330",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2311980\nGiven CoC process to launch what does this tell you?\nCLAS removal WASH minutes after.\nQ\n",
+    "references": [
+      "8chan_qresearch_2311980"
+    ]
+  },
+  {
+    "number": 2311906,
+    "timestamp": 1532711910,
+    "threadId": 2311775,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "da73f8",
+    "name": "Anonymous",
+    "text": ">>2311890\nAn F16 can shoot a missile out of the air?\n",
+    "references": [
+      "8chan_qresearch_2311890"
+    ]
+  },
+  {
+    "number": 2311980,
+    "timestamp": 1532712098,
+    "threadId": 2311775,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "44144a",
+    "name": "Anonymous",
+    "text": ">>2311893\n>Who has authority to launch a missle?\n\nQ said <strong>unauthorized</strong>, so…\n",
+    "references": [
+      "8chan_qresearch_2311893"
+    ]
   }
 ]

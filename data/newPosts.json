@@ -8946,5 +8946,33 @@
         "filename": "36C6E924-7B53-4CDB-AB27-2….jpeg"
       }
     ]
+  },
+  {
+    "number": 2311890,
+    "timestamp": 1532711850,
+    "threadId": 2311775,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e05330",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2311869\nF-16s intercept.\nQ\n",
+    "references": [
+      "8chan_qresearch_2311869"
+    ]
+  },
+  {
+    "number": 2311869,
+    "timestamp": 1532711782,
+    "threadId": 2311775,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "64e0b2",
+    "name": "Anonymous",
+    "text": ">>2311837\nWhere did the missle go? Blown up in sky?\n",
+    "references": [
+      "8chan_qresearch_2311837"
+    ]
   }
 ]

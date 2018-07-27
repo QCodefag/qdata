@@ -8882,5 +8882,51 @@
     "references": [
       "8chan_qresearch_2310904"
     ]
+  },
+  {
+    "number": 2311237,
+    "timestamp": 1532709175,
+    "threadId": 2310945,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "64a0d2",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/edba0c19278cdd15c7845c690fc5b8fb2ecdb7385ccb0866ac809f5150421f6a.jpeg",
+        "filename": "9804A8E8-0FEF-4858-90D7-C….jpeg"
+      }
+    ]
+  },
+  {
+    "number": 2311245,
+    "timestamp": 1532709217,
+    "threadId": 2310945,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "64a0d2",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2311235\n",
+    "references": [
+      "8chan_qresearch_2311235"
+    ]
+  },
+  {
+    "number": 2311235,
+    "timestamp": 1532709174,
+    "threadId": 2310945,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "10fc9e",
+    "name": "Anonymous",
+    "text": ">>2311202\n<span class=\"heading\">Gina Haspel</span>\nThe CIA London Station is the main centre of the US Central Intelligence Agency in the UK.\nStation chief (COS) Un-named woman c-2009\nThose ordered to testify include the former CIA chief, Porter J Gross. Another is a woman who is not publicly named who heads the agency's London station. She previously worked as the chief of staff for the head of the CIA's clandestine branch, Jose Rodriguez, who is the focus of the investigation.\nhttps:<em>//</em>www.theguardian.com/world/2009/jul/03/cia-al-qaida-guantanamo-interrogation\n",
+    "references": [
+      "8chan_qresearch_2311202"
+    ]
   }
 ]

@@ -9502,5 +9502,39 @@
         "filename": "DKHGWHYSDZIW.jpg"
       }
     ]
+  },
+  {
+    "number": 2342642,
+    "timestamp": 1532897324,
+    "threadId": 2341900,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cb2064",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2342603\nThis is NOT A GAME.\nQ\n",
+    "references": [
+      "8chan_qresearch_2342603"
+    ]
+  },
+  {
+    "number": 2342603,
+    "timestamp": 1532897209,
+    "threadId": 2341900,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d0ab4a",
+    "name": "Anonymous",
+    "text": ">>2342538\nAlso from June 10…\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5dc51dc7a494948401a532108b9e9bcd2f111c4e0ae509423abbede14f1f6a8b.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2342538"
+    ]
   }
 ]

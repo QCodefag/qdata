@@ -9450,5 +9450,39 @@
     "references": [
       "8chan_qresearch_2340661"
     ]
+  },
+  {
+    "number": 2341115,
+    "timestamp": 1532891920,
+    "threadId": 2340444,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "58456f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2340923\nWhat a coincidence.\n[MSM]\nQ\n",
+    "references": [
+      "8chan_qresearch_2340923"
+    ]
+  },
+  {
+    "number": 2340923,
+    "timestamp": 1532891440,
+    "threadId": 2340444,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "84060a",
+    "name": "Anonymous",
+    "text": ">>2340833\n2 min delta.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/bc8515062343c66ee71370dbd6c74b2b80282f311e0b197a79499784402d7dd5.jpeg",
+        "filename": "8ECEA5C1-AB8F-4EC1-8E8D-8….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2340833"
+    ]
   }
 ]

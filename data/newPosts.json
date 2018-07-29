@@ -9536,5 +9536,33 @@
     "references": [
       "8chan_qresearch_2342538"
     ]
+  },
+  {
+    "number": 2342748,
+    "timestamp": 1532897614,
+    "threadId": 2341900,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cb2064",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2342716\n",
+    "references": [
+      "8chan_qresearch_2342716"
+    ]
+  },
+  {
+    "number": 2342716,
+    "timestamp": 1532897514,
+    "threadId": 2341900,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "499edd",
+    "name": "Anonymous",
+    "text": ">>2342642\nWho is the REAL Michael Avenatti?\n",
+    "references": [
+      "8chan_qresearch_2342642"
+    ]
   }
 ]

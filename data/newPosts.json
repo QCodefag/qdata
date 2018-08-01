@@ -9944,5 +9944,30 @@
     "name": "Q",
     "trip": "!CbboFOtcZs",
     "text": "https:<em>//</em>www.wsj.com/articles/what-are-the-fbi-and-cia-hiding-1533078662\n[UK]\nQ\n"
+  },
+  {
+    "number": 2381947,
+    "timestamp": 1533089941,
+    "threadId": 2381799,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9a94e9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2381898\nhttps:<em>//</em>www.reddit.com/r/greatawakening/comments/93ku02/potus_pointing_at_q_cutout/\nNo source as of yet.\nQ\n",
+    "references": [
+      "8chan_qresearch_2381898"
+    ]
+  },
+  {
+    "number": 2381898,
+    "timestamp": 1533089754,
+    "threadId": 2381799,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "dd0fde",
+    "name": "Anonymous",
+    "text": "Did the person holding the Q cutout ever post the pic/vid?\n"
   }
 ]

@@ -9997,5 +9997,36 @@
     "references": [
       "8chan_qresearch_2381873"
     ]
+  },
+  {
+    "number": 2382387,
+    "timestamp": 1533090882,
+    "threadId": 2381799,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9a94e9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2382201\nWe saw you, Patriots.\nGod bless!\nWWG1WGA!\nQ\n",
+    "references": [
+      "8chan_qresearch_2382201"
+    ]
+  },
+  {
+    "number": 2382201,
+    "timestamp": 1533090480,
+    "threadId": 2381799,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5616c6",
+    "name": "Anonymous",
+    "text": ">>2375029\nI know it's a bit late, but thank you Q for the IRL (You). \nWatching a rally on TV does not come anywhere near the atmosphere of a rally in person and up front. I had a blast and to tippy top it off, I found out i was a Q drop. Best day ever!\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1efc2dfccceffe07c76c6327b198c9150dd261d98ef9877982f88c640fdec574.png",
+        "filename": "ThanQ.png"
+      }
+    ]
   }
 ]

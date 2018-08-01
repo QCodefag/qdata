@@ -10118,5 +10118,47 @@
     "references": [
       "8chan_qresearch_2391684"
     ]
+  },
+  {
+    "number": 2391916,
+    "timestamp": 1533143709,
+    "threadId": 2391164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b3ecc4",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2391787\n[WW]\nEyes on: 300-350mm\nTracking: 52-58mm\n>>2391804\nYou didn't think 'common sense' was simply a coincidence did you?\nThink email.\nThink #1776.\nBut how did we know an article was going to be dropped later that night?\nQ\n",
+    "references": [
+      "8chan_qresearch_2391787",
+      "8chan_qresearch_2391804"
+    ]
+  },
+  {
+    "number": 2391787,
+    "timestamp": 1533143291,
+    "threadId": 2391164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3b30e7",
+    "name": "Anonymous",
+    "text": ">>2391757\n\nEst. Number of Patriots reached?\n",
+    "references": [
+      "8chan_qresearch_2391757"
+    ]
+  },
+  {
+    "number": 2391804,
+    "timestamp": 1533143350,
+    "threadId": 2391164,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "767c5e",
+    "name": "Anonymous",
+    "text": ">>2391757\ndeletions a warning to Steyer?????\n",
+    "references": [
+      "8chan_qresearch_2391757"
+    ]
   }
 ]

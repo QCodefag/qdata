@@ -9969,5 +9969,33 @@
     "userId": "dd0fde",
     "name": "Anonymous",
     "text": "Did the person holding the Q cutout ever post the pic/vid?\n"
+  },
+  {
+    "number": 2382052,
+    "timestamp": 1533090181,
+    "threadId": 2381799,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9a94e9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2381963\nhttps:<em>//</em>www.bostonherald.com/opinion/op_ed/2018/07/fisa_documents_reveal_fbi_collusion?amp\nEnjoy the show!\nQ\n",
+    "references": [
+      "8chan_qresearch_2381963"
+    ]
+  },
+  {
+    "number": 2381963,
+    "timestamp": 1533089971,
+    "threadId": 2381799,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "56152b",
+    "name": "Anonymous",
+    "text": ">>2381873\n>>2381699\nThe article is pretty damning and pretty authoritative.  Writer is former FBI special agent.  \nBest article I've seen yet to lay out the facts of the complex scenario as they are presently known by the public.\n",
+    "references": [
+      "8chan_qresearch_2381873"
+    ]
   }
 ]

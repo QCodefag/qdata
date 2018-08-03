@@ -10582,5 +10582,53 @@
         "filename": "DjoEFyjXcAARKbu.jpg"
       }
     ]
+  },
+  {
+    "number": 2434705,
+    "timestamp": 1533324715,
+    "threadId": 2433971,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ff37c9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2434543\n>>2434558\nDo you believe in coincidences?\nQ\n",
+    "references": [
+      "8chan_qresearch_2434543",
+      "8chan_qresearch_2434558"
+    ]
+  },
+  {
+    "number": 2434543,
+    "timestamp": 1533324085,
+    "threadId": 2433971,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "99fd40",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/75a6f4f392da2a4ef73a9354f13883251ab14d0e6453b962891334a5985c5d56.jpeg",
+        "filename": "54129756-871E-4BFC-9229-0….jpeg"
+      }
+    ]
+  },
+  {
+    "number": 2434558,
+    "timestamp": 1533324122,
+    "threadId": 2433971,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7157e4",
+    "name": "Anonymous",
+    "text": "The level of hatred and the willingness to disparage my family and our great company has never been so ugly and unrelenting as I have seen recently by the @WashingtonPost. It is clearly coming from the top with one motivation in mind. @JeffBezos\n\ntwitter.com/EricTrump/status/1025460455437987845\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/2438e7c5daf70b8da64dcdab56c67c2fa8a108774a7cf1db451445ce75e465bb.png",
+        "filename": "Eric re Bezoz 8-3-18.PNG"
+      }
+    ]
   }
 ]

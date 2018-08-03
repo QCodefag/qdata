@@ -10398,5 +10398,45 @@
         "filename": "DfkuJLBWsAYx9MO.jpg"
       }
     ]
+  },
+  {
+    "number": 2422097,
+    "timestamp": 1533262003,
+    "threadId": 2421626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e71266",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": "https:<em>//</em>www.reddit.com/r/greatawakening/comments/9454cr/the_reason_you_did_not_see_a_lot_of_q_signs_the/\nThreat received. \nUSSS acted appropriately. \nThis is not a game.\nQ\n"
+  },
+  {
+    "number": 2422155,
+    "timestamp": 1533262154,
+    "threadId": 2421626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e71266",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!CbboFOtcZs",
+    "text": ">>2422143\n",
+    "references": [
+      "8chan_qresearch_2422143"
+    ]
+  },
+  {
+    "number": 2422143,
+    "timestamp": 1533262127,
+    "threadId": 2421626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d379f0",
+    "name": "Anonymous",
+    "text": ">>2422097\nNow we know why Q didn't post before rally\n",
+    "references": [
+      "8chan_qresearch_2422097"
+    ]
   }
 ]

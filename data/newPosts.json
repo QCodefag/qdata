@@ -11194,5 +11194,43 @@
         "filename": "DkV0hSFW4AEd9p_.jpg"
       }
     ]
+  },
+  {
+    "number": 2560115,
+    "timestamp": 1534029028,
+    "threadId": 2559643,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "621ea9",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2559940\nhttps:<em>//</em>twitter.com/billmaher/status/112332199386296320\nQ\n",
+    "references": [
+      "8chan_qresearch_2559940"
+    ]
+  },
+  {
+    "number": 2559940,
+    "timestamp": 1534028340,
+    "threadId": 2559643,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ba1be4",
+    "name": "Anonymous",
+    "text": ">>2559930\nhaha thats why i added it in there.\n\nthe hypocrisy is unreal\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b0bfff3a679836117573a6c8d2df77fd54671ed1fb46b874410994430fd78a3a.png",
+        "filename": "ClipboardImage.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/fa5647d54f770641e39245738b4dc03c9013d6f9b01bbb883b5113a922d86b6e.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2559930"
+    ]
   }
 ]

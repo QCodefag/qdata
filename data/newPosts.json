@@ -11244,5 +11244,36 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "https:<em>//</em>twitter.com/NBCNews/statuses/1028408743309008899\nDo you believe in coincidences?\nTRUTH to power.\nQ\n"
+  },
+  {
+    "number": 2564091,
+    "timestamp": 1534046293,
+    "threadId": 2563660,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9c9676",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2563815\nThe choice to know will be yours.\nhttps:<em>//</em>twitter.com/s8n/status/671489910281498624?lang=en\nQ\n",
+    "references": [
+      "8chan_qresearch_2563815"
+    ]
+  },
+  {
+    "number": 2563815,
+    "timestamp": 1534045174,
+    "threadId": 2563660,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "004216",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/d9113738bf6c982eef606629c8a54c565a4e321b74dd97dda2fba59029ded1cc.jpg",
+        "filename": "DkW-yzrVAAACDWi.jpg large.jpg"
+      }
+    ]
   }
 ]

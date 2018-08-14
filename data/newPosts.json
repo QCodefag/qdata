@@ -11634,5 +11634,45 @@
     "references": [
       "8chan_qresearch_2601331"
     ]
+  },
+  {
+    "number": 2601479,
+    "timestamp": 1534287810,
+    "threadId": 2601338,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "358cd7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2601407\nSEC TEST.\n[PING]\nDEFEND_B720-1A\nQ\n"
+  },
+  {
+    "number": 2601546,
+    "timestamp": 1534287952,
+    "threadId": 2601338,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "358cd7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2601488\nConfirmed.\nQ\n",
+    "references": [
+      "8chan_qresearch_2601488"
+    ]
+  },
+  {
+    "number": 2601488,
+    "timestamp": 1534287848,
+    "threadId": 2601338,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "08ea3e",
+    "name": "Anonymous",
+    "text": ">>2601479\nconfirm double Q was typo??\n",
+    "references": [
+      "8chan_qresearch_2601479"
+    ]
   }
 ]

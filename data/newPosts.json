@@ -12054,5 +12054,36 @@
     "references": [
       "8chan_qresearch_2617484"
     ]
+  },
+  {
+    "number": 2617682,
+    "timestamp": 1534377008,
+    "threadId": 2617626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7fb039",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2617647\nCompare pool of V w/ painting of kids in pool (red shoes).\nQ\n",
+    "references": [
+      "8chan_qresearch_2617647"
+    ]
+  },
+  {
+    "number": 2617647,
+    "timestamp": 1534376905,
+    "threadId": 2617626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2d3aec",
+    "name": "Anonymous",
+    "text": "allright anons .. we need to find all matches for THIS \"charm\"\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/3736edfbfe3f13d0fc56eab8f22a891283b5dfff3c75288aaccf72496d8c94e5.png",
+        "filename": "23lkj43l2j4l2kj34l234.png"
+      }
+    ]
   }
 ]

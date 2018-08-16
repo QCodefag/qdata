@@ -12312,5 +12312,43 @@
       "8chan_qresearch_2627908",
       "8chan_qresearch_2627887"
     ]
+  },
+  {
+    "number": 2628219,
+    "timestamp": 1534437197,
+    "threadId": 2627778,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "489187",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2628080\nNothing to see here.\nDrops equate to reaction/action?\nQ\n",
+    "references": [
+      "8chan_qresearch_2628080"
+    ]
+  },
+  {
+    "number": 2628080,
+    "timestamp": 1534436779,
+    "threadId": 2627778,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ecf8fa",
+    "name": "Anonymous",
+    "text": ">>2627887\n\n>>2621616 08/15/18 (Wed) 23:02:52 (PDT)\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b17ac52524f71e964085252baebef59493286a0a5ab9c7aaf653a1c90831e8e2.png",
+        "filename": "ClipboardImage.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/a89efafbec0116e219d4a8900e77fd96f87cdc344e9ddca4dd5dd8edf9c768e9.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2627887"
+    ]
   }
 ]

@@ -12404,5 +12404,44 @@
         "filename": "inscom.png"
       }
     ]
+  },
+  {
+    "number": 2628837,
+    "timestamp": 1534439240,
+    "threadId": 2628555,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0b7c69",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2628758\nHooah! Soldier.\nThank you for your service.\nGod bless.\nQ\n>>2628768\nIt should be clear in this context ES = @Snowden\nIt should be clear based on prev drop re: game comms why ES was included.\nIt should be clear that 'ES' was used in both (GOOG + @Snowden) drops to est a link.\nQ\n",
+    "references": [
+      "8chan_qresearch_2628758",
+      "8chan_qresearch_2628768"
+    ]
+  },
+  {
+    "number": 2628758,
+    "timestamp": 1534438979,
+    "threadId": 2628555,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "79d84f",
+    "name": "Anonymous",
+    "text": ">>2628721\nNever have I been so proud to be an Army Soldier! Hooah!\n",
+    "references": [
+      "8chan_qresearch_2628721"
+    ]
+  },
+  {
+    "number": 2628768,
+    "timestamp": 1534439007,
+    "threadId": 2628555,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ff083b",
+    "name": "Anonymous",
+    "text": "So, aha, Q\nYou now have half the board thinking ES is Eric Schmidt and the other half think ES is Edward Snowden\nPlease confirm which\n"
   }
 ]

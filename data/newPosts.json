@@ -12613,5 +12613,36 @@
         "filename": "ClipboardImage.png"
       }
     ]
+  },
+  {
+    "number": 2634253,
+    "timestamp": 1534459286,
+    "threadId": 2633946,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "35e142",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2634140\nhttps:<em>//</em>efile.fara.gov/pls/apex/f?p=171:200:0::NO:RP,200:P200_REG_NUMBER:5926\nhttps:<em>//</em>www.fara.gov/docs/5926-Exhibit-AB-20120313-15.pdf\nWhy did the Podesta Group close?\nQ\n",
+    "references": [
+      "8chan_qresearch_2634140"
+    ]
+  },
+  {
+    "number": 2634140,
+    "timestamp": 1534458930,
+    "threadId": 2633946,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9205a4",
+    "name": "Anonymous",
+    "text": ">>2633643\n\nha !!! was a notable - Anons are on fire !!!!\n\nhttps:<em>//</em>wikileaks.org/podesta-emails/emailid/50428\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/84ae0cd5896ab6e2d543afe7cc55c544d3c9ddd5f567776a88a7e3cf76f46e5b.jpg",
+        "filename": "Q Kauders.JPG"
+      }
+    ]
   }
 ]

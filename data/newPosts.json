@@ -12197,5 +12197,39 @@
     "references": [
       "8chan_qresearch_2617755"
     ]
+  },
+  {
+    "number": 2618033,
+    "timestamp": 1534377823,
+    "threadId": 2617626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7fb039",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2617982\n",
+    "references": [
+      "8chan_qresearch_2617982"
+    ]
+  },
+  {
+    "number": 2617982,
+    "timestamp": 1534377688,
+    "threadId": 2617626,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f507e5",
+    "name": "Anonymous",
+    "text": ">>2617682\n\nThis one?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/9542202c6699950ca05808ba080cc143365d885b542c62b618326defa8465683.jpg",
+        "filename": "Podesta Art Red Shoes.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2617682"
+    ]
   }
 ]

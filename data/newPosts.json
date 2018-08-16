@@ -12656,5 +12656,51 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "Mistake in photo collage posted.\nRef to McCann was not intended.\nNo connection.\nQ\n"
+  },
+  {
+    "number": 2634937,
+    "timestamp": 1534461615,
+    "threadId": 2634676,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "032503",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2634794\nBadge of honor - military grade.\nQ\n",
+    "references": [
+      "8chan_qresearch_2634794"
+    ]
+  },
+  {
+    "number": 2634959,
+    "timestamp": 1534461673,
+    "threadId": 2634676,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "032503",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2634937\nUK has problems.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/841a9a982e9c8bf7efd69be9a981261cd72bea973bdd154bf8a06b028b0f2cd3.jpg",
+        "filename": "DjH-tG0U8AEqaM8.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2634937"
+    ]
+  },
+  {
+    "number": 2634794,
+    "timestamp": 1534461020,
+    "threadId": 2634676,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "81ce2a",
+    "name": "Anonymous",
+    "text": "BBC's hit piece on Q. 3min 55 sec\n"
   }
 ]

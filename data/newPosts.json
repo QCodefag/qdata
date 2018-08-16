@@ -12277,5 +12277,40 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "Anyone have problems w/ their 'XBOX Live' accounts shortly after the drop yesterday?\n[Purge]\nHow many coincidences before mathematically impossible?\nQ\n"
+  },
+  {
+    "number": 2628048,
+    "timestamp": 1534436690,
+    "threadId": 2627778,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "489187",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2627990\n",
+    "references": [
+      "8chan_qresearch_2627990"
+    ]
+  },
+  {
+    "number": 2627990,
+    "timestamp": 1534436525,
+    "threadId": 2627778,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "431d94",
+    "name": "Anonymous",
+    "text": ">>2627908\n>>2627887\nfor anyone questioning if this happened or not\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/8b0745d97f899ca9842545db100ce7a2d50ecb2410b81515cdc4bd32e694b0bf.png",
+        "filename": "Screen Shot 2018-08-16 at ….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2627908",
+      "8chan_qresearch_2627887"
+    ]
   }
 ]

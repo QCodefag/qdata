@@ -13421,5 +13421,61 @@
     "references": [
       "8chan_qresearch_2773040"
     ]
+  },
+  {
+    "number": 2773258,
+    "timestamp": 1535498075,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f71ada",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2773199\nIn our opinion, until those responsible are dead and/or suffering, it shall remain 'will be'. \nQ\n",
+    "references": [
+      "8chan_qresearch_2773199"
+    ]
+  },
+  {
+    "number": 2773286,
+    "timestamp": 1535498134,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f71ada",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2773222\n/patriotsfight/\nRead \nComprehend\nUse Logic\nQ\n",
+    "references": [
+      "8chan_qresearch_2773222"
+    ]
+  },
+  {
+    "number": 2773199,
+    "timestamp": 1535497941,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "d8fac5",
+    "name": "Anonymous",
+    "text": ">>2773040\nWill be glorious?\nIn my humble opinion sir, it ALREADY is.\n",
+    "references": [
+      "8chan_qresearch_2773040"
+    ]
+  },
+  {
+    "number": 2773222,
+    "timestamp": 1535498007,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f5b5ce",
+    "name": "Anonymous",
+    "text": ">>2773206\n\nthat's great but wheres the arrests?\n",
+    "references": [
+      "8chan_qresearch_2773206"
+    ]
   }
 ]

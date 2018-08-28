@@ -13080,5 +13080,36 @@
         "filename": "Dk043Y4VAAA4BsY.jpg"
       }
     ]
+  },
+  {
+    "number": 2769865,
+    "timestamp": 1535488076,
+    "threadId": 2769692,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "469a08",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2769783\nWe, the PEOPLE.\n-The People (Q)\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5ffe87b4fa10c829c354c97203f070cc8e36a7bbb0b4feb1dddc3c1335047644.jpg",
+        "filename": "9c1d9b8bfedbe3aaa506d35973….jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2769783"
+    ]
+  },
+  {
+    "number": 2769783,
+    "timestamp": 1535487800,
+    "threadId": 2769692,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b80eec",
+    "name": "Anonymous",
+    "text": "HOLY SHIT IT JUST HIT ME\nIN EARLY DROPS Q MENTIONED GODFATHER 3 - MICHAEL CORLEONE IS FIGHTING THE CORRUPT ELEMENTS OF THE VATICAN IN GODFATHER 3\n"
   }
 ]

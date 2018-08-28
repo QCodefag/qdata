@@ -13338,5 +13338,48 @@
     "references": [
       "8chan_qresearch_2772193"
     ]
+  },
+  {
+    "number": 2772476,
+    "timestamp": 1535495918,
+    "threadId": 2772103,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b1f9ae",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2772439\n",
+    "references": [
+      "8chan_qresearch_2772439"
+    ]
+  },
+  {
+    "number": 2772548,
+    "timestamp": 1535496111,
+    "threadId": 2772103,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b1f9ae",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2772476\nhttp:<em>//</em>www.foxnews.com/politics/2018/08/02/feinstein-was-mortified-by-fbi-allegation-that-staffer-was-spy-for-china-report.html\nMortified?\nWhat is the purpose of a BRIDGE?\nQ\n",
+    "references": [
+      "8chan_qresearch_2772476"
+    ]
+  },
+  {
+    "number": 2772439,
+    "timestamp": 1535495816,
+    "threadId": 2772103,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ae7506",
+    "name": "Anonymous",
+    "text": ">>2772350\n\nQ,\n\nRelevant yes to the HRC server sweep stakes give away?\n\nhttps:<em>//</em>www.google.com/amp/s/www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.amp.html\n",
+    "references": [
+      "8chan_qresearch_2772350"
+    ]
   }
 ]

@@ -13477,5 +13477,33 @@
     "references": [
       "8chan_qresearch_2773206"
     ]
+  },
+  {
+    "number": 2773384,
+    "timestamp": 1535498309,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f71ada",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2773150\nDo you remember that our enemies are also monitoring this board?\nSee above, reflect, use logic.\nQ\n",
+    "references": [
+      "8chan_qresearch_2773150"
+    ]
+  },
+  {
+    "number": 2773150,
+    "timestamp": 1535497824,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9fae1c",
+    "name": "Anonymous",
+    "text": ">>2773040\nQ SO WHATS UP WITH ASSANGE ???\n",
+    "references": [
+      "8chan_qresearch_2773040"
+    ]
   }
 ]

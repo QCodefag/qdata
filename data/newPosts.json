@@ -13505,5 +13505,39 @@
     "references": [
       "8chan_qresearch_2773040"
     ]
+  },
+  {
+    "number": 2773670,
+    "timestamp": 1535498960,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f71ada",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2773295\nNo one person is above another.\nWhy does the FAKE NEWS media put so much time / energy / effort into attacking a so-called 'conspiracy'? \nThose who are attacked the most are the BIGGEST threat.\nLOGIC WINS EVERY SINGLE TIME.\nQ\n",
+    "references": [
+      "8chan_qresearch_2773295"
+    ]
+  },
+  {
+    "number": 2773295,
+    "timestamp": 1535498149,
+    "threadId": 2772863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "1879ac",
+    "name": "Anonymous",
+    "text": ">>2773206\nBoss, it sure was lonely before you came along.\nThank you guys for taking these risks and concocting the plan. We are all in this together, and we are all right here for this purpose. Love you guys!\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/f81dcf3c2dc808ffa91953fe43dd1723f24d64420c03a90de8f2a8a383d15643.jpg",
+        "filename": "stay the course and trust ….jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2773206"
+    ]
   }
 ]

@@ -12878,5 +12878,36 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "WITCH HUNT.\nNo deals.\nQ\n"
+  },
+  {
+    "number": 2761474,
+    "timestamp": 1535426953,
+    "threadId": 2761208,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "449c1e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2761427\n",
+    "references": [
+      "8chan_qresearch_2761427"
+    ]
+  },
+  {
+    "number": 2761427,
+    "timestamp": 1535426695,
+    "threadId": 2761208,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3f1e78",
+    "name": "Anonymous",
+    "text": "Unreal. Tomorrow's Bruce Ohr interview is even more critical. Did he ever do this?\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1fedefb7cde171e41544eeb692fd424afe7e4317ef7cbdd6735761c45d66e518.png",
+        "filename": "MMeadows FISA Ohr Leaks 8-….PNG"
+      }
+    ]
   }
 ]

@@ -13166,5 +13166,49 @@
     "references": [
       "8chan_qresearch_2770117"
     ]
+  },
+  {
+    "number": 2770503,
+    "timestamp": 1535490023,
+    "threadId": 2769813,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "f2dcba",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2770319\nSymbolism will be their downfall. \nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/fd97a3d63e08a1f7cf3defa353108a4be002bd41de4e096d1f8acb2acbe56f6d.png",
+        "filename": "Pope-Francis.png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/de92a7bfed52aa3b6ddec666513dd1f8423d8a4ede3e5c91ed5ed546734ccd3f.jpg",
+        "filename": "Anderson-Gloria-6.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2770319"
+    ]
+  },
+  {
+    "number": 2770319,
+    "timestamp": 1535489510,
+    "threadId": 2769813,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "824112",
+    "name": "Anonymous",
+    "text": ">>2770117\nNazi pin tag with communist symbol.\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c600c0d8b010976413821f5e8fcf6327272374a3693b74c839debd72b5038d0a.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2770117"
+    ]
   }
 ]

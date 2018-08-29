@@ -13862,5 +13862,33 @@
         "filename": "ClipboardImage.png"
       }
     ]
+  },
+  {
+    "number": 2784843,
+    "timestamp": 1535563799,
+    "threadId": 2784374,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4742d7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2784812\nQ\n",
+    "references": [
+      "8chan_qresearch_2784812"
+    ]
+  },
+  {
+    "number": 2784812,
+    "timestamp": 1535563684,
+    "threadId": 2784374,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2a979b",
+    "name": "Anonymous",
+    "text": ">>2784740\n>d3p7aqtUSJc\nHannity YouTube Link: \nhttps:<em>//</em>www.youtube.com/watch?v=d3p7aqtUSJc\n",
+    "references": [
+      "8chan_qresearch_2784740"
+    ]
   }
 ]

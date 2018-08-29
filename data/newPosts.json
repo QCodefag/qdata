@@ -13956,5 +13956,33 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "https:<em>//</em>twitter.com/replouiegohmert/status/1034910123783868422\nQ\n"
+  },
+  {
+    "number": 2789612,
+    "timestamp": 1535585919,
+    "threadId": 2789006,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "043f5f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2789525\nCongratulations!\nThose who 'pull the trigger' seem to prefer:\nhttps:<em>//</em>www.youtube.com/watch?v=LvkXyAmG1B4\nNot exactly wedding material but great when in the action.\nQ\n",
+    "references": [
+      "8chan_qresearch_2789525"
+    ]
+  },
+  {
+    "number": 2789525,
+    "timestamp": 1535585567,
+    "threadId": 2789006,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3549dc",
+    "name": "Anonymous",
+    "text": ">>2789382 Hey Q. IrishAhon here. Here since post #1. Getting married soon. We want to dedicate a song to the team. Take five mins out of your hectic schedule, knock your heads together and pick a tune. WWG1WGA\n",
+    "references": [
+      "8chan_qresearch_2789382"
+    ]
   }
 ]

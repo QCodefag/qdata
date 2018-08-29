@@ -13676,5 +13676,35 @@
     "references": [
       "8chan_qresearch_2779059"
     ]
+  },
+  {
+    "number": 2779241,
+    "timestamp": 1535517584,
+    "threadId": 2778986,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ea669f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2779165\nhttps:<em>//</em>www.justice.gov/file/1071991/download\nReconcile.\n1 = 1?\n1 = 0?\nEvidence of an ongoing investigation…..\nQ\n",
+    "references": [
+      "8chan_qresearch_2779165"
+    ]
+  },
+  {
+    "number": 2779256,
+    "timestamp": 1535517638,
+    "threadId": 2778986,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ea669f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2779241\nError made.\nSwap \"of\" w/ \"in.\"\nLong day.\nQ\n",
+    "references": [
+      "8chan_qresearch_2779241"
+    ]
   }
 ]

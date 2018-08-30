@@ -14350,5 +14350,35 @@
     "references": [
       "8chan_qresearch_2805156"
     ]
+  },
+  {
+    "number": 2805260,
+    "timestamp": 1535669327,
+    "threadId": 2804522,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bd6786",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2805214\nCORONA 16 TASK ROUTE Z8301\nCORONA 16 NOW OFFLINE\nQ\n",
+    "references": [
+      "8chan_qresearch_2805214"
+    ]
+  },
+  {
+    "number": 2805326,
+    "timestamp": 1535669532,
+    "threadId": 2804522,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bd6786",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2805260\nBLIND EYES IN THE SKY.\nSHALL WE PLAY A GAME?\nQ\n",
+    "references": [
+      "8chan_qresearch_2805260"
+    ]
   }
 ]

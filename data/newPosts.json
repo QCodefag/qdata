@@ -14417,5 +14417,33 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "BIG BIRD-9 NOW OFFLINE.\nQ\n"
+  },
+  {
+    "number": 2806823,
+    "timestamp": 1535673373,
+    "threadId": 2805947,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "564cef",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2806653\nWe will gladly end our lives to ensure he lives.\nMore than you can imagine.\nQ\n",
+    "references": [
+      "8chan_qresearch_2806653"
+    ]
+  },
+  {
+    "number": 2806653,
+    "timestamp": 1535672998,
+    "threadId": 2805947,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "11b426",
+    "name": "Anonymous",
+    "text": ">>2806559\nPlease just keep POTUS safe, Q.\n",
+    "references": [
+      "8chan_qresearch_2806559"
+    ]
   }
 ]

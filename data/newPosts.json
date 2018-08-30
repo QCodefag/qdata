@@ -14103,5 +14103,43 @@
     "references": [
       "8chan_qresearch_2797703"
     ]
+  },
+  {
+    "number": 2798328,
+    "timestamp": 1535645808,
+    "threadId": 2797594,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ea082d",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2798230\n\"FAKE NEWS\"\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/247d6ed3b2c61d57eede0ae9b43569f4ef686f65ef4aad761112aa5c029a80a9.png",
+        "filename": "main-qimg-6c26c654ae657337….png"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/de6074b39a23796a0fcfac34eeab5e78d45c0e772d1e59bc1e7c3b03c39e1f0b.jpg",
+        "filename": "CwrD0QoXAAE2ryH.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2798230"
+    ]
+  },
+  {
+    "number": 2798230,
+    "timestamp": 1535645572,
+    "threadId": 2797594,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0f86f4",
+    "name": "Anonymous",
+    "text": ">>2798106\n>>2798106\n>Did the Washington Post dedicate resources to conduct an actual POLL re: Qanon? \n\nHere's a better question: Does the WaPo skew <strong><em>all polls</em></strong>?\n\nI'd bet good money that they do.\n\nEvery. Single. One. And we all know you don't waste money on a \"poll\" unless it supports you claim.\n\n<em>\"There are three kinds of lies: lies, damned lies, and statistics\"</em>\n<em>-Twain</em>\n",
+    "references": [
+      "8chan_qresearch_2798106"
+    ]
   }
 ]

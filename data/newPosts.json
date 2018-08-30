@@ -14305,5 +14305,50 @@
     "references": [
       "8chan_qresearch_2804843"
     ]
+  },
+  {
+    "number": 2805130,
+    "timestamp": 1535669076,
+    "threadId": 2804522,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bd6786",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2804887\n[DEAC&gt;KILLBOX1AZB]\nCORONA 1 NOW OFFLINE.\nQ\n",
+    "references": [
+      "8chan_qresearch_2804887"
+    ]
+  },
+  {
+    "number": 2805156,
+    "timestamp": 1535669130,
+    "threadId": 2804522,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bd6786",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2805130\nCORONA 4 NOW OFFLINE\nQ\n",
+    "references": [
+      "8chan_qresearch_2805130"
+    ]
+  },
+  {
+    "number": 2805214,
+    "timestamp": 1535669241,
+    "threadId": 2804522,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bd6786",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2805156\nCORONA 8 RE_ROUTE T_83\nCORONA 8 NEW CONTROL.\nCORONA 8 NOW OFFLINE \nQ\n",
+    "references": [
+      "8chan_qresearch_2805156"
+    ]
   }
 ]

@@ -14472,5 +14472,30 @@
     "references": [
       "8chan_qresearch_2807174"
     ]
+  },
+  {
+    "number": 2809359,
+    "timestamp": 1535679556,
+    "threadId": 2809117,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ac4acf",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2809340\nBIG!\nQ\n",
+    "references": [
+      "8chan_qresearch_2809340"
+    ]
+  },
+  {
+    "number": 2809340,
+    "timestamp": 1535679522,
+    "threadId": 2809117,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2a04a3",
+    "name": "Anonymous",
+    "text": "On fox now,\n\n\nOhr kept Weissman in the loop on dossier.  \n\nWeissman is Meuller’s bulldog.\n"
   }
 ]

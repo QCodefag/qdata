@@ -14777,5 +14777,39 @@
         "filename": "UNITED_WE_STAND.png"
       }
     ]
+  },
+  {
+    "number": 2820757,
+    "timestamp": 1535745996,
+    "threadId": 2819928,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "27fd5f",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2820665\nhttps:<em>//</em>www.judicialwatch.org/press-room/press-releases/judicial-watch-justice-department-discloses-no-fisa-court-hearings-held-on-carter-page-warrants/\nBIG\nBIG\nBIG\nQ\n",
+    "references": [
+      "8chan_qresearch_2820665"
+    ]
+  },
+  {
+    "number": 2820665,
+    "timestamp": 1535745681,
+    "threadId": 2819928,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "69f159",
+    "name": "Anonymous",
+    "text": ">>2820535\n\nWhere are the judges, they were comped too?? judicialwatch.org/press-room/press-releases/judicial-watch-justice-department-discloses-no-fisa-court-hearings-held-on-carter-page-warrants/amp/?__twitter_impression=true\n\nIf you bake it, he will crumb\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/dfe2d83fbcd2780b21b10fde54157918d0d9cdabe67339307eb285a8b7446777.jpg",
+        "filename": "Screenshot_20180831-145905….jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2820535"
+    ]
   }
 ]

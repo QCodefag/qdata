@@ -14497,5 +14497,37 @@
     "userId": "2a04a3",
     "name": "Anonymous",
     "text": "On fox now,\n\n\nOhr kept Weissman in the loop on dossier.  \n\nWeissman is Meuller’s bulldog.\n"
+  },
+  {
+    "number": 2810036,
+    "timestamp": 1535681523,
+    "threadId": 2809843,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "bd9bfd",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2809998\nRetaliation - 'Horizon' active.\nQ\n",
+    "references": [
+      "8chan_qresearch_2809998"
+    ]
+  },
+  {
+    "number": 2809998,
+    "timestamp": 1535681368,
+    "threadId": 2809843,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "709118",
+    "name": "Anonymous",
+    "text": ">>2809946\n>>2809954\n>>2809955\n>>2809980\nyup, DDOS, 502s, and captcha\nwith means <strong>OVER THE TARGET</strong>\n>>2809985\nkek\n",
+    "references": [
+      "8chan_qresearch_2809946",
+      "8chan_qresearch_2809954",
+      "8chan_qresearch_2809955",
+      "8chan_qresearch_2809980",
+      "8chan_qresearch_2809985"
+    ]
   }
 ]

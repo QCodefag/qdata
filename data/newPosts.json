@@ -14971,5 +14971,50 @@
     "references": [
       "8chan_qresearch_2827163"
     ]
+  },
+  {
+    "number": 2827819,
+    "timestamp": 1535775188,
+    "threadId": 2827603,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "fe6c79",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2827754\nPast drops important to frame context.\nThese people need to ALL be ELIMINATED.\nThose who know cannot sleep.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/a381c585625ce8a7f5032265cfca605b74fe694a733e503608db2f9575e1ed66.jpg",
+        "filename": "Dl-tFGUU0AAhaw6.jpg"
+      },
+      {
+        "url": "https://media.8ch.net/file_store/fa91a0d3575260efa4c18325e01cf73da8075971497dd748512b1b70d0abf39e.jpg",
+        "filename": "Dl-tFGVUUAAY2D1.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2827754"
+    ]
+  },
+  {
+    "number": 2827754,
+    "timestamp": 1535774952,
+    "threadId": 2827603,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0c7e64",
+    "name": "Anonymous",
+    "text": ">>2827690\n>>2827739\nreread these crumbs (or the graphic)\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/a8e3c936ee08af3b52b663c800311a72f4d226d0dfafbdd611bda2531c97a9df.png",
+        "filename": "A&Wsidebyside.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2827690",
+      "8chan_qresearch_2827739"
+    ]
   }
 ]

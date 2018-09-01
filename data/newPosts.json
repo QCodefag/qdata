@@ -14905,5 +14905,38 @@
         "filename": "Dl99cqTWsAAKpSx.jpg"
       }
     ]
+  },
+  {
+    "number": 2826607,
+    "timestamp": 1535770705,
+    "threadId": 2826074,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7d70d6",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2826578\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c246d4c084e039e310d5a5d8e493845e02bffe008765857a0b2eac689eab4ed9.jpg",
+        "filename": "Dl99cWsXsAAzetK.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2826578"
+    ]
+  },
+  {
+    "number": 2826687,
+    "timestamp": 1535770966,
+    "threadId": 2826074,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7d70d6",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": "https:<em>//</em>twitter.com/realDonaldTrump/status/1035717747936768000\nDo you believe in coincidences? \nEnjoy the show.\nQ\n"
   }
 ]

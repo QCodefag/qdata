@@ -15196,5 +15196,67 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "https:<em>//</em>www.youtube.com/watch?v=G02wKufX3nw\nPlayed by 'Operation Specialists' [pre-event] last night.\nQ\n"
+  },
+  {
+    "number": 2848924,
+    "timestamp": 1535919897,
+    "threadId": 2848345,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "04b60a",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2848894\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/785ad5d9f450bcdc5f934783f8c73e022c114e62f0005de78370e49838fd02e8.jpg",
+        "filename": "ST6.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2848894"
+    ]
+  },
+  {
+    "number": 2848991,
+    "timestamp": 1535920058,
+    "threadId": 2848345,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "04b60a",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2848974\n",
+    "references": [
+      "8chan_qresearch_2848974"
+    ]
+  },
+  {
+    "number": 2848894,
+    "timestamp": 1535919797,
+    "threadId": 2848345,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "eafdab",
+    "name": "Anonymous",
+    "text": "\n\n>>2848806\nwhy did I get extreme goosebumps while listening to this??\n",
+    "references": [
+      "8chan_qresearch_2848806"
+    ]
+  },
+  {
+    "number": 2848974,
+    "timestamp": 1535920026,
+    "threadId": 2848345,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e15d7a",
+    "name": "Anonymous",
+    "text": ">>2848806\nYa'll notice the triangle and the all seeing eye in the middle of that sword in the \"Magic Sword\" youtube song right?!\n",
+    "references": [
+      "8chan_qresearch_2848806"
+    ]
   }
 ]

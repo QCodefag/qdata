@@ -15603,5 +15603,33 @@
         "filename": "FISA[20].jpg"
       }
     ]
+  },
+  {
+    "number": 2881670,
+    "timestamp": 1536115648,
+    "threadId": 2880919,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "abc4d0",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2881180\nWhat are the odds of that?\nThey never thought she would lose.\nQ\n",
+    "references": [
+      "8chan_qresearch_2881180"
+    ]
+  },
+  {
+    "number": 2881180,
+    "timestamp": 1536113751,
+    "threadId": 2880919,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a45369",
+    "name": "Anonymous",
+    "text": ">>2881001\n17 yard line!?!\n",
+    "references": [
+      "8chan_qresearch_2881001"
+    ]
   }
 ]

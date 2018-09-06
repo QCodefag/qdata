@@ -15871,5 +15871,36 @@
         "filename": "DjeMN2AVAAEthTQ.jpg"
       }
     ]
+  },
+  {
+    "number": 2908527,
+    "timestamp": 1536271917,
+    "threadId": 2907863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "99d653",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2908303\nThere is a lot more to this than you realize.\nThink 'collective' attacks v. 'Q'\nQ\n",
+    "references": [
+      "8chan_qresearch_2908303"
+    ]
+  },
+  {
+    "number": 2908303,
+    "timestamp": 1536270934,
+    "threadId": 2907863,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8f374e",
+    "name": "Anonymous",
+    "text": "\nBREAKING: Twitter Bans Alex Jones Permanently After Ambush on Jack Dorse\nhttps:<em>//</em>www.thegatewaypundit.com/2018/09/breaking-twitter-bans-alex-jones-for-ambush-on-jack-dorsey/\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/7a3074ab5aa1e0f424771929de65252b3f33e587c13172aeddc378b0ad983acd.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
   }
 ]

@@ -16257,5 +16257,45 @@
         "filename": "FREEDOM.jpg"
       }
     ]
+  },
+  {
+    "number": 2947825,
+    "timestamp": 1536519088,
+    "threadId": 2947259,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ff4ecd",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2947705\n",
+    "references": [
+      "8chan_qresearch_2947705"
+    ]
+  },
+  {
+    "number": 2947850,
+    "timestamp": 1536519162,
+    "threadId": 2947259,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ff4ecd",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2947825\nhttps:<em>//</em>twitter.com/Thomas_Drake1/status/1038587419019419648\nhttps:<em>//</em>twitter.com/Thomas_Drake1/status/1038663989251776512\nKnowledge is POWER.\nQ\n",
+    "references": [
+      "8chan_qresearch_2947825"
+    ]
+  },
+  {
+    "number": 2947705,
+    "timestamp": 1536518519,
+    "threadId": 2947259,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7778e7",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">New shill tactic is to smear Sean Hannity</span>\n\nJust so everyone understands, Q has directly told us to watch Hannity. Q also links us to Sara Carter, who is literally on Hannity every single night. \n\nHannity is a patriot.\n"
   }
 ]

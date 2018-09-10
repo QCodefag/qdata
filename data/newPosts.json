@@ -16405,5 +16405,22 @@
     "references": [
       "8chan_qresearch_2950820"
     ]
+  },
+  {
+    "number": 205,
+    "timestamp": 1536597566,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/aee4661acc10aada8beaae1a0d80473a8dce98e1778a8f194888ae1e133ab805.jpg",
+        "filename": "YVC2018.jpg"
+      }
+    ]
   }
 ]

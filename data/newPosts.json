@@ -16687,5 +16687,53 @@
     "references": [
       "8chan_qresearch_2964247"
     ]
+  },
+  {
+    "number": 2964443,
+    "timestamp": 1536616994,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "483f8c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2964345\nWe, thank you.\n>>2964367\nShills only shill.\nPatriots WIN.\nQ\n",
+    "references": [
+      "8chan_qresearch_2964345",
+      "8chan_qresearch_2964367"
+    ]
+  },
+  {
+    "number": 2964345,
+    "timestamp": 1536616665,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c89925",
+    "name": "Anonymous",
+    "text": ">>2964247\nThat's a perfect proof guys, request, heard, delivered, no coincidences, Thanks for doing that Q\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c16d0223fe8c09b99b1b3a43ee860df16823f4852b72b0e45cab2cbbf2eecb86.png",
+        "filename": "Gwins5.PNG"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2964247"
+    ]
+  },
+  {
+    "number": 2964367,
+    "timestamp": 1536616733,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "077716",
+    "name": "Anonymous",
+    "text": ">>2964247\nAnyone that complained about a 10 sec Delta would have complained about a 10 millisecond Delta.\nObvious answer was lag.\nThanQ\nWWG1WGA\n",
+    "references": [
+      "8chan_qresearch_2964247"
+    ]
   }
 ]

@@ -16498,5 +16498,30 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": ">>2962342\n"
+  },
+  {
+    "number": 2962894,
+    "timestamp": 1536611567,
+    "threadId": 2962463,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "28a606",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2962827\n",
+    "references": [
+      "8chan_qresearch_2962827"
+    ]
+  },
+  {
+    "number": 2962827,
+    "timestamp": 1536611353,
+    "threadId": 2962463,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0bd9b8",
+    "name": "Anonymous",
+    "text": "Buckle up, buttercups - it's about to get bumpy!\n\no7\n"
   }
 ]

@@ -16613,5 +16613,51 @@
     "references": [
       "8chan_qresearch_2963528"
     ]
+  },
+  {
+    "number": 2964129,
+    "timestamp": 1536616013,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "483f8c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2964015\nGraphics showing [2] time zones.\nUpdate requested.\n[0:00] \nQ\n"
+  },
+  {
+    "number": 2964247,
+    "timestamp": 1536616393,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "483f8c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2964144\nANONS CATCH IT ALL!\n[2] devices used.\n[1] Carrier.\nPushed [exactly] at same time.\n[0:10 sec variance]\nDevice lag or feeder site delay.\nRequest fulfilled.\nQ\n",
+    "references": [
+      "8chan_qresearch_2964144"
+    ]
+  },
+  {
+    "number": 2964144,
+    "timestamp": 1536616067,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3dcb82",
+    "name": "Anonymous",
+    "text": ">>2964129\ngotcha Q\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c5cde78163af92b50c0cc1523eacf186793ecf0478d4ddbd6d6c516c9178bec1.png",
+        "filename": "0delta.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2964129"
+    ]
   }
 ]

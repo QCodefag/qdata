@@ -16735,5 +16735,42 @@
     "references": [
       "8chan_qresearch_2964247"
     ]
+  },
+  {
+    "number": 2964511,
+    "timestamp": 1536617157,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "483f8c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>2964423\n",
+    "references": [
+      "8chan_qresearch_2964423"
+    ]
+  },
+  {
+    "number": 2964423,
+    "timestamp": 1536616895,
+    "threadId": 2963984,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3dcb82",
+    "name": "Anonymous",
+    "text": ">>2964306\n>>2964247\n>>2964303\n>>2964343\n<span class=\"heading\">updated to show the anon's post</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/c8dbe66433897f8708fa4ddfbcff4acc7e5d62164c7f0386ac5a114a6686ebd3.png",
+        "filename": "0deltaX.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_2964306",
+      "8chan_qresearch_2964247",
+      "8chan_qresearch_2964303",
+      "8chan_qresearch_2964343"
+    ]
   }
 ]

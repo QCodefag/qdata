@@ -17277,5 +17277,36 @@
     "references": [
       "8chan_patriotsfight_242"
     ]
+  },
+  {
+    "number": 3045911,
+    "timestamp": 1537117718,
+    "threadId": 3045620,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5db43b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3045858\n+Content match re: Nunes interview\nIt will become even more apparent going forward.\nQ\n",
+    "references": [
+      "8chan_qresearch_3045858"
+    ]
+  },
+  {
+    "number": 3045858,
+    "timestamp": 1537117307,
+    "threadId": 3045620,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "874c2b",
+    "name": "Anonymous",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/0d7c6ee05f55590ec6a1db43c516ce024457ab77d395789f993bffe1a998051f.png",
+        "filename": "1delta.png"
+      }
+    ]
   }
 ]

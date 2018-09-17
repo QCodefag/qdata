@@ -17457,5 +17457,40 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "https://twitter.com/LisaMei62/status/1041800195539984385\nAt what point does it become mathematically impossible?\nQ\n"
+  },
+  {
+    "number": 3061924,
+    "timestamp": 1537221933,
+    "threadId": 3061506,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cd97e7",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3061810\nYou are learning.\nWe will not fail you.\nQ\n",
+    "references": [
+      "8chan_qresearch_3061810"
+    ]
+  },
+  {
+    "number": 3061810,
+    "timestamp": 1537221609,
+    "threadId": 3061506,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "0ea0cd",
+    "name": "Anonymous",
+    "text": ">>3061704\n>>3061777\n+\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/1c8748c309d15d2c367523c1c335a0b27e195ea61e6ffd18af0b714590f899bb.png",
+        "filename": "emmy.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3061704",
+      "8chan_qresearch_3061777"
+    ]
   }
 ]

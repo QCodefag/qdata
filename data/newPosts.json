@@ -17520,5 +17520,36 @@
         "filename": "PAIN.png"
       }
     ]
+  },
+  {
+    "number": 3062616,
+    "timestamp": 1537224092,
+    "threadId": 3062339,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "71fe04",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3062563\nhttps:<em>//</em>twitter.com/MyPen_3Stacks/status/1041696968802750464\nDo you believe in coincidences?\nQ\n",
+    "references": [
+      "8chan_qresearch_3062563"
+    ]
+  },
+  {
+    "number": 3062563,
+    "timestamp": 1537223918,
+    "threadId": 3062339,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "5e9750",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">THIS IS IT LADS!!!</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/75649039de8a1d72a30291aebc8c0c7a90f55bf62edb407fc4bc75eafdafa1f4.jpg",
+        "filename": "let me see your war face.jpg"
+      }
+    ]
   }
 ]

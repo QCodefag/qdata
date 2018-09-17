@@ -17492,5 +17492,33 @@
       "8chan_qresearch_3061704",
       "8chan_qresearch_3061777"
     ]
+  },
+  {
+    "number": 247,
+    "timestamp": 1537223465,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": "https://twitter.com/WhiteHouse/status/1041815160833404930\nWWG1WGA!\nQ\n"
+  },
+  {
+    "number": 248,
+    "timestamp": 1537223648,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": "\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/2c7bdab59f3fa9b802a0eb1aaf0efec8625aec237fca93e6a4fdadd01d1f0287.png",
+        "filename": "PAIN.png"
+      }
+    ]
   }
 ]

@@ -18224,5 +18224,33 @@
     "references": [
       "8chan_qresearch_3106650"
     ]
+  },
+  {
+    "number": 3107082,
+    "timestamp": 1537466565,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a1469b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3106936\nImagine the frustration if we weren't here communicating w/ you.\nYou are many tens of millions strong (Q).\nLet your VOICES BE HEARD.\nInformation is meant to be FREE.\nPOWER TO THE PEOPLE.\nQ\n",
+    "references": [
+      "8chan_qresearch_3106936"
+    ]
+  },
+  {
+    "number": 3106936,
+    "timestamp": 1537466168,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "39636e",
+    "name": "Anonymous",
+    "text": ">>3106858\n\nTo keep the will of the people on  your side in the face of incessant gaslighting by the MSM.\n\nWe are with you, but it can be very frustrating on this side of the curtain.\nVisibility helps.\n",
+    "references": [
+      "8chan_qresearch_3106858"
+    ]
   }
 ]

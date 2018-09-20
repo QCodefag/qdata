@@ -18075,5 +18075,39 @@
     "references": [
       "8chan_qresearch_3106563"
     ]
+  },
+  {
+    "number": 3106676,
+    "timestamp": 1537465614,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a1469b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3106656\nImpressive, Anon.\nQ\n",
+    "references": [
+      "8chan_qresearch_3106656"
+    ]
+  },
+  {
+    "number": 3106656,
+    "timestamp": 1537465534,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3ce42f",
+    "name": "Anonymous",
+    "text": ">>3106585\nALSO A CORRELATION IN THE AMOUNT OF POSTS\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b1d0c1dc879467e3d06dc92b86cf94be26b1b771e915ed333fcee1b0ef0420aa.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3106585"
+    ]
   }
 ]

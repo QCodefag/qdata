@@ -18047,5 +18047,33 @@
     "references": [
       "8chan_patriotsfight_221"
     ]
+  },
+  {
+    "number": 3106585,
+    "timestamp": 1537465302,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a1469b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3106571\nLess than (1). \nEver wonder how that's possible?https:<em>//</em>twitter.com/realDonaldTrump/status/1042828275121369088\nQ\n",
+    "references": [
+      "8chan_qresearch_3106571"
+    ]
+  },
+  {
+    "number": 3106571,
+    "timestamp": 1537465238,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "34e074",
+    "name": "Anonymous",
+    "text": ">>3106563\n10 minute delta.\n",
+    "references": [
+      "8chan_qresearch_3106563"
+    ]
   }
 ]

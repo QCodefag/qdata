@@ -18252,5 +18252,39 @@
     "references": [
       "8chan_qresearch_3106858"
     ]
+  },
+  {
+    "number": 3107301,
+    "timestamp": 1537467168,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a1469b",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3107152\nWe thank him for his service to this country.\nMay GOD watch over him always.\nGod bless, Patriot.\nWWG1WGA!\nQ\n",
+    "references": [
+      "8chan_qresearch_3107152"
+    ]
+  },
+  {
+    "number": 3107152,
+    "timestamp": 1537466736,
+    "threadId": 3106490,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "4935bc",
+    "name": "Anonymous",
+    "text": ">>3107082\nQ our son shipping USMC Recruit Training SD soon.   Proud for him to serve!\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/0e53b2281d16c5f6ce04ba4fdaddd7b47a468e56a1159db6655b859a70f9e72e.jpeg",
+        "filename": "CD13D5B9-9F0B-4D2D-820E-8….jpeg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3107082"
+    ]
   }
 ]

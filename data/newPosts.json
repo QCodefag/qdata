@@ -17997,6 +17997,21 @@
     ]
   },
   {
+    "number": 3095226,
+    "timestamp": 1537405434,
+    "threadId": 3094196,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "922952",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3094846\n412,000 now.\nQ\n",
+    "references": [
+      "8chan_qresearch_3094846"
+    ]
+  },
+  {
     "number": 3094804,
     "timestamp": 1537404334,
     "threadId": 3094196,
@@ -18005,5 +18020,18 @@
     "userId": "a16b71",
     "name": "Anonymous",
     "text": "Q,\n\nDid NASA fake the moon landings?  Have we been to the moon since then?  Are there secret space programs?  Is this why the Space Force was created?\n"
+  },
+  {
+    "number": 3094846,
+    "timestamp": 1537404424,
+    "threadId": 3094196,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b711f0",
+    "name": "Anonymous",
+    "text": ">>3094512\n>we're DEF being attack'd\nNo, we are ddosing ourselves with over 330,000 IPs\n",
+    "references": [
+      "8chan_qresearch_3094512"
+    ]
   }
 ]

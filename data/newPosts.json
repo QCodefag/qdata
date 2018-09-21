@@ -18756,5 +18756,36 @@
         "filename": "X-Factor.png"
       }
     ]
+  },
+  {
+    "number": 3128926,
+    "timestamp": 1537572610,
+    "threadId": 3128342,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "cbe23c",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3128846\n[McCabe] leak memos to NYT re: [RR]?\nSound familiar? \nThink [Comey] memos.\nQ\n",
+    "references": [
+      "8chan_qresearch_3128846"
+    ]
+  },
+  {
+    "number": 3128846,
+    "timestamp": 1537572395,
+    "threadId": 3128342,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "6d85b3",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">HAHAHAHAHAHAHA NO HONOR AMONG THIEVES</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/f8606424195097a2bcb2f07da42fb612c3a6029e97eb22fc34fd255199bc10e1.png",
+        "filename": "Capture23.PNG"
+      }
+    ]
   }
 ]

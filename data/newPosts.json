@@ -18522,5 +18522,36 @@
         "filename": "Dh9Sm6qVMAAnITj.jpg"
       }
     ]
+  },
+  {
+    "number": 3121268,
+    "timestamp": 1537543368,
+    "threadId": 3120622,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a98bbb",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3121219\nImportant graphic.\nHow do you catch a FISH?\nUse BAIT?\nImagine the information being shared NOW out of FEAR.\nQ\n",
+    "references": [
+      "8chan_qresearch_3121219"
+    ]
+  },
+  {
+    "number": 3121219,
+    "timestamp": 1537543129,
+    "threadId": 3120622,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7d93f4",
+    "name": "Anonymous",
+    "text": "new q\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/b834d83b6ea5335a2c576258414ce748973fec0cacd66936b4082c2ebe8a9b13.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
   }
 ]

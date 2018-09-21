@@ -18400,5 +18400,19 @@
     "userId": "2adeed",
     "name": "Anonymous",
     "text": "<span class=\"heading\">Watch Trump Live</span>\n"
+  },
+  {
+    "number": 275,
+    "timestamp": 1537497732,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>274\nhttps://twitter.com/306Deplorables/status/1042965260544733186\nQ\n",
+    "references": [
+      "8chan_patriotsfight_274"
+    ]
   }
 ]

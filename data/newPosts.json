@@ -19168,5 +19168,42 @@
     "references": [
       "8chan_qresearch_3224714"
     ]
+  },
+  {
+    "number": 3224970,
+    "timestamp": 1538107559,
+    "threadId": 3224265,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "afc7a5",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3224849\nReady when you are.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/d68af81dc13a7e755fd923a247641554440d0923e409bcfd5753617a5ac6d775.jpg",
+        "filename": "DgMo1S1XcAAehBo.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3224849"
+    ]
+  },
+  {
+    "number": 3224849,
+    "timestamp": 1538107307,
+    "threadId": 3224265,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "3020f3",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">YOU'VE BEEN WARNED</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/6fda9b63ae12c63a2c982897cf41cdc96ad1c7bcb5bc618d2b010cd681bec9d2.png",
+        "filename": "1538107005069.png"
+      }
+    ]
   }
 ]

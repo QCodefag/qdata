@@ -19543,5 +19543,39 @@
     "userId": "08efce",
     "name": "Anonymous",
     "text": "What time is the rally in TN tonight (Eastern Time)?\n"
+  },
+  {
+    "number": 3284797,
+    "timestamp": 1538435425,
+    "threadId": 3284616,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30c700",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3284775\n",
+    "references": [
+      "8chan_qresearch_3284775"
+    ]
+  },
+  {
+    "number": 3284775,
+    "timestamp": 1538435352,
+    "threadId": 3284616,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a2236f",
+    "name": "Anonymous",
+    "text": ">>3284749\nQ is saying that Trump normally tweets when he is going. Today he didn't. Today Q POSTED WHERE HE IS GOING.\n>pic related\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/ab4562e87d2918e6de45a3a74a053c640d7f1badfa819c40e16aa1a06627ea66.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3284749"
+    ]
   }
 ]

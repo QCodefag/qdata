@@ -19518,5 +19518,30 @@
     "name": "Q",
     "trip": "!!mG7VJxZNCI",
     "text": "https://www.youtube.com/watch?v=DWYrcnehito\nQ+\n"
+  },
+  {
+    "number": 3284672,
+    "timestamp": 1538434977,
+    "threadId": 3283828,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "57e2e1",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3283955\nDoes POTUS normally Tweet \"Heading to X\" prior to a rally?\nToday, for the 1st time, we IDEN where we would be. \nReconcile.\nQ\n",
+    "references": [
+      "8chan_qresearch_3283955"
+    ]
+  },
+  {
+    "number": 3283955,
+    "timestamp": 1538431579,
+    "threadId": 3283828,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "08efce",
+    "name": "Anonymous",
+    "text": "What time is the rally in TN tonight (Eastern Time)?\n"
   }
 ]

@@ -19577,5 +19577,73 @@
     "references": [
       "8chan_qresearch_3284749"
     ]
+  },
+  {
+    "number": 3285147,
+    "timestamp": 1538436305,
+    "threadId": 3284616,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30c700",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3284952\n",
+    "references": [
+      "8chan_qresearch_3284952"
+    ]
+  },
+  {
+    "number": 3285210,
+    "timestamp": 1538436444,
+    "threadId": 3284616,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "30c700",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3285173\nGod bless you, Patriot.\nQ\n",
+    "references": [
+      "8chan_qresearch_3285173"
+    ]
+  },
+  {
+    "number": 3284952,
+    "timestamp": 1538435823,
+    "threadId": 3284616,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "65d895",
+    "name": "Anonymous",
+    "text": ">>3284797\nsolid confirmation of POTUS on Q team\n5:5\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/76f7d219fab306972051b10f418e7697e547478efe1a2a0ae82dc414760c6eb0.png",
+        "filename": "ClipboardImage.png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3284797"
+    ]
+  },
+  {
+    "number": 3285173,
+    "timestamp": 1538436364,
+    "threadId": 3284616,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8fa186",
+    "name": "Anonymous",
+    "text": ">>3285147\n<span class=\"heading\">THANK YOU Q</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/2f5f3f1584ef1c983ba121f32a87878a4e44bc265b58b9380de9fee1e9936825.png",
+        "filename": "flaga7ffb193423f0a5573ceee….png"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3285147"
+    ]
   }
 ]

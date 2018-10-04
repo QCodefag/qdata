@@ -20008,5 +20008,47 @@
     "references": [
       "8chan_patriotsfight_330"
     ]
+  },
+  {
+    "number": 3331903,
+    "timestamp": 1538680848,
+    "threadId": 3331302,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "8b7afd",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3331878\nDid we hit [0:00]?\nWe do try.\nQ\n",
+    "references": [
+      "8chan_qresearch_3331878"
+    ]
+  },
+  {
+    "number": 3331878,
+    "timestamp": 1538680752,
+    "threadId": 3331302,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2db335",
+    "name": "Anonymous",
+    "text": "new potus tweet with this\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/303bab70f061af613d0f671b4b80be4c3ec0d8995ce444664df2fd1b58d6ee00.png",
+        "filename": "ClipboardImage.png"
+      }
+    ]
+  },
+  {
+    "number": 332,
+    "timestamp": 1538680671,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": "https://thehill.com/blogs/blog-briefing-room/news/409961-russian-deputy-ag-linked-to-lawyer-in-trump-tower-meeting\nNothing to See Here…\nD5.\nRED OCTOBER.\nQ\n"
   }
 ]

@@ -20256,5 +20256,25 @@
         "filename": "REDOCTOBER2.jpg"
       }
     ]
+  },
+  {
+    "number": 344,
+    "timestamp": 1538776146,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>343\nhttps://twitter.com/CNNPolitics/status/1048324715469783040\nAnd so it begins..\nHow do you start a WAR?\n[Markers] matter.\nPlaybook [FAIL].\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/a8c42a6f47e6dfde30b9e064a4b4fc6debb3a9ec16ba4d501e951bcc9ef8a9b5.jpg",
+        "filename": "DVx_4xgVoAAYvkH.jpg"
+      }
+    ],
+    "references": [
+      "8chan_patriotsfight_343"
+    ]
   }
 ]

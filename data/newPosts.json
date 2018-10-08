@@ -20635,5 +20635,36 @@
         "filename": "DpAd_R_W4AEJntk.jpg-large.jpg"
       }
     ]
+  },
+  {
+    "number": 3398484,
+    "timestamp": 1539035114,
+    "threadId": 3398186,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "2f96e5",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3398290\nCourt order to preserve ALL data sent to GOOG?\nThink GOOG+ / Gmail / etc.\nComms Cleanup?\nThe More You Know…\nQ\n",
+    "references": [
+      "8chan_qresearch_3398290"
+    ]
+  },
+  {
+    "number": 3398290,
+    "timestamp": 1539034136,
+    "threadId": 3398186,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "a19c72",
+    "name": "Anonymous",
+    "text": "https:<em>//</em>www.breitbart.com/tech/2018/10/08/report-google-hid-user-data-breach-from-public-out-of-fear-congress-would-take-action/\n<span class=\"heading\">Report: Google Hid User Data Breach from Public out of Fear Congress Would Take Action</span>\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/ee8a8a3ee0d47f11eeb9a2b0736be00a2697894d0885204335eb38acdcf4360a.png",
+        "filename": "AQ5.PNG"
+      }
+    ]
   }
 ]

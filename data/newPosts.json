@@ -20816,5 +20816,39 @@
         "filename": "DrAFyY4W4AIAA7m.jpg-large.jpg"
       }
     ]
+  },
+  {
+    "number": 3701131,
+    "timestamp": 1541182071,
+    "threadId": 3700905,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "9a640e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3701031\nThere is a reason why we encourage 'Memes' so much.\nThere is a reason why we came here to drop.\nThere is a reason why they are all working overtime to build code to censor and defend against 'Memes.'\nRe_read drops re: Memes\nAll just a coincidence?\nDirected @ 'Q'\nFire when ready.\nQ\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/ce2b44c4b8f4a3bbe65e405704bd8d591ef5afa102246ec99a01a0ae41c740bb.jpg",
+        "filename": "DnZ6uMJU4AAncgu.jpg"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3701031"
+    ]
+  },
+  {
+    "number": 3701031,
+    "timestamp": 1541181603,
+    "threadId": 3700905,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "b828ae",
+    "name": "Anonymous",
+    "text": ">>3701017\nBecause memes go around his censorship algorithms\n",
+    "references": [
+      "8chan_qresearch_3701017"
+    ]
   }
 ]

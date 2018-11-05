@@ -21297,5 +21297,44 @@
         "filename": "trumpdoublepointatq.mp4"
       }
     ]
+  },
+  {
+    "number": 3745821,
+    "timestamp": 1541459338,
+    "threadId": 3745497,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "c48bee",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3745801\nTrolling the FAKE NEWS media is FUN!\nQ\n",
+    "references": [
+      "8chan_qresearch_3745801"
+    ]
+  },
+  {
+    "number": 3745801,
+    "timestamp": 1541459271,
+    "threadId": 3745497,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "7cea64",
+    "name": "Anonymous",
+    "text": ">>3745763\n\nYep!\nAIR Q DELIVERY!\n\nKEK!\n",
+    "references": [
+      "8chan_qresearch_3745763"
+    ]
+  },
+  {
+    "number": 410,
+    "timestamp": 1541459065,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": "https://twitter.com/cubicinch400/status/1059569316062994435\nDo you 'AIR Q'?\nQ\n"
   }
 ]

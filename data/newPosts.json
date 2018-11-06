@@ -21493,5 +21493,39 @@
     "userId": "03438c",
     "name": "Anonymous",
     "text": "Q, may God bless us all today.\n"
+  },
+  {
+    "number": 3754220,
+    "timestamp": 1541488601,
+    "threadId": 3753851,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "47eb2e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3754138\nWe put the spotlight on him for this very reason.\nHe has no choice now but to remain in the light.\nThis is not a game.\nQ\n",
+    "references": [
+      "8chan_qresearch_3754138"
+    ]
+  },
+  {
+    "number": 3754138,
+    "timestamp": 1541488235,
+    "threadId": 3753851,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "e54808",
+    "name": "Anonymous",
+    "text": ">>3754030\nThe death threats and slander have begun. That can only mean one thing: declassification of FISA abuse, and the exposure of the attempt by Australia and the U.K. to sabotage Trump is near.\ntwitter.com/GeorgePapa19/status/1059704187255062528\n",
+    "images": [
+      {
+        "url": "https://media.8ch.net/file_store/5d6c009be656fbb1f94f9e584018b14eb7033ecaeb1488f11b93c1f11931f0aa.png",
+        "filename": "PapaD 11-5-18 11 09 pm PST.PNG"
+      }
+    ],
+    "references": [
+      "8chan_qresearch_3754030"
+    ]
   }
 ]

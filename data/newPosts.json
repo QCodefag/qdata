@@ -21527,5 +21527,33 @@
     "references": [
       "8chan_qresearch_3754030"
     ]
+  },
+  {
+    "number": 3754269,
+    "timestamp": 1541488783,
+    "threadId": 3753851,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "47eb2e",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>3754247\nThe world will follow.\nThink Merkel.\nQ\n",
+    "references": [
+      "8chan_qresearch_3754247"
+    ]
+  },
+  {
+    "number": 3754247,
+    "timestamp": 1541488706,
+    "threadId": 3753851,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "01ec3c",
+    "name": "Anonymous",
+    "text": ">>3754220\nOnce you take care of yours.. pls help Canada Q.\n",
+    "references": [
+      "8chan_qresearch_3754220"
+    ]
   }
 ]

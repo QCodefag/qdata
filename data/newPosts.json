@@ -21823,6 +21823,30 @@
     ]
   },
   {
+    "number": 3787701,
+    "timestamp": 1541625153,
+    "threadId": 3787369,
+    "board": "qresearch",
+    "site": "8chan",
+    "userId": "ab9951",
+    "name": "Anonymous",
+    "text": "<span class=\"heading\">A LOT OF 502s &amp; /PF/ FUCKERY</span>\n"
+  },
+  {
+    "number": 430,
+    "timestamp": 1541626212,
+    "threadId": 62,
+    "board": "patriotsfight",
+    "site": "8chan",
+    "isQ": true,
+    "name": "Q",
+    "trip": "!!mG7VJxZNCI",
+    "text": ">>428\nhttps://twitter.com/realDonaldTrump/status/1060256623439110146\nWhile we cannot telegraph everything, for reasons all can understand, we do try in our own way to inform loyal Anons &amp; Patriots.\nWhat are the odds \"thank you for your service\" was posted less than 1 hour prior to POTUS re: Sessions \"thank you for your service?\"\nDo you believe in coincidences?\nHow many coincidences before mathematically impossible? \nTHE SENATE WAS THE KEY.\nEnjoy the show!\nQ\n",
+    "references": [
+      "8chan_patriotsfight_428"
+    ]
+  },
+  {
     "number": 3788185,
     "timestamp": 1541626644,
     "threadId": 3787369,
@@ -21838,16 +21862,6 @@
     ]
   },
   {
-    "number": 3787701,
-    "timestamp": 1541625153,
-    "threadId": 3787369,
-    "board": "qresearch",
-    "site": "8chan",
-    "userId": "ab9951",
-    "name": "Anonymous",
-    "text": "<span class=\"heading\">A LOT OF 502s &amp; /PF/ FUCKERY</span>\n"
-  },
-  {
     "number": 3788121,
     "timestamp": 1541626498,
     "threadId": 3787369,
@@ -21861,20 +21875,6 @@
         "url": "https://media.8ch.net/file_store/1283e1b70de29d8205f36135aaf14e3871d159ce27f0f8cbc34bcd1123731dfd.jpeg",
         "filename": "959F6E7C-3334-4EB2-99C9-B….jpeg"
       }
-    ]
-  },
-  {
-    "number": 430,
-    "timestamp": 1541626212,
-    "threadId": 62,
-    "board": "patriotsfight",
-    "site": "8chan",
-    "isQ": true,
-    "name": "Q",
-    "trip": "!!mG7VJxZNCI",
-    "text": ">>428\nhttps://twitter.com/realDonaldTrump/status/1060256623439110146\nWhile we cannot telegraph everything, for reasons all can understand, we do try in our own way to inform loyal Anons &amp; Patriots.\nWhat are the odds \"thank you for your service\" was posted less than 1 hour prior to POTUS re: Sessions \"thank you for your service?\"\nDo you believe in coincidences?\nHow many coincidences before mathematically impossible? \nTHE SENATE WAS THE KEY.\nEnjoy the show!\nQ\n",
-    "references": [
-      "8chan_patriotsfight_428"
     ]
   }
 ]
